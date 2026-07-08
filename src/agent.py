@@ -122,15 +122,65 @@ def step_4_generate(question: str, context: str, tool_output: str, user_profile:
     Step 4: Send the retrieved context, tool output, and user profile to the LLM 
     to generate the final cited answer.
     """
-    pass
+    print(f"\\n[Step 4 - GENERATE] Synthesizing final answer...")
+    
+    profile_str = ""
+    if user_profile:
+        profile_str = f"User Profile Context:\\nJob: {user_profile.get('job_type')}\\nIncome Source: {user_profile.get('income_source')}\\n\\n"
+        
+    prompt = f"""You are TaxMate LK, an expert tax assistant for Sri Lankan freelancers.
+Answer the user's question using ONLY the provided Document Context and Tool Output.
+
+{profile_str}Document Context:
+{context}
+
+Tool Output (from pure Python calculator):
+{tool_output}
+
+User Question: {question}
+
+RULES (Follow strictly):
+1. Be helpful, clear, and professional.
+2. If the answer is not in the context, say "I cannot answer this based on the official IRD documents provided."
+3. If the tool output contains a calculation, present it clearly to the user.
+4. You MUST end your response with exactly two tags on new lines:
+   [Source: filename.txt] 
+   [Confidence: High/Medium/Low]
+"""
+
+    response = groq_client.chat.completions.create(
+        model="llama-3.1-8b-instant",
+        messages=[{"role": "system", "content": prompt}],
+        temperature=0.2, # Very low temperature so it sticks to the rules
+        max_tokens=800
+    )
+    
+    return response.choices[0].message.content.strip()
 
 
 def run_agent(question: str, user_profile: dict = None) -> str:
     """
     The main function that ties the 4 steps together.
     """
-    pass
+    category = step_1_classify(question)
+    context = step_2_retrieve(question)
+    tool_output = step_3_calculate(category, question)
+    final_answer = step_4_generate(question, context, tool_output, user_profile)
+    
+    return final_answer
 
 
 if __name__ == "__main__":
-    print("Agent pipeline skeleton initialized.")
+    print("="*50)
+    print("TaxMate LK Agent Pipeline Test")
+    print("="*50)
+    
+    test_q = "I am a photographer. Do I have to pay withholding tax from June 2026? If so, how much on a 150000 payment?"
+    
+    print(f"\\nTesting Query: {test_q}")
+    answer = run_agent(test_q)
+    
+    print("\\n" + "="*50)
+    print("FINAL ANSWER:")
+    print("="*50)
+    print(answer)

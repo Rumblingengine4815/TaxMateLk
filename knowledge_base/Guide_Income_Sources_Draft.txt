@@ -1,0 +1,2827 @@
+Guide
+to
+sources of income
+(Inland Revenue Act No 24 of 2017)
+Issued by the Inland Revenue Department
+
+Prelude
+This set of guides, which explains very briefly the main provisions of the Inland Revenue Act No
+24 of 2017 (the Act) which provide the Department’s view point of the legal provisions and
+guidance to the general public and the tax payers.
+t
+It is intended to issue a Manual of Income tax providing comprehensive information and further
+f
+clarifications once all the pending policy decisions are taken including amendments to the Act (if
+a
+any). Subject to that, the instructions, clarifications provided in this guide is applicable as the
+view point of the Department for the application of the Act.
+r
+D
+Ivan Dissanayake
+Commissioner General of Inland Revenue
+2
+
+Contents
+Contents
+1. Chapter 1 - Imposition of Income tax
+1.1 Imposition of tax
+1.2 Types of Persons and Special Industries
+2. Chapter 2 – Income tax base
+t
+2.1 Taxable Income
+f
+2.2 Assessable Income
+a
+2.3 Sources of Income
+2.4 General Rules
+3. Chapter 3 – Employment Irncome
+3.1 What is an employment
+D
+3.2 Gains and profits (section 5)
+3.3 Pre – and Post Employment receipts
+3.4 Basis of payment
+3.5 Treatment for retirement benefits
+3.6 Exemptions relevant to Employment Income
+3.7 Pay – As – You – Earn Scheme
+3.8 More than one Employment
+3.9 Employer’s Obligations
+4. Chapter 4 – Business Income
+4.1 what is Business Income
+4.2 Deciding facts of Business Income
+4.3 Gains and Profits of Business Income
+3
+
+4.4 Deductions
+4.5 Trading Stocks
+4.6 Research and Development
+4.7 Agricultural Start up Expenses
+4.8 Depreciation Allowances and Balancing Allowances
+4.9 Repair and improvements
+4.10 Losses
+t
+4.11 Other deductions in the Act
+f
+5. Chapter 5 - Capital allowances and balancing allowances
+5.1 Relevant Provisions a
+5.2 Capital Allowances
+5.3 Calculation of capital allowances
+r
+5.4 Balancing allowances
+D
+5.5 Basic Concepts
+5.6 Classifying the Depreciable Assets
+5.7 Special Cases
+5.8 Capital Allowances for intangible Assets
+5.9 The Circumstances of including Assessable Charges and Granting Balancing
+allowances
+6. Chapter 6 – Investment Income
+6.1 What is an Investment Income?
+6.2 Investment Receipts
+7. Chapter 7 – Capital Gains
+7.1 General Rules
+7.2 Special Rules
+4
+
+Chapter 1 -Imposition of Income tax
+1.1 Imposition of Income Tax
+Charging Provision
+The charging provision is found in Chapter I of the Act (specifically, s. 2(1)), and is the central
+provision from which the rest of the provisions considered as branches. Generally, income tax is
+payable on: (a) taxable income; and (b) final withholding payments.
+The distinction between taxable income and final withholding payments is important for two
+t
+reasons. First, taxable income and final withholding payments may be subject to different rates
+of tax. The relevant rates to be applied to taxable income and final withholding payments in
+f
+order to determine the income tax payable are set out in the First Schedule to the Act. Second, in
+computing the income tax payable by any person on taxable income for any year of assessment,
+such person is entitled to deduct tax creadits (including any foreign tax credits) allowed to the
+person for that year of assessment, s. 2(3). In contrast, tax credits may not be deducted against
+any amount withheld on a final withholding tax payment.
+r
+1.2 Types of Persons and Special Industries
+D
+1.2.1 Types of Persons
+Under the charging provision, income tax is payable by a person. A person is defined as an
+individual or an entity, and includes an executor, non-governmental organization and charitable
+institution (s. 195(1)). An entity means a company, partnership or trust, and therefore need not
+have separate legal personality. A consequence of the definition of person is that individual
+taxpayers are treated as separate taxable units. Chapter V of the Act sets out specific rules that
+govern each type of person.
+1.2.2 Special Industries
+In contrast to Chapter V of the Act (which provides special rules that apply to particular types of
+persons), Chapter VI of the Act provides special rules that are particular to certain types of
+activity without particular reference to the type of person conducting the activity. Division I
+cover petroleum operations, Division II covers financial institutions and insurance entities, and
+Division III covers non-governmental organizations and charitable institutions.
+5
+
+Chapter 2 - Income Tax Base
+2.1. Taxable Income (S.3)
+Taxable income of a person is defined in S.3 of the Act, which comprises of four heads of
+income sources assessable, namely:
+(a) assessable income from employment;
+(b) assessable income from business;
+(c) assessable income from investment; and
+(d) assessable income from other sources. t
+In arriving at taxable income of a year of assessmefnt of an individual or entity, the following
+deductions shall be made for:
+a
+- qualifying payments, and
+- reliefs
+(As per section 52 of the Act and ras provided in the Fifth Schedule)
+In addition, only an individual if falls under following categories is entitled to subtract the tax-
+D
+free threshold in arriving at the taxable income [as per subsections (2) and (3) of section 52]:
+- an individual who is resident in Sri Lanka for a year of assessment: the aggregate relief
+of Rs 500,000 which is referred to in the paragraph 2(a) of Fifth Schedule.
+- an individual who is non- resident in Sri Lanka for a year of assessment but is a citizen
+of Sri Lanka: the aggregate relief of Rs. 500,000 which is referred to in paragraph 2(a)
+of the Fifth Schedule.
+2.2. Assessable income (S.4)
+Section 4 clarifies the assessable income and the liability of both a resident person and the non-
+resident person for a year of assessment from an employment, business, investment or other
+source, which is equal to-
+(a) in the case of a resident person, the person's income from the employment, business,
+investment or other source for the year of assessment, irrespective of the income source,
+wherever the source arises (i.e. worldwide basis of taxation); and
+(b) in the case of a non-resident person, the person's income from the employment,
+business, investment or other source for the year of assessment, to the extent that the
+income arises in or derived from a source in Sri Lanka.
+6
+
+2.3. Sources of income
+2.3.1. Employment income (S.5)
+Calculation of an individual's gains and profits from employment for a year of assessment will be
+described in Chapter 3
+2.3.2. Business Income
+A person's income from a business for a year of assessment is the person's gains and profits from
+conducting the business for the year. For more information please refer chapter 4 of this guide.
+2.3.3 Investment Income (S.7)
+t
+A person's income from an investment for a year of assessment is the person's gains and profits
+from conducting the investment for the year. Please rfefer Chapter 5 for more details
+2.3.4 Other income a
+A person’s income from other sources for a year of assessment is the person’s gains and profits
+from any source of any kind, however does not include profits of a casual and non-recurring
+nature. r
+The following amounts should be excluded when calculating a person’s gains or profits from
+D
+investment.
+(a) exempt amounts and final withholding payments; and
+(b) amounts that are included in calculating the person’s income from an employment,
+business or investment.
+2.4. General Rules
+2.4.1. Concept of “Payments”
+The concept of "payment" in the interpretations S. 195 is the central feature in calculating the
+income tax base. For example, amounts to be included in calculating a person's income are
+typically described in terms of payments derived. The concept of payment is intended to
+encompass all manners in which one person may bestow value on another person.
+The "payment" means the conferring of value or a benefit in any form by one person on another
+person and includes –
+(a) the transfer by one person of an asset or money to another person or the transfer by
+another person of a liability to the one person;
+7
+
+(b) the creation by one person of an asset that on creation is owned by another person or the
+decrease by one person of a liability owed by another person;
+(c) the provision by one person of services to another person; and
+(d) the making available of an asset or money owned by one person for use by another
+person or the granting of use of such an asset or money to another person;
+Accordingly, paragraph (a) of the definition includes not only a transfer of money or an asset but
+also the transfer of a liability.
+Example 2.1
+t
+Mr. Perera owes Company Z RS. 100,000 payable in 1st year. Company Z is a wholly
+owned subsidiary of Company Y. In the normal course of his business, Mr. Perera
+f
+provides services to Company Y. Instead of paying Mr. Perera for these services,
+Company Y agrees to assume responsibility for Mr. Perera's debt to its subsidiary
+a
+Company Z. The effective transfer of the liability from Mr. Perera to Company Y is a
+payment from Company Y to Mr. Perera, which must be included in calculating Mr.
+Perera's income from his business.
+r
+Paragraph (b) of the definition includes bestowals of value similar to those in paragraph (a) but
+which, for technical legal reasons, may not amount to a transfer.
+D
+Example 2.2
+Mr. Silva is a lawyer who provides, in the ordinary course of his profession, legal
+services to Company Z. Company Z is the owner of an office block. Instead of paying
+Mr. Silva for his services in cash, Company Z grants Mr. Silva a lease of an office on
+favorable terms. The lease is not owned by Company Z before it is granted to Mr. Silva
+and so could not constitute a transfer of the lease. Nevertheless, the granting of the lease
+is a "payment" from Company Z to Mr. Silva within the meaning of paragraph (b) of the
+definition of the term in S. 195 and Mr. Silva must include its benefit (normally the
+market value of the lease) in calculating his income. Similarly, if Company Z was a
+construction company and had built an extension on Mr. Silva's home in return for his
+legal services, the benefit of the extension would be treated as a payment from Company
+Z to Mr. Silva.
+Example 2.3
+Mr. Sunil runs a grocery store. He borrowed Rs. 100,000 from Mrs. Priyanka. During a
+six-month period, Mrs. Priyanka buys Rs. 20,000 worth of groceries from Mr. Sunil.
+Instead of paying Mr. Sunil in cash, Mrs. Priyanka releases Rs. 20,000 of the debt owed
+by Mr. Sunil, (i.e. the loan amount due is Rs 100,00 and it is reduced to Rs 80,000 with
+this release). The release constitutes a payment of Rs 20,000 from Mrs. Priyanka to Mr.
+Sunil, which Mr. Sunil must include in calculating his income.
+8
+
+Paragraphs (c) and (d) of the definition similarly broaden the concept of payment to include
+services and use benefits.
+Example 2.4
+Mr. Jagath is an executive officer of Company Z. As part of his remuneration package,
+Company Z provides Mr. Jagath with the use of a car and the services of a driver and a
+gardener. Mr. Jagath must include these benefits, (i.e. the use of the car and the services),
+in calculating his income from employment. The benefits will be valued using the rules
+in S. 27.
+t
+2.4.2. Deciding factors of the source
+f
+2.4.2.1. Employment, Business or Investment
+a
+The taxable income of a person for a year of assessment is the total of that person’s assessable
+income for the year from "employment", "business", "investment" and "other sources". The
+terms "employment", "business" and "investment" are defined in S. 195. Generally, employment
+involves provision of labour for gain, investment involves holding assets for gain and business
+involves a combination of both. rAs the business is a combination there are difficulties in clearly
+defining the boundaries between employment and business on the one hand and business and
+investment on the other. Any income that does not fall neatly within the definition of
+D
+"employment", "business" and "investment" will fall into the residual category of "other
+sources", unless it constitutes "profits of a casual and non-recurring nature", S. 8.
+2.4.2.2. Employment or Business –
+It is important to properly classify a person as an employee or an independent contractor. The
+employee will derive income from employment from their activities whereas the contractor will
+derive income from business. The rules for calculating these types of income are different and,
+no deductions are permitted in calculating income from employment, section 10(1)(a) since,
+employees have few expenses, but an independent contractor providing services may have
+substantial expenses for which relief is granted.
+The definition of "business" in S. 195 specifically excludes "employment". Therefore, if an
+activity amounts to employment it cannot also be a business. The definition of "employment" in
+S. 195 essentially refers to the general law concept of employment. The definition also clarifies
+that managers of entities, individuals holding public office, and directors are employees. Past
+and prospective employment is also employment; as a result, amounts received either before or
+after employment are required to be included in income.
+The concept of "employment" is a developing area of law and causes particular difficulties in
+classifying the status of persons who are often called "consultants". It is important to properly
+classify a person as an employee or an independent contractor. The former will derive income
+from employment from their activities whereas the latter will derive income from business.
+9
+
+The rules for calculating these types of income are different and, in particular, no deductions are
+permitted in calculating income from employment (s. 10(a)(i)).
+This is an appropriate simple rule for employees, who typically have few expenses. An
+independent contractor providing services may have substantial expenses and as a result, these
+types of workers are not subject to the deduction prohibition and relief is granted.
+The distinction between employee and independent contractor (business) is also incorporated in
+Sri Lanka's growing network of double tax treaties.
+Most substantial employers have bylaws setting out employee rights. As a general rule, persons
+entitled to the usual rights set out in the bylaws are employees and the IRD requires them to be
+treated as such. But there will be borderline cases where further investigation into a person's
+status is required. Investigation is particularly required of persons who are expressed to have the
+rights set out in the bylaws but their working conditions are inconsistent with those of a typical
+t
+employee, e.g. they work few or very flexible hours or have the power to delegate their duties to
+a third party. Investigation is also required of those persons who do not have the rights set out in
+f
+the bylaws but their working conditions are substantially the same as a typical employee, e.g.
+they are engaged to perform services under the direction and control of another person.
+a
+In these borderline cases, the correct approach is to weigh a series of relevant factors to
+determine whether on balance a particular person is an employee or not. The factors to be
+considered are:
+r
+(a) How the work is done. Independent contractors are told what is required but not how to
+do it. Employees are subject to instructions as to not only what they are to do but how
+D
+they are to do it.
+(b) Whose materials and equipment are used. Independent contractors use their own
+equipment to perform the task and purchase the materials to complete the task.
+Employees are provided with equipment and materials.
+(c) Timing of Work. Independent contractors are told when a job must be completed but
+within this timeframe set their own hours (and these often do not coincide with those of
+normal employees). Employees are told when to work. These are typically set hours that
+are similar for other employees. The typical employee works fulltime.
+(d) Who Does the Work. Independent contractors may hire third parties to perform the
+work. Employees have no power to delegate.
+(e) Exclusivity. Independent contractors work for more than one client and often many.
+Employees typically have just one job.
+(f) Training. Independent contractors arrange and pay for their own training. Employers
+arrange and pay for the training of employees.
+(g) What is Paid For. Independent contractors are paid to produce a result for hours worked.
+Employees are paid to attend for a set time, typically by the week or month.
+10
+
+(h) Continuing Relationship. Independent contractors have a limited relationship with the
+contractor, typically determined by the scope of the task. Employees have a continuing
+relationship with their employer.
+(i) Calculation of Remuneration. Independent contractors take risk and derive varying
+returns. Typically, their expenses are not reimbursed and they have an opportunity for
+profit or loss.
+Employees have their proper business expenses reimbursed, their remuneration is a flat
+amount for time worked and there is no opportunity for additional profit or loss.
+No particular factor is determinative. In the vast majority of cases it will be obvious whether a
+person is an employee or not. The IRD is particularly interested in cases of high paid executives
+t
+who argue that they are not employees.
+f
+Example 2.5
+a
+Ms A is engaged by a manufacturing company to design a new software program to
+support their operations. Under the agreement, she is required to be in the company
+office every day until the work is completed. The company provides her with general
+instructions on how the wrork is to be performed and she meets with a supervisor once a
+week. She is not permitted to subcontract to the work to any other person. Ms A is paid
+a guaranteed weekly amount and will receive a bonus if the software is completed to the
+D
+company’s satisfaction within 3 months. The manufacturing company provides her with
+any materials she needs to complete the work.
+Ms A will be considered to be an employee. She is provided with guidance on how to
+complete the work; the company provides her with any materials she needs; she is not
+able to subcontract; she is paid weekly (although with a bonus on satisfactory
+completion), so there is no risk to her remuneration. Even though the agreement is not
+lengthy, the weight of the factors suggests that Ms A is an employee
+Example 2.6
+Mr. Perera is an Engineer providing consultancy services on constructions to company X.
+During the year of assessment 2018/2019, he engaged several constructions projects and
+derived income according the services he provided on the submission of various reports
+amounting to Rs. 5,000,000. He uses his own computers and equipment’s for these
+purposes. Moreover, it was revealed that he has provided same type of services to few
+other companies too.
+Here, the matter in dispute is whether the income derived by Mr. Perera from company X
+constitutes an employment income or business income for the year of assessment
+2018/2019.
+11
+
+Since Mr. Perara is doing his work independently by using his own equipment’s in his own time
+framework without limiting to one client and derived his income according to his service
+performance, he is not an employee of the Company X.
+As it has been decided that income derived by Mr. Perera for the year of assessment 2018/2019
+does not falls within the meaning of employment, it becomes his business income as per the
+concept of dominancy over the sources of income.
+2.4.2.3. Business or Investment
+t
+The definition of "business" in section 195(1) extends beyond the generic terms "trade",
+f
+"profession" and "vocation" in two respects. First it includes "isolated arrangement with a
+business character however short the duration of the arrangement". The second extension to the
+definition of "business" in section 195(a1) is that it includes a past business and a prospective
+business. So amounts derived or incurred either before or after a business must be accounted for
+in calculating income. This is explored further at 7.4.1 in the context of start-up costs and
+7.4.6.4 in the context of the disposal of depreciable assets.
+r
+Before applying the rules that assist in determining a taxpayer’s taxable income, the type of
+income earned must be characterized. This involves determining whether a person is engaged in
+D
+sufficient activity to constitute a "business". Two key distinctions to be made here are (1)
+whether the person is just passively holding assets such that they have an "investment" rather
+than a "business" or (2) whether the taxpayer is merely engaged in a hobby, which is an activity
+without a source.
+Dealing first with the distinction between business activities and investment, the definition of
+"investment" is very broad; the holding of any asset (except for an asset being the principal place
+of residence of an individual, subject to conditions) amounts to an investment if it is not a
+business. As stated above, a business is defined to include a "trade", must be understood
+according to its general meaning. As with employment, assessing whether a person is engaged
+in a trade involves the weighing of the factors that typically indicate such activity to determine
+whether on balance the person is conducting a trade:
+(a) What is Sold. If product sold produces no income of itself and cannot be used
+personally, this points to a trade. So, for example, the purchase of commercial quantities
+of a product that cannot be used personally would suggest a trade or at least an isolated
+transaction of a business character.
+(b) Length of Ownership. Trades often make money through buying and selling assets.
+Investment involves the holding of assets. Therefore, if an asset is held for a short period
+of time, this suggests a trade rather than an investment.
+(c) Repetition. Repetition of transactions suggests a trade.
+(d) Supplementary Work. Trades often process assets to turn them into saleable products.
+12
+
+(e) Motivation for Activity. Trades acquire assets or conclude contracts with the intention of
+making a profit. Trades do not acquire assets or engage in arrangements for personal
+reasons such as family support, education, housing etc.
+(f) Motivation for Sale. Trades typically sell assets for the same reason they acquire them,
+in order to make a profit. Other possible reasons for the sale of an asset should be
+considered such as changes in the market, changes in a work situation, family
+arrangements etc.
+No particular factor is determinative in itself. In the vast majority of cases it will be obvious
+whether a person is conducting a business or not. There will be borderline cases where the
+taxpayers must use these factors to determine whether they have a business or investment.
+t
+A typical example involves the holding of property for rent.
+f
+Example 2.7
+a
+Mr. Silva, who is resident in Sri Lanka, acquires an office building and the land of it is
+situated, during 1st year for Rs. 30,000,000. Mr. Silva's activities (passively renting out a
+property) do not fall within the definition of "business" in S.195, there is no "trade". Mr.
+Silva intends to hold the rproperty, which will produce an income of itself through the
+rent. Further, assuming that is Mr. Silva's only office building, there is no repetition. His
+activities do, however, clearly fall within the definition of "investment" in S.195. At the
+D
+end of 1st year Mr. Silva must calculate his income from the investment under S. 7.
+The situation would be different if Mr. Silva owned and rented out 5 office buildings and
+managed the properties by a manager and staff. Here the repetition and active
+engagement of Mr. Silva with the properties would be sufficient to constitute a business
+of property rental. So, at the end of 1st year Mr. Silva must calculate his income from the
+business under S. 6.
+Similar factors may be relevant in distinguishing business or investment income from hobby
+activities, which do not have a source. The primary factor in distinguishing income that is
+taxable from a non-taxed windfall is the taxpayer’s motivation for the activity. Traders acquire
+assets or conclude contracts with the intention of making a profit. This motivation can be
+distinguished from activities that are hobbies. Hobby activities are undertaken for personal
+reasons. Therefore, windfalls from hobby activities are usually non-recurring and casual, the
+taxpayer is not organized, the windfall is unexpected and unplanned, and there is no
+compensatory or market element to the activity.
+13
+
+Example 2.8.
+Ms A makes pottery for her personal enjoyment. Other than regularly attending at the
+market, she is not organized, she does not have a strategy to earn a profit, and she has no
+training in pottery making. Her activities are neither a business nor investment;
+therefore, she is not able to claim her losses from her crafting activities.
+As per the concept of dominancy, just as the definition of "employment" is dominant
+over the definition of "business", the definition of "business" is dominant over the
+definition of "investment". So, if an activity amounts to business it cannot also be an
+t
+investment.
+The definition of "investment" is very broad; the holfding of any asset (except for an asset being
+the principal place of residence of an individual, subject to conditions) amounts to an investment,
+if it is not a business. a
+Example:2.9
+Mr Anura is carrying out ra furniture shop. He purchased a showroom in order to expand
+his business. Currently, he does not need all the floor space but hopes to require it all in
+the near future. Mr Anura rented it out the excess floor space to a saloon.
+D
+Whether this rent falls under the income of business or investment?
+There is an effective connection between the rent and the business of Mr Anura because
+he derives this rent income in conducting the furniture shop. Hence, the rent should be
+included in calculating Mr Anura's income from his business.
+Example:2.10
+Mr Gamage runs a small Internet café and makes profits in excess of his operating capital
+needs. He puts some of the excess funds on deposit with a bank and derives interest from
+the deposit. Mr Gamage uses the remainder of the excess in purchasing a residential
+property. The balance part of the purchase price of the residential property is funded
+through a Bank loan. Mr Gamage rents out the residential property and pays the bank
+interest on the Bank loan.
+Neither the interest on the bank deposit nor the rent on the residential property received by Mr
+Gamage is effectively connected with his business. so, it does not constitute a business income.
+Example 2.11:
+Mr.Silva is an employee in a reputed firm and he rents out his own car to a company and
+earned rent income.
+His rent income falls within the meaning of investment {7 (2)(a)} but disposal gain of
+such car does not falls within the meaning of any sources of income. As it is neither
+investment assets nor business asset.
+14
+
+In determining whether an amount is from an investment or business, it should be identified the
+connection with those types of activity. So, if an amount is derived in the context of a business,
+it is treated as business income irrespective of whether such returns mentioned in s. 7. The
+s.6(2)(g) also emphasize this idea. That is, investment type returns that are "effectively
+connected" with a business are treated as business income.
+The "effectively connected" test is a question of nexus or association. There are varying degrees
+of connection and so it is not possible to state concrete rules in this area. Nevertheless, all that is
+required is an "effective" connection with a business and so a broad approach should be adopted.
+Just because a business has funds on deposit with a bank does not mean that the interest earned is
+not effectively connected with the business. The nexus might be broken where the funds are on
+fixed deposit for 3 years or more. In such a case it is still open to the taxpayer to show that there
+t
+is an effective connection between the business and the interest derived. (Ceylon Steel
+Corporation Limited v. Commissioner General of Inland Revenue).
+f
+Prospective Business
+a
+What amounts to be included in a "prospective" business will be a question of fact and degree.
+The factors considered in determining whether a person conducts a "prospective" business are
+similar to those considered in determining whether a person conducts a business.
+These will include conducting arctivities on a business-like manner, with the type of activity,
+expected volume of trade and repetition all being considered. A profit motive is also usually a
+critical element in conducting a business but it is here that there might be a difference between a
+D
+prospective business and actually conducting a business. With a business the person will have
+begun the actual activity by which a profit is expected but with a prospective business this will
+not be the case. A person may have a prospective business even though the actual business is
+never conducted.
+Example 2.12
+Mr. Dayan is in the middle of setting up a restaurant and Company Z approaches him.
+Company Z runs a chain of European cuisine restaurants within Colombo and is
+concerned that Mr. Dayan might prove to be serious competition in the long run.
+Company Z offers to purchase Mr. Dayan's prospective business and under the terms of
+the arrangement Mr. Dayan will agree not to open up a restaurant in Colombo for the
+next 15 years. Mr. Dayan accepts the offer before the restaurant is opened. Mr. Dayan
+still has a "prospective" business even though he never actually conducts the business.
+He may deduct the start-up expenses. Further, any gain he makes on the sale of his
+prospective business will be treated as income from a business under S. 6(2)(c).
+This is also true of the payment for the future restriction on his conducting the business,
+s. 6(2)(e).
+15
+
+Chapter 3 - Employment Income
+3.1. What is employment?
+Employment involves provision of labour for gain. The definition of "employment" in section
+195 essentially refers to the general law concept of employment. This general law concept is
+extended to include past and prospective employment and so amounts received either before or
+after employment may be required to be included in income.
+"employment" –
+(a) means – t
+i. a position of an individual in the employment of another person;
+f
+ii. a position of an individual as manager of an entity;
+a
+iii. a position of an individual entitling the individual for a fixed or ascertainable
+remuneration in respect of services performed;
+iv. a public office held by an individual;
+v. a position of an inrdividual to whom any payment is made or due by or from an
+employer or who receives any other benefit as an employee or in a similar
+capacity;
+D
+vi. a position as a corporation or company director; and
+(b) includes a past, present or prospective employment.
+3.2. Gain and profits (section 5)
+3.2.1. Items included
+The following benefits received or derived from employment are taxable as income from
+employment:
+- Salary, wages, leave pay, overtime pay, fees, pensions, commissions, gratuities, bonuses,
+and other similar payments;
+- allowance, including any cost of living, subsistence, rent, entertainment or travel
+allowance;
+- Payments providing discharge or reimbursement of expenses incurred by an individual or
+an associate of the individual;
+- Payments for an individual's agreement to conditions of employment;
+- Payments or transfers to another person for the benefit of an individual or an associate
+person of the individual;
+16
+
+- The fair market value of benefits received or derived by virtue of the employment by an
+individual or an associate person of the individual;
+Example 3.2.1.1
+Mr. Silva is an executive officer of Company X. As part of his remuneration package,
+Company X provides Mr. Silva with a car and the services of a driver and a gardener. Mr.
+Silva must include these benefits (use of the car and the services) in calculating his
+income from employment under section 5(2)(h) and valued under section 27.
+- Other payments, including gifts, received in respect of the employment;
+- The market value of shares, at the time they were allotted, under an employee share
+t
+scheme, including shares allotted as a result of the exercise of an option or right to
+acquire the shares, excluding the employer’s contribution for such shares;
+f
+Example 3.2.1.2 a
+Mr. Perera is employed as a manager of Company Z. During 1st year Mr. Perera receives
+as part of his remuneration package an option to acquire 1,000 shares in the Company at
+a price of Rs 500 per sharre. At the time of receipt, the market value of the options is Rs.
+300,000. In the middle of 2nd year Mr. Perera exercises the options by paying Rs. 500,000
+and receives 1,000 shares in Company Z. The market value of the shares at the time of
+D
+allotment to Mr. Perera is Rs. 800,000.
+The receipt of the options during 1st year is a benefit in-kind but Mr. Perera need not
+include the value of the options in calculating his income from the employment in 1st
+year, under section 5(3)(e). However, Mr. Perera will need to include as his assessable
+income from employment an amount equivalent to the market value of the shares at the
+time of allotment (i.e. Rs. 800,000), less the consideration paid by Mr. Perera upon
+exercising the options (i.e. Rs. 500,000), which works out to be Rs. 300,000.
+- Payments for redundancy or loss or termination of employment;
+- Retirement contributions made to a retirement fund on behalf of the employee and
+retirement payments received in respect of the employment, other than contributions
+made by the employer to a pension fund, provident or savings fund/society, approved by
+the Commissioner General of Inland Revenue.
+3.2.2. Items excluded
+The following benefits are excluded:
+- Benefits identified as exempt and benefits subject to final withholding tax;
+- A discharge or reimbursement of expenses incurred by the individual on behalf of the
+employer;
+17
+
+- A discharge or reimbursement of an individual's dental, medical or health insurance
+expenses where the benefit is available to all full-time employees on equal terms;
+- Payments made to or benefits accruing to employees on a non-discriminatory basis that,
+by reason of their size, type and frequency, are unreasonable or administratively
+impracticable for the employer to account for, or to allocate to the individual;
+- The value of a right or option to acquire shares at the time such shares are granted to an
+employee under an employee share scheme.
+Related case law
+Kanakasabapathy vs CGIR 4 SLTC 140
+N. E. Weerasooriya vs CGIR 4 SLTC 82
+P. M. Jeyarajan vs CGIR 4 SLTC 257 t
+Shilton vs Wilmshurst 64TC 78
+f
+3.2.3. Value of Benefits (section 27) a
+(a) value specified by the Commissioner General
+(b) in any other case according to market value
+r
+3.2.4. Deductions
+No expenses are dDeductible in ascertaining employment income in terms of section 10.
+3.3. Pre-and post-employment receipts
+Almost all amounts that are derived in respect of employment must be included in calculating
+employment income under section 5. For this purpose, as discuss in following examples, the
+concept of "employment" itself is very broad and encompasses both "prospective" and "past"
+employment.
+Example 3.3.2.1 – Prospective Employment
+Mr. A works for a large accounting firm. Company Z, a rival accounting firm, wishes to
+recruit Mr. A and they approach him. Mr. A is reluctant so Company Z tries to convince
+him by giving him a new motorcycle for agreeing to commence employment with them
+in 3 months. The market turns and by the end of 3 months Company Z no longer wishes
+to employ Mr. A and so Mr. A stay with his current firm.
+Mr. A has a prospective employment with Company Z at the time he is given the
+motorcycle. A prospective employment is an "employment" for the purposes of s. 195(1).
+Therefore, the value of the motorcycle must be included in calculating Mr. A's income
+from the employment with Company Z, section 5(2).
+18
+
+Example 3.3.2.2 – Past Employment
+Mr. Perera worked for Company A, a firm of engineers, for 30 years until he left their
+employ last year to pursue his lifelong dream to write a novel. Mr. Perera continues to
+refer enquiries and acquaintances regarding engineering matters to Company A.
+In appreciation for this and all his work over the years, Company A gives Mr. Perera a
+3% commission on fees charged to his referrals. Mr. Perera has a past employment with
+Company A. This is an "employment" for the purposes of section 195(1). Therefore, Mr.
+Perera must include the commissions in his income from the employment with Company
+A, under section 5(2).
+3.4. Basis of payment
+t
+Income from employment of an individual should be account for income tax purpose on cash
+f
+basis under section 21(2).
+a
+Example 3.4.1
+Mr. Silva is an employee of ABC Company. The company paid bonus of Rs 500,000 in
+December 2017. Out of the profit earned for the year of assessment 2016/2017. Mr. Silva
+is liable to tax on this bornus for the year of assessment 2017/2018 and ABC Company
+must deduct WHT on this bonus for the month of December 2017.
+D
+3.4.1. Withholding by Employer
+Section 83 instructs employers to withhold tax from income from employment at the rates
+specified by the Commissioner General as per First Schedule to the Act. An employer must
+provide an employee with a withholding tax certificate not later than thirtieth day of April of that
+year, or where an employment ceases during the year of assessment, not more than 30 days from
+the date of cease of the employment. The withholding tax certificate must be in the required form
+and contains pertinent information in relation to the withholding tax affairs of the employee in
+respect of that employment, including the amount of income received by the employee for that
+year of assessment and the amount of tax withheld.
+A resident individual who only has income from employment that is subject to withholding by
+employer for a year of assessment will not be required to file a return for that year of assessment,
+section 94(1)(a)(ii).
+3.4.2. Aggregate reliefs referred to in section 52 (schedule 5)
+(a) Personal relief of Rs. 500,000 for each year of assessment
+This relief is available for resident individuals and for individual who is not resident in
+Sri Lanka but is a citizen of Sri Lanka
+19
+
+(b) Relief of Rs. 700,000 for each year of assessment
+This relief is available for resident individual with income from employment
+3.5. Treatment for Retirement Benefits
+Profit from employment include certain lump sum receipts of an employee at retirement. These
+receipts are profits for the year of assessment in which they received.
+Retirement benefits other than compensation is taxed at lower rates. Compensation is taxed at
+lower rate if the employer has made such payments in accordance with a scheme, which is
+uniformly applicable to all his employees. Where the employer does not have a uniformly
+applicable scheme for the payment of compensation for loss of office, it should be taxed at
+normal rates.
+t
+f
+i. Retiring gratuity
+a
+ii. Commuted pension
+iii. Compensation for loss of office or employment
+iv. Withdrawals from Employees Trust Fund
+r
+Lower rates applicable for retirement benefits
+D
+(a) where the period of contribution or the period of employment is 20 years or less
+Total Income from Employment Tax Payable
+On the first Rs. 2,000,000 Nil
+On the next Rs. 1,000,000 5%
+On the balance 10%
+(b) where the period of contribution or the period of employment is more than 20 years
+Total Income from Employment Tax Payable
+On the first Rs. 5,000,000 Nil
+On the next Rs. 1,000,000 5%
+On the balance 10%
+3.6. Exemptions relevant to employment income (Third Schedule)
+ Compensation or gratuity paid in lieu of personal injuries or death.
+ Amounts paid on retirement from any provident fund approved by the Commissioner
+General of Inland Revenue.
+20
+
+ Amounts paid on retirement from any pension fund or the Employees’ Trust Fund,
+representing investment income earned for any period commencing on or after 1 April
+1987.
+ Pension received from the Sri Lankan Government or from a Department of the
+Government.
+ Benefits derived by a government employee, from a road vehicle permit granted to such
+employee.
+ Income derived by an individual entitled to privileges under the Diplomatic Immunities
+Law and other specified conventions.
+ Employment income of expatriate employees (up to a maximum of twenty employees)
+who are working in a company which has incurred expenses exceeding USD 1,000 Mn
+t
+on depreciable assets (other than on intangible assets) in Sri Lanka or a state-owned
+company entitled to an enhanced capital allowance as stated above,
+f
+a
+3.7. Pay – As – You Earn scheme
+Income tax payable by an employee on his employment income under the provisions of this
+scheme is deducted by the emploryer at the time of payment or credited. Tax so deducted each
+month represents the income tax payable by the employee on that part of income.
+D
+Employment income is thus taxed, as it is earned, by withholding the tax at source.
+3.8. More than one employment
+3.8.1. Primary Employment
+Each employee must designate his or her employment, or in the case where the employee has
+multiple employments, one of his or her employments, as a "primary employment" by providing
+a declaration to the employer nominating such employment as the employee’s primary
+employment ("primary employment declaration"). An employee can only have one primary
+employment at any one time and once nominated, such employment will remain as the
+employee’s primary employment until expressly withdrawn. Employee also need to provide the
+withholding tax certificate issued by the former primary employer for that year of assessment.
+The new primary employer must take into consider the income and tax withheld by former
+primary employer when calculating the employee’s tax to be withheld for that year of assessment
+at the appropriate rates in the tax tables specified by the Commissioner General of Inland
+Revenue.
+Where an employee ceases his or her primary employment and commences a new employment
+within the same year of assessment, the new employer can treat the employment as a primary
+employment if the employee provides the new employer with a new primary employment
+declaration and withholding tax certificate(s) issued by the former primary employer(s) in
+respect of the former primary employment(s) for that year of assessment.
+21
+
+The new primary employer must, for the purposes of calculating tax to be withheld under s. 83,
+add to the income from the new primary employment for the year of assessment all income from
+the employee’s former primary employment as well as add to the tax considered to be withheld
+by the new primary employer all tax withheld by the employee’s former primary employer,
+based on the information set out in the withholding tax certificate issued by the former primary
+employer.
+3.8.2. Secondary Employment(s)
+Any employer that is not presented with a primary employment declaration will be treated as a
+secondary employment must withhold tax on that employee’s income from such secondary
+t
+employment in accordance with the following:
+f
+(a) where the monthly payment to the employee is less than or equal to LKR 50,000 per
+month, at 10%; or
+a
+(b) where the monthly payment to the employee exceeds LKR 50,000 per month, at 20%.
+3.9. Employer’s Obligations
+r
+i. Deduct income tax from the gross remuneration of the employees, who are liable to pay
+income tax according to tables provided by the Commissioner General of Inland Revenue.
+D
+ii. Maintain proper records on the specified forms in respect of each employee who is liable tax
+and remit the taxes deducted in any month on or before the 15th of the following month.
+iii. Furnish annual declaration on or before the 30th of April every year.
+iv. Issue a withholding tax certificate on tax deduction to employees on or before 30th of April
+immediately succeeding the end of the year of assessment or within 30 days from the
+cessation of employment if the employee has ceases his employment.
+22
+
+Chapter 4 - Business Income
+4.1. What is Business Income?
+Business income is defined in the Act as follows
+“business”
+(a) Includes
+i. trade, profession, vocation or isolated arrangement with a business character
+however short the duration of the arrangement; and
+t
+ii. a past, present or prospective business; but
+(b) excludes an employment; f
+According to the above definition, it is iamportant to understand the business in terms of "trade",
+"profession" and "vocation". These terms must be understood according to its general meaning.
+It also includes "isolated arrangement with a business character however short the duration of
+the arrangement". r
+Further, the definition of "business” is extended to include a past business and a prospective
+D
+business. So, amounts derived either before or after a business must be accounted for in
+calculating income (Prospective business will be discussed in item 4.1.2.)
+The definition of business specifically excludes "employment". So, if an activity amounts to
+employment, it cannot also be a business. Likewise, if an activity amounts to business it cannot
+also be an investment.
+This is because of the concept of dominancy over the sources of income. That is, the definition
+of "employment" is dominant over the definition of "business" and the definition of "business" is
+dominant over the definition of "investment".
+4.1.1. Trade, Profession and Vocation
+4.1.1.1. Trade
+The factors to be considered in deciding whether an activity amounts to a trade are mentioned in
+the chapter 2.4.3
+No particular factor is determinative in itself. In the vast majority of cases, it will be obvious
+whether a person is conducting a business or not. In some circumstances, the existence of one
+single badge is enough to show trading. In other cases, a combination of the badges of trade need
+to be looked into. However, these tests have to be applied having regard to the relevant facts and
+circumstances of each case.
+23
+
+References:
+Ruthledge v. CIT (14 TC 490)
+Leeming v. Jones (15 TC 33)
+Edward v. Bairstow & Harrison (36 TC 207)
+Mahawitharane v. CIR (3SLTC 156)
+Ram Iswara v. CIR (3 SLTC 241)
+4.1.1.2.Profession & Vocation
+The Act does not define Profession and Vocation. Both vocation, as well as profession, indicates
+the career or the occupation through which an individual makes a livelihood, vocation is a
+broader term than profession. A profession is an occupation that requires extensive training and
+the study and mastery of specialized knowledge, and usually has a professional association,
+t
+ethical code and process of certification or licensing. Further they practiced on the basis of
+relevant professional qualifications in a personal, responsible and professionally independent
+f
+capacity by those providing intellectual and conceptual services in the interest of the client and
+the public". A vocation is an occupation, either professional or voluntary, that is carried out more
+a
+for its altruistic benefit than for income, which might be regarded as a secondary aspect of the
+vocation, however beneficial. Vocations can be seen as fulfilling a psychological or spiritual
+need for the worker, and the term can also be used to describe any occupation for which a person
+is specifically gifted, in other words born with talents, and usually implies that the worker has a
+form of "calling" for the task. r
+4.1.2. ProspectivDe business
+As per the definition, “Business” includes prospective business. It is an expanded concept
+of business. What amounts to a "prospective" business will be a question of fact and degree. The
+factors considered in determining whether a person conducts a business may applicable to
+determination of whether a person conducts a "prospective" business. However, when
+considered the profit motive factor, there might be a difference between a prospective business
+and an actual business. With an actual business, the person will have begun the actual activity
+by which a profit is expected but with a prospective business this will not be the case. A person
+may have a prospective business even though the actual business is never conducted.
+Example 4.1.2.1
+Ms Rita runs a reputed restaurant and catering business in Colombo and wishes to open a
+new restaurant in Kandy. Mr John is the market leader for the same type of business in
+Kandy. He concerned that Ms Rita might prove to be a serious competitor in the long run.
+Therefore, Mr John offers to purchase Ms Rita's prospective business and under the terms
+of the arrangement Ms Rita will agree not to open up a restaurant in Kandy for the next 5
+years. Ms Rita accepts the offer before the restaurant is opened and she still has a
+"prospective" business even though has not actually conducted the business. This is also
+true of the payment for the future restriction on her conducting the business.
+24
+
+The expenses she made for the prospective business can be deducted from such business
+receipt (payment for the future restriction on her conducting the business). And if she
+made loss from the prospective business, such loss can be deducted from the profit, if
+any, from her other business.
+4.2. Deciding facts of Business income
+There are difficulties in clearly defining the boundaries between employment and business on the
+one hand and business and investment on the other. This will further explain under chapter 2.4.2
+4.3. Gains and Profits from Business t
+All gains and profits from conducting the business for the year of assessment has to be taken in
+f
+to account in computing the business income. Section 6 expressly required to include the
+following items as gains and profits from conducting a business for a year of assessment.
+a
+(a) Sale of any goods or article and receipts by providing a service including mixed receipts;
+(b) consideration received in respect of trading stock;
+r
+(c) from the realisation of capital assets and liabilities of the business as calculated under
+Chapter IV
+(d) amounts rDequired to be included by the Second or Fourth Schedule of the Act on the
+realisation of the person’s depreciable assets of the business; (will be discussed 4.4.2.4.)
+(e) amounts derived as consideration for accepting a restriction on the capacity to conduct
+the business;
+(f) gifts received by the person in respect of the business;
+Example 4.3.1
+The company ABC is engaged in the business of selling furniture. The company regularly
+purchase cushions for the manufacturing furniture. The company has been selected as the
+best purchaser of the cushion manufacturer and therefore, received a small motor lorry as
+a gift.
+(g) amounts derived that are effectively connected with the business and that would
+otherwise be included in calculating the person’s income from an investment;(eg.
+Penalties, surcharges or default interest derive by conducting the business, Government
+grants derived by the business).
+(h) other amounts required to be included under this Act.
+25
+
+These will include;
+a partner’s share of partnership income to the extent that such partnership income comprises
+income from a business of the partnership, s. 55(1);
+i. gains on disposal of an interest of a partner in a partnership as calculated in accordance
+with Chapter IV and s. 56, s. 55(2);
+ii. amounts derived by a trust to which a beneficiary is presently entitled (see 3.4.1 below)
+that would otherwise be treated in the hands of the trust as income from a business, s.
+57(1);
+iii. distributions of a non-resident trust to a beneficiary to the extent that underlying income
+t
+has not been subject to tax in the hands of the trust or the trustee and the interest is
+effectively connected with a business of the beneficiary, s. 58(1)(b);
+f
+iv. gains on disposal of interest of a beneficiary in a trust where the interest is effectively
+connected with a business of the beneficiary, s. 58(2);
+a
+v. distributions of a non-resident company to a shareholder, where the shares are effective
+connected with a business of the shareholder, s. 61(1)(b); and
+vi. gains on disposal of interest of a shareholder in a company where the interest is
+r
+effectively connected with a business of the shareholder, s. 61(2).
+D
+In calculating a person’s gains and profits from conducting a business for a year of
+assessment the following shall be excluded:
+(a) exempt amounts and final withholding payments; and
+(b) amounts that are included in calculating the person’s income from an employment.
+4.4. Deductions
+Deductions will be discussed relevant to the all source of income, generally deduction of the act
+falls in to three main categories
+- General deductions (s.10)
+- Main deduction (s.11)
+- Other deductions including specific deductions (s.12-s.19)
+4.4.1. General deduction rules
+Section 10 provides general deduction rules in calculating profits and income of a person.
+Basically, four general rules have been set out in s.10.
+26
+
+i.
+(a) No deduction shall be made in calculating a person’s income from employment.
+(b) Certain specific deductions are not allowable in calculating a
+person’s income (will be discussed under item no......)
+ii. A deduction for a payment shall not be allowed until the tax, if required, withheld has been paid to the
+Commissioner General.
+iii. No deduction shall be allowed except as expressly permitted by the Act.
+iv. Where more than one deduction applies, the most specific deduction shall be applied even if that
+results in the denial of a deduction (Refer Examples 11 and 12) .
+t
+Section 10 (1)(b)
+f
+The Following deductions shall not be made in calculating a person’s income.
+1. Domestic expenses (refer item 4.4.1.1) a
+i. Tax payable under the Inland Revenue Act. (This includes instalment, interest, penalty,
+WHT including PAYE tax paid by any employer in respect of the employment income of
+any employee).
+r
+ii. Interest, penalties and fines payable to a government or a political subdivision of a
+government of any country for breach of any written law.
+D
+iii. Expenditure incurred on tax exempted income and income relating to the final
+withholding payments.
+Example 4.4.1.1
+Nations’ Bank, licenced commercial bank in Sri Lanka, has invested in sovereign bonds
+and shares in resident companies. During the Y/A 2018/19, the bank has earned interest
+income from sovereign bonds and dividend income from shares invested in resident
+companies. Such business receipts represent the exempted income and final withholding
+payments respectively.
+Hence, the Bank is not allowed to deduct expense incurred by the Bank to earn such
+exempt amount and final withholding payments from the profit of the Bank liable to tax.
+iv. retirement contributions, If such contribution;
+(a) has not considered as a benefit of an employee; or
+(b) is a contribution made by the employer to a pension, provident or saving fund or to a
+provident or saving society not approved by Commissioner General?
+v. Dividends of a company.
+vi. Entertainment expenses and outlays-
+“entertainment” means the provision to any person of food, beverages, tobacco,
+accommodation, amusement, recreation or hospitality of any kind” (S.195).
+27
+
+vii. Transfers to reserves or provisions for future expenditure or losses which has not
+incurred during the year of assessment.
+viii. Amounts incurred on lotteries, betting or gambling, other than amounts incurred from
+conducting a business of lotteries, betting or gambling.
+ix. Taxes or other levies specified by the Commissioner-General.
+4.4.2 Domestic expenses
+Section 197 defined the Domestic Expenses as follows.
+(A) Where an individual incurs expenditure in respect of himself, the expenditure shall be
+domestic expenditure to the extent that it is incurred –
+t
+i. in maintaining the individual, including in providing shelter as well as meals,
+refreshment, entertainment or other leisure activities;
+f
+ii. in the individual commuting from home;
+a
+iii. in acquiring clothing, including shoes, for the individual, other than clothing that is not
+suitable for wearing outside of work;
+r
+iv. in educating the individual, other than education that is directly relevant to a business
+conducted by the individual and that does not lead to a degree or diploma; or
+D
+v. in paying any personal debts, including credit card debts, of the individual.
+These are the expenses incurred by a self-employed person on his or her own behalf. So, such
+expenses contain prohibition on deductibility. However, some expenses contain limited
+exception to the prohibition. The following examples elaborate such limited exception.
+(a) As per item no 1(A)(iii), cost of clothing is not deductible unless it is unsuitable to wear
+outside of work. So, this rule does not prohibit protective clothing. Ex. The cloak worn
+by medical practitioners.
+Similarly, the rule does not prohibit a deduction for the cost of clothing that forms part of
+a service provided, such as the costumes worn by performers.
+The rule does prohibit only the expenses incurred by self-employed persons for cloths
+which are suitable to be worn outside of work also.
+Ex. Cost of Suits made by Lawyers, Medical Consultants.
+(b) Item No.1 (A)(iv) prohibits the deduction for the expenses made by the individual in
+educating himself. But, it does not prohibit the expenses made for the education that is
+directly relevant to business conducted by the individual and that does not lead to a
+degree or diploma.
+28
+
+For example, expense made for the usual type of training taken by professionals to keep up-
+to-date and which is directly relevant to the business in question is not prohibited.
+e.g. the cost of a training course offered to lawyers on recent changes in the law is not
+prohibited but cost for a course on creative writing is prohibited and so not allowable.
+Further, a deduction is also denied if the education is part of a course leading to a degree or
+diploma.
+(B) Where another person incurs expenditure in making a payment to or providing any other
+benefit for an individual, the expenditure shall be domestic expenditure except to the extent
+that –
+i. the payment or benefit is shall include in calculatingt the income of the individual;
+ii. the individual provides consideration of an equal market value for the payment or benefit;
+f
+or
+iii. the amount of the expenditure is so small as to make it unreasonable or administratively
+a
+impracticable to account for it.
+These are the expenses incurred by a person on behalf of an individual’s benefit. Individual’s
+such benefit constitutes a “payment” from the person who made it and therefore, becomes an
+r
+expense incurred by such person.
+Tax treatments oDn such expenses with special attention to the above three exceptions are
+elaborate by following examples.
+Example 4.4.2.1
+Company A employs Mr Z. It provides Mr Z with private use of a company car and,
+along with other employees, meals provided on Company A's premises. Both the use of
+the company car and the provision of the meals are payments from Company A to Mr Z.
+The use of the company car is included in calculating Mr Z's income from employment
+under s. 5(3)(h) and valued under s. 27.
+Accordingly, because of the exception referred to in item 1(B)i, Company A is not
+precluded from claiming a deduction for expenses incurred in making the car available to
+Mr Z, i.e. maintenance expenses.
+But, as per s. 5(4)(d), no amount is required to be included in Mr Z's income with respect
+to the meal benefits. As a result, Company A is not allowable to deduct expense incurred
+in providing meals to the employees including Mr. Z.
+29
+
+Example 4.4.2.2
+Mr A runs a restaurant. He regularly permits members of his family to dine free of
+charge with his paying customers. The meals provided by Mr A constitute a payment
+from him to both his paying customers and his family members.
+Mr A's paying customers pay market value in consideration for their meals. As a result,
+Mr A is not precluded from deducting expenses incurred in providing the meals to his
+paying customers as per item no 1(B) (ii). In the normal course, such expenses would be
+deductible under s. 11 too.
+But, because Mr A's family members do not pay for their meals, Mr A is precluded to deduct
+expenses incurred in providing meals to his family members.
+t
+(C) Expenditure referred to in (A) and (B) shall include interest incurred with respect to money
+borrowed that is used in a manner referred to in thfose subsections.
+4.4.3 Main deduction rule a
+Section 11 is the main deduction rule in the Act. The section is critical importance in calculating
+business income under the Act.
+This is because no amount is allowed as a deduction in calculating income except as specifically
+r
+authorized under the Act (S.10(3). Hence, as this section 11 is available in the Act, subject to the
+conditions specified in the section, expenses of the business or investment can be deductible in
+ascertaining the inDcome from business or investment.
+Section 11 specifies as follows;
+“(1) In calculating a person’s income from a business or investment for a year of assessment,
+expenses to the extent they are incurred during the year by the person and in the production of
+income from the business or investment, shall be deducted.
+(2) No deduction shall be allowed under subsection (1) for an expense of a capital nature.
+(3) In this section, “expense of a capital nature” includes an expense that secures a benefit
+capable of lasting longer than twelve months”.
+4.4.3.1. Main aspects of the Section 11.
+i. Expenses of a capital nature is not allowable.
+Under, section 11(2), expenses of a capital nature cannot be deducted. As per section
+11(3), “expense of a capital nature” includes an expense that secures a benefit capable of
+lasting longer than twelve months”.
+However, this does not necessarily mean that an expense which secures a benefit lasting
+twelve months or less is revenue in nature and wise versa.
+30
+
+In determining whether such an expense is revenue or capital in nature, the various tests under
+case law, such as the fixed or circulating asset test, enduring benefit test and once-and-for-all
+test, will continue to apply.
+Reference:
+Van Den Berghs Ltd V clark (19 TC 390)
+Barr Crombie & Co Ltd V CIR (26 TC 406)
+Short Brothers Ltd V The CIR (12 TC 955)
+Vallambrosa Rubber Co Ltd V Farmerb (5TC 529)
+Atherton V British Insulated and Helsby Cables Ltd (10 TC155)
+Heather V P.E. Consulting Group Ltd (48TC 293)
+ii. “Actual cost” are eligible for deduction.
+t
+As per section 11, only "actual costs" are eligible for deduction. So it will not permit the
+deduction of "notional" costs, such as those put to a reserve. This is confirmed by section
+f
+10(1)(b)(viii) too.
+iii. Possibility of an apportionment. ("to the aextent they are incurred").
+This means that under section 11, expenses are allowed “to the extent they are incurred”.
+Example 4.4.3.1.1
+r
+A person who has home office and incurs expenses in common for the business and home
+must appDortion the expenses between business and home. And, only the expense
+attributable to the business is allowed to deduct under section 11).
+iv. Expenses must be incurred “in the production of Income”.
+This means the section 11 requires the expenses to be incurred in the production of
+income from business or investment. Production of income generally refers to the
+intention to make a profit or gain. But, this does not mean that the business or investment
+actually be profitable in the year the expense is incurred in order to be eligible for a
+deduction. What is required is that the costs are incurred as part of the activity that is
+intended to make the profit or gain.
+It is because of this reason; start-up cost of a business is allowed as a deduction under
+section 11.
+v. The section is “Residual” in nature.
+The section 11 is “residual” in nature. This means, if another provision of the Act denies
+a deduction then Section 11 will not permit a deduction. This is because of the operation
+of section 10(4) of the Act.
+“Where more than one deduction applies, the most specific deduction shall be applied
+even if that results in the denial of a deduction” [10(4)]
+31
+
+Particularly, sections 12 to 19 of the Act are called as specific deduction provision of the Act.
+Accordingly, if an expense is of a particular kind that is dealt with in one of those sections then,
+as the more specific provision, that section must be used irrespective of whether the result is the
+granting or denial of a deduction. In such a circumstance, section 11 has no application and so
+become “residual”.
+Example 4.4.3.1.2
+Section 11(2) does not permit deductions for capital nature expenses. As per the
+definition in section 11(3), expense made for acquiring capital asset is a capital nature
+expense. If a debt obligation has been incurred to acquire such a capital asset, then
+interest made there on also becomes a capital nature expense. As per section 11(2), such
+capital nature expenses cannot be deducted.
+t
+However, section 12 of the Act deals with the interest deduction. As per the section 12(a),
+f
+interest on a debt obligation which has been incurred to acquire an asset is deductible if
+such asset is used during the year in the production of income. Accordingly, even if
+a
+capital nature expenses denied by section 11, section 12 grant such expenses being the
+most specific section applicable to interest deduction.
+Example 4.4.3.1.3 r
+In case of a person who is carrying on a business of hiring vehicles, cost of repairs is an
+D
+expense incurred in production of income. Hence, such expenses should be considered
+under section 11. However, Section 14 deals with the expenses for repairs or
+improvements. Hence, repair expenses can only be deducted subject to the limitation
+specified in section 14.
+Accordingly, even if the section denies the expense (portion of the expense), section 14 is
+applicable as the most specific section in respect of repairs.
+4.4.4 Special Deduction rules
+4.4.4.1 Interest Expenses
+Section 12 and 18 deals with the deductibility of interest.
+Section 12
+i. As per the section 12, the relevant debt obligation should be incurred for following purposes
+only;
+ii. The borrowed money should be used to acquire an asset that is used during the year in the production
+of income; or and
+iii. The borrowed money should be incurred in the production of income.
+32
+
+Example 4.4.4.1.1
+Mr. Sunimal is carrying on a business of selling of computer accessories. He obtained a
+bank loan and utilised the loan proceeds as follows during the year 18/19.
+50% for construction of new office building.
+25% for payment of salaries to the staff.
+25% for his private purposes.
+During the year of assessment 2018/2019, he paid Rs. 300,000 as interest for the loan.
+During the year of assessment 2019/2020 he sold the office building. and Paid the loan
+interest for the year is Rs. 250,000.
+During the year of assessment 2018/2019, under Setction 12(a) Mr. Sunimal is entitled for
+a deduction amounting to Rs. 150,000 (50% of the Loan) paid as interest on the funds
+used to construct the new office building as it is an asset used during the year. Similarly,
+f
+s. 12 (a) permits a deduction for the interest paid on the funds used to pay the staff
+salaries amounting to Rs. 75,000 because those funds are used in the production of
+a
+income from the business. Interest paid amounting to Rs. 75,000 on the funds used for his
+private purposes is not deductible.
+Further, he is not entitled for a deduction of Rs. 125,000 paid as interest on the funds
+utilized to construct the office building during the year of assessment of 2019/2020 as
+r
+such building is not used during the relevant year in the production of income for the
+business.
+D
+Section 18
+In addition to the section 12, Section 18 is also applicable only for entities on deductibility of
+interest expense.
+Restricts the deductibility of interest deducted in calculating an entity’s income on financial
+instruments. This is called as thin capitalization rule. The rule is applicable as follows;
+For Manufacturing Entities
+Allowable Finance Cost attributable to financial instruments = (Total Financial Cost/Total Cost
+of Financial Instruments) X [(Total of the issued Share Capital and reserves) X 3]
+For Other Entities
+Allowable Finance Cost attributable to financial instruments = (Total Financial Cost/Total Cost
+of Financial Instruments) X [(Total of the issued Share Capital and reserves) X 4]
+Any deduction unutilized in the current year will may be carried forward up to six years, subject
+to the same thin capitalization restriction.
+This thin capitalization rule does not apply to Financial Institutions.
+33
+
+Example 4.4.4.1.2
+Company B is a garment factory and incurs interest expense (for what) amounting to Rs.
+2,500,000 during the year of assessment 2018/2019. Balance Sheet of the company as at
+31.03.2019 revealed as follows.
+Stated Capital 5,000,000
+Revenue Reserves 3,000,000
+Long Term Loans 30,000,000
+Finance Cost attributable to financial instruments = (Rs. 2,500,000/Rs. 30,000,000) X
+[(Rs. 5,000,000+ Rs. 3,000,000) X 3]
+Finance Cost attributable to financial instruments twhich is allowable to deduct in Y/A
+2018/2019 = Rs. 2,000,000.
+Balance Rs. 500,000 can be carried forwfard to Y/A 2019/2020 and so on up to
+2025/2026, and deductible subject to the same above basis. That means, the amount of
+Rs. 500,000/- is added to the finanacial cost that will be incurred in next year and so on.
+4.5 Trading Stock
+"Trading stock" is also an asset for a business. Section 197 Defines it as “assets owned by a
+person that are sold or intended rto be sold in the ordinary course of a business of the person,
+work in progress on such assets, inventories of materials to be incorporated into such assets and
+consumable stores”. Further, definitions of "depreciable asset" and "business asset" excluded the
+D
+trading stocks from such assets. The definition of trading stock incorporates the traditional
+distinction between circulating assets and fixed assets. Trading stock constituting circulating
+assets.
+This means that the classification of an asset as trading stock or otherwise will differ depending
+on the nature of the business in which it is held. For example, land held in the context of a
+business will typically be a "business asset" rather than "trading stock". However, in the hands
+of a property developer, land will constitute trading stock.
+Generally, s. 13 delays a deduction for the cost of trading stock until it is disposed of. Section 13
+also provides rules for determining the cost of trading stock and such rules are follows the
+generally accepted accounting principles.
+4.6 Research and Development
+Research and development defines in section 15 as follows;
+“research and development expenses” means expenses incurred by the person in –
+(a) carrying on any scientific, industrial, agricultural or any other research for the upgrading of
+the person’s business through any institution in Sri Lanka (or for any innovation or research
+relating to high value agricultural products, by the person or through any research institution in
+Sri Lanka); or
+34
+
+(b) the process of developing the person’s business and improving business products or process
+which shall be beneficial to Sri Lanka,
+but shall exclude expenses incurred that are otherwise included in the cost of an asset under this
+Act.
+The section 15 is one of the specific section of the Act. The special feature of the section is that it
+permits the research and development cost even if it a capital nature expense. However, it does
+not allow to deduct the cost of purchasing of equipment used for the research. But, the section
+allows the cost of the assets like intellectual property that is created by the research and
+development.
+Further, under sixth schedule, a person is entitled for an additional deduction which is equal to
+the 100% of the total amount of research and development expenses for three years after
+01.04.2018 as a temporary concession and it will expire 31.t03.2021.
+f
+Example 4.6.1
+Company A formed during yeaar 2018/2019 for the purposes of researching and
+developing a new fertilizer. The research and development is a two-year process. During
+year 1, Company A incurs expenses in developing the new fertilizer of LKR 5,000,000,
+including wages for researchers, the rental of a laboratory, legal fees and materials.
+However, the research forr this year is unsuccessful.
+Company A is allowed to deduct LKR 5,000,000 expenses incurred during year 1 as
+D
+these expenses fall within the definition of "research and development costs" in s. 15.
+During year 2, the Company spends a further LKR 10,000,000 in research and
+development costs and this time the research is successful. It has its research patented.
+The cost of the patent is Rs. 10,000,000/-. It is the intellectual property that is created by
+the research and development. Hence, that cost can be deducted under section 15.
+However, even though, it becomes depreciable asset of the company, depreciable
+allowance cannot be claimed for the second year as cost of assets has been allowed to
+deduct for the second year During year 2 the Company sells a permanent exclusive
+license to use the patent in India to Taj Industries for LKR 20,000,000.
+4.7 Agricultural start up expense
+For any kind of business, start-up expense is allowable to deduct under section 11. But, under
+section 11, capital nature expenditure included in start-up expense is not deductible. But, section
+15, as the most specific section, is applicable on agricultural start-up expenses and as such, even
+capital nature expenses included in agricultural start up expenditure is deductible.
+35
+
+4.8 Depreciation allowances and balancing allowances
+As per section 16, depreciation allowances and balancing allowances are allowed to be deducted
+in calculating a person’s income from a business only-
+Depreciation allowance are-
+(a) granted in respect of depreciable assets owned and used by a person at the end of a year of
+assessment in the production of the person’s income from a business; and
+(b) calculated in accordance with the provisions of the Second or Fourth Schedule to this
+Act.
+t
+Depreciable asset is defined as
+“an asset to the extent to which it is employed in the production of income from a business and
+f
+which is likely to lose value because of wear and tear, obsolescence or the passing of time; but
+excludes goodwill, an interest in land, a membership interest in an entity and trading stock.”
+a
+Accordingly, following conditions has to be considered in respect of the depreciable asset, when
+claiming the depreciation allowances.
+r
+- Ownership of the assets should be available to the relevant person -Legal ownership or
+ownership of the asset in any other way as specified in the Act.
+As per S.4D9(2), lessee has the ownership of assets obtained on finance lease.
+- Used by the person for production of income.
+- If any depreciable asset is entitled for a deduction of depreciation allowance, then such
+claimable cannot be differed for future periods.
+Please refer chapter 5 for more information.
+According to the fourth schedule to the Act, following should be considered in calculating the
+depreciation allowance.
+1. Straight line method and following formula should be used.
+Depreciation allowance = A/B
+A - Depreciation basis of the asset at the end of year of Assessment.
+B - Number of years relevant to each depreciable asset
+2. Full Depreciation allowances will be granted for the year of acquisition if such
+depreciable assets used up to the end of the year of assessment. No depreciation
+allowance will be granted for the year of disposal as such asset is not exists at the end of
+the year of assessment.
+36
+
+3. No depreciation is allowed on road vehicle.
+“Road vehicle” does not include
+i. a Commercial vehicle
+Commercial vehicle means a road vehicle designed to carry loads of more than
+one or more than 13 passengers or vehicle used in transportation or vehicle rental
+business
+ii. a bus or minibus
+iii. a goods vehicle
+iv. a heavy general purpose or specialised truck or trailer.
+t
+4. Depreciation basis of a depreciable asset shall be the sum of
+i. Depreciable basis (written down value) fof the asset at the end of the previous Year of
+Assessment; and
+ii. Amounts added to the depraeciation basis of the asset during the year of assessment in
+respect of additions to the cost of asset.
+Example 4.8.1
+The ABC is a garment factory. It racquired a machinery in 01.06.2018 at a cost of Rs. 1,000,000/-
+and used it in the production of income. Suppose it continually use it for next five years, the
+depreciation allowance is calculated as follows;
+D
+Year of Assessment Depreciation basis No of Years Depreciation for the year Cumulative Depreciation
+2018/2019 1,000,000 5 200,000 200,000
+2019/2020 800,000 4 200,000 400,000
+2020/2021 600,000 3 200,000 600,000
+2021/2022 400,000 2 200,000 800,000
+2023/2024 200,000 1 200,000 1,000,000
+Balancing allowances
+Where a depreciable asset of a person is realized by the person before the end of a year of
+assessment, balancing allowance is calculated as follows,
+Balancing allowances (Disposable Loss)
+Balancing allowances = {written down value of the asset - consideration received for the asset}
+When realizing a depreciable asset, where consideration received exceeds the written down
+value, it is called as assessable charges (Disposal profit) and taxable as a business receipt.
+Assessable charges (Disposable profit)
+Assessable charges forms part of the person’s business income and will be calculated in
+accordance with the following formula:
+Assessable charges = {consideration received for the asset - written down value of the asset}
+37
+
+4.9 Repairs and Improvements
+Section 14 is a specific provision applicable for the deductibility of expenditure on repairs and
+improvements. This means that if an expense falls within the scope of s. 14 then the expense
+may only be deducted as provided for by s. 14 and not under the general deduction rule in s. 11.
+Conceptually, repairs do not improve the value of an asset but only maintain it. By contrast,
+improvements enhance the value of an asset. It may be difficult to draw a distinction between
+repairs and improvements therefore Section 14 makes drawing this distinction irrelevant. It can
+be deducted both repairs and improvements but subject to the limitation in s. 14(2).
+t
+Limitation of the deductions
+f
+- On Buildings, structures and similar depreciable assets (Class 4)
+a
+The deductions shall not exceed five percent (5%) of the written down value of the asset
+at the end of the previous year or actual repairs and improvement expenses incurred
+during the YA which ever less.
+- On all other depreciable assets.
+r
+The deductions shall not exceed twenty percent (20%) of the written down value of the asset at
+the end of the previous year or actual repairs and improvement expenses incurred during the Y/A
+D
+whichever less.
+The residual of repairs and improvement expense for which a deduction shall not be allowed as a
+result of the limitation shall be added to the depreciation basis of the asset.
+Example 4.9.1
+Consider the above example 15 and it will be required a repair amounting to
+Rs.400,000/-in the Year of Assessment 2020/2021.
+The repair expence and depreciation allowance deductable under section 14 and 16
+respectively is as follows;
+During the year of assessment -2020/2021, the Cost of repair 400,000
+Written down value of the Asset as at the end of previous year 800,000
+Allowable repair cost (800,000 *20%) 160,000
+Excess repair cost to be added to the depreciable basis 240,000
+38
+
+Depreciation allowance to be granted for the remaining Years of Assessment
+Accordingly,Repair and improvement expense made after the expiration of the no of years (in
+this case 5 years) will not be allowed as value for depreciation basis and number of years are
+zero.
+4.10 Losses
+Section 17 provides the deduction of loss from the realization of asset and liabilities in
+calculating the person’s income from business.
+The assets and liabilities are-
+(a) Capital assets of a business to the extent to which the assets were used in the production
+of income from business. (exclude the personal usage)
+(b) In the case of a liability that is a debt obligation incurred in borrowing money, the money
+was used or an asset purchased with the money was used in the production of income
+from the business.
+(c) In the case of any other liability, the liability was incurred in the production of income
+from the business.
+Section 19
+Section 19 provides the deduction of loss in calculating the person’s income from business or
+investment. Two types of losses may be incurred in the context of business or investment.
+i. The loss on the disposal of an asset or liability of a business or investment.
+ii. Overall loss of a business or investment.
+With respect of first type of loss, treatment on disposal will depend on the type of asset in
+question. That is, if asset in question is either trading stock or depreciable assets or capital assets
+of a business, loss of disposal falls within the second type of business.
+Loss deduction rules.
+1.
+(a) An unrelieved loss of the person for the year from a business can be deducted from
+any other business of that person.
+39
+Y
+2
+2
+2
+2
+2
+e
+0
+0
+0
+0
+0
+a
+1
+1
+2
+2
+2
+r o
+8 /
+9 /
+0 /
+1 /
+3 /
+f A
+2 0
+2 0
+2 0
+2 0
+2 0
+s
+1
+2
+2
+2
+2
+s e
+9
+0
+1
+2
+4
+s s m e n t D e p r e c ia t
+1
+io
+,0
+8
+6
+6
+3
+n
+0
+0
+0
+4
+2
+b
+0
+0
+0
+0
+0
+a s
+,0
+,0
+,0
+,0
+,0
+is
+0 0
+0 0
+0 0
+0 0
+0 0
+N o o f Y e a r s
+5
+4
+3
+2
+1
+D e p r e c ia t io n f o r t h e y e
+2 0 0 ,0
+2 0 0 ,0
+2 0 0 ,0
+3 2 0 ,0
+3 2 0 ,0
+a
+0
+0
+0
+0
+0
+r
+0
+0
+0
+0
+0
+C u m u la t iv e D e p
+1
+r e
+2
+4
+6
+9
+,2
+c
+0
+0
+0
+2
+4
+ia
+0
+0
+0
+0
+0
+t io n
+,0 0 0
+,0 0 0
+,0 0 0
+,0 0 0
+,0 0 0
+t
+f
+a
+r
+D
+
+(b) An unrelieved loss of the person for any of the previous six years of assessment from
+the business or any other business.
+As per section 19 (6)
+“loss” of a person for a year of assessment from a business or investment shall be
+calculated as the excess of amounts deducted in accordance with this Act (other than
+under this section or subsection (5) of section 25) in calculating the person’s income from
+the business or investment over amounts included in calculating that income; and
+“unrelieved loss” means the amount of a loss that has not been deducted in calculating a
+person’s income under this section or subsection (5) of section 25.
+t
+Accordingly, only the loss calculated under the Act, No. 24 of 2017 can be deducted under
+section 19. That means a transitional provision need to be incorporated to the Act to treat the
+brought forward loss under the Inland Revenue Act, Nfo.10 of 2006.
+2. An unrelieved loss which is eliagible to deduct for a Year of Assessment cannot be
+deferred to another year of Assessment.
+3. Reduced rate loss can be deducted only from same reduced rate or lower reduced rate or
+exempt profit.
+r
+4. The above deduction rules apply on treatment of investment losses other than the losses
+from disposal of investment assets.
+D
+(a) An unrelieved loss from a business may be deducted in calculating the income from
+business.
+(b) An unrelieved loss from investment can be deducted only in calculating the income
+from investment.
+6. Gain from realization of an investment asset shall not be deducted by any loss on the
+disposal of another investment asset.
+4.11 Other deductions in the Act
+1. A Person other than a person conducting banking business can write-off debt claim as bad
+debt if such person has taken reasonable steps to recovery and the person reasonably believe
+that recovery is not possible (S.24).
+2. A person conducting banking business can make specific provision for bad debt as per the
+directives made by Central Bank of Sri Lanka and but deductible amount from such
+provision will be specified by the Commissioner General (s.66).
+3. A non-resident person carrying on business in Sri Lanka through a Sri Lankan permanent
+establishment can deduct head office expense not exceeding 10% of person’s assessable
+income. Where such expense is exceeding 10% of person’s assessable income, no deduction
+is available (S.79).
+40
+
+Chapter 5 - Capital allowances and balancing allowances
+5.1. Relevant provisions
+Section 16 permits a deduction for the capital allowances and balancing allowances granted
+under the Second or Fourth Schedule in calculating a person’s income from a business.
+When calculating a person’s income from a business for a year of assessment;
+(a) the capital allowances; and
+(b) the balancing allowances,
+shall be deducted;
+t
+5.2. Capital allowances
+f
+A person is entitled to claim capital allowances if such person;
+(i) Is the owner of the depreciable asaset; and
+(ii) Uses them at the end of a year of assessment in the production of the person’s income
+from a business;
+(iii)If the asset is partly used in the production of income from a business, the cost and
+consideration received for the asset shall be apportioned according to the market value
+r
+of that part of the asset that is used in the production of income from that business. Please
+refer No.02 fourth schedule of the Act
+D
+As defined in section 195
+“depreciable asset”
+(a) means an asset to the extent to which it is employed in the production of income from a
+business and which is likely to lose value because of wear and tear, obsolescence or the
+passing of time; but
+(b) excludes goodwill, an interest in land, a membership interest in an entity and trading
+stock;
+Capital allowances –
+- for each depreciable asset shall be calculated according to the straight-line method
+- are calculated in accordance with the provisions of the Second or Fourth Schedule to the Act.
+- which are granted with respect to a particular year of assessment shall be taken in that year
+and shall not be deferred to a later year of assessment.
+- shall not be granted to a person in respect of a road vehicles, other than –
+(a) a commercial vehicle (“commercial vehicle” means a road vehicle designed to
+carry loads of more than half a tonne or more than 13 passengers; or a vehicle used in
+a transportation or vehicle rental business.)
+(b) bus or minibus;
+(c) a goods vehicle; or
+(d) a heavy general purpose or specialised truck or trailer;
+41
+
+Even though the road vehicles are fallen within the depreciable asset. (Please refer No 4 of fourth
+schedule)
+5.3. Calculation of capital allowance
+Formula for Calculating capital allowance
+A/B
+A - the depreciation basis of asset at the end of the year of assessment
+B - number of years (please see table 01 which is provided in the item (3) of Fourth
+Schedule)
+t
+Depreciation basis is the sum of –
+f
+(a) the depreciation basis of the asset at the end of the previous year of assessment and,
+(b) amounts added to the depreciation basis of the asset during the year of assessment
+a
+including the excess expense of repair and improvements referred to in section 14 for
+which a deduction shall not be allowed as a result of the limitation.
+For the purpose of calculating the capital allowances, the depreciable assets which have been
+distinguished between 5 classes of assets and the number of years applicable to relevant
+depreciable asset which have beenr stated in Fourth Schedule, have been incorporated for the easy
+reference as follows.
+D
+Table 1
+Class Depreciable Assets Number of Years
+1 computers and data handling equipment together with 5
+peripheral devices
+2 buses and minibuses, goods vehicles; construction and 5
+earthmoving equipment, heavy general purpose or
+specialized trucks, trailers and trailer-mounted containers;
+plant and machinery used in manufacturing
+3 railroad cars, locomotives, and equipment; vessels, barges, 5
+tugs, and similar water transportation equipment; aircraft;
+specialized public utility plant, equipment, and machinery;
+office furniture, fixtures, and equipment; any depreciable
+asset not included in another class
+4 buildings, structures and similar works of a permanent 20
+nature
+5 intangible assets, excluding goodwill The actual useful life of
+the intangible asset, or
+where the intangible asset
+has an indefinite useful
+life, 20.
+42
+
+5.4. Balancing allowances
+Balancing allowances are –
+(a) made in respect of depreciable assets
+i. realized during a year of assessment; and
+ii. in respect of which depreciation allowances have been granted in that year or an
+earlier year; and
+(b) calculated in accordance with the provisions of the Second or Fourth Schedule to this
+Act.
+5.5. Basic Concepts
+t
+i. Identification of the income source
+f
+Capital allowances are granted in the production of the person’s income from a business.
+Therefore, it is necessary to determine first whether the taxpayer is conducting a business or an
+a
+investment.
+In order to classify an asset properly, identifying the source of income may have an impact on
+not only how the asset is classified but also how the asset is identified.
+r
+Scenario 1
+Mr A, acqDuires an office building with the land. He engages a property manager to rent
+out the offices in return for 7% of the gross rent received. assuming this is Mr A's only
+office building, there is no repetition and he is not actively engaged with the property, he
+has engaged a manager. Hence his activities do not fall within the definition of "business"
+in s. 195; there is no "trade". Mr A intends to hold the property, which will produce an
+income of itself through the rent. His activities clearly fall within the definition of
+"investment" in s. 195. At the end of the year of assessment Mr. A must calculates his
+income from the investment under s. 7.
+Scenario 2
+Mr A owned and rented out 5 office buildings and managed the properties himself. Here
+the repetition and active engagement of Mr A with the properties would be sufficient to
+constitute a business of property rental. So, at the end of the year of assessment Mr A
+must calculate his income from the business under s. 6.
+Since Mr. A is conducting an investment the land and building owned by Mr A would be
+considered a single asset. An asset can only be a depreciable asset to the extent that it is
+used in the production of income from a business, therefore this office is not a
+depreciable asset.
+In the 2nd scenario, Mr A is conducting a business. Here the offices are used in the
+production of income from the rental business, i.e. the rent, which is not a final
+withholding payment under s. 88(1)(c).
+43
+
+The building is therefore a depreciable asset and must be classified under class 4 assets.
+Accordingly, the office building will fall into Class 4 and such buildings must be separate from
+the other buildings of Mr A's business.
+A separation will only be required of the land and building if the building is a "depreciable asset"
+under s. 195. the land is not a depreciable asset as defined. But, as it is used in the business, the
+land will be a "capital asset", under s. 195. So despite typically constituting a single asset, the
+Act requires a separation of the land and the building for tax purposes.
+5.6. Classifying the depreciable Asset
+The classes of asset mentioned in the above table 1 [paragraph 1(1) of the Fourth Schedule] are
+very broad and therefore it will be difficult to identify the trelevant class which an asset belongs
+to.
+In such cases, a two-step analysis should be made in cflassifying the asset.
+(i) consider the wording of the various classes outlined in the above Table 1 and
+a
+determine on a fair reading which class the asset falls into.
+(ii) if it is still not clear, determine number of years applicable to a depreciable asset
+mentioned in Table 1 (paragraph 2(3) of the Fourth Schedule) based on the useful life
+r
+of the asset and the useful life of similar assets that do clearly fall within a particular
+class, which the asset most fairly belongs in.
+D
+If the analysis is still unclear, then the asset falls into the residual category of "any depreciable
+asset not included in another Class", i.e. Class 3.
+Example 5.6.1
+Company A runs a business that involves the application of plastics and other chemical
+compounds to various solid surfaces. It recently had a special "room" installed in part of
+its factory. The plastics are applied to solid surfaces in the "room" under heavily
+controlled conditions as to moisture and temperature and to keep contaminates out.
+The "room" incorporates various fans, elements and computer controls in order to control
+the environment in the "room". The "room" may be easily relocated between different
+parts of the factory but once in place it is loosely fixed to the floor.
+In determining which class of depreciable asset, the "room" belongs to, Company A
+should follow the steps mentioned above.
+The "room" possibly falls to be classified as a "structure" under Class 4, a "fixture" under
+Class 3 or “any depreciable asset not included in another class” under Class 3.
+As the wording does not provide a clear answer to this classification, Company A should
+consider the number of years which have been incorporated to above Table 1, the useful
+life of the asset and make an analogy with similar types of assets.
+44
+
+With daily use, the "room" is expected to have a useful life of 20 years. By this time the fan and
+other control devices should be worn out and the computing system obsolete.
+The frame of the room may still be useable but it would be more cost efficient to replace the
+entire "room" at this stage rather than try to replace constituent parts. The analysis makes it clear
+that the number of years provided for Class 4 assets is inappropriate.
+Further, the analysis makes it clear that while the "room" may be a "structure" it is not a structure
+"of a permanent nature" in a way consistent with the number of years provided and the useful life
+of other assets likely to fall within Class 4.
+Company A's "room" is effectively an item of plant or machinery with and through which
+Company A conducts its business. It correctly falls for classification residually as a Class 3
+asset.
+t
+If it is uncertain about the proper classification of a particular asset a private ruling can be
+f
+applied under s. 107
+a
+5.7. Special cases
+i. Capital allowance for a depreciable asset which is received as a gift
+r
+If a depreciable asset is received as a gift in respect of a business the asset will have a cost equal
+to the amount included in income by reason of s. 6(2)(f), this amount will be included to the
+relevant class of dDepreciable assets and capital allowances can be granted.
+ii. Capital allowances for an asset that is in temporary disuse.
+With respect to granting capital allowances, the asset must be “owned and used” by the person
+during the year. It is rare that a person does not use the depreciable asset at any time during a
+year unless it is in need of repair or has become obsolete. It can be considered that assets in need
+of repair continue to be treated as depreciable assets and used in the business until the asset has
+truly become obsolete and the person disposes of it because repair of assets is a natural part of a
+business.
+Example 5.7.1
+One of the printing machines of Company A is broken down and the Company has had
+substantial problem of getting it repaired because they had to order parts from the
+European manufacturer. Hence the Company A had to wait 14 months. Despite the 14
+months during which the printing machine was not in use, Company A was actively
+pursuing its repair and did succeed in having the machine put back into operation.
+Company A may continue to claim capital allowances during the time it took to have the
+printing machine repaired.
+45
+
+Example 5.7.2
+One of the plant of Company B is also broken down. It could still be used for minor jobs
+but Company B effectively discarded it when it bought a new plant as a replacement. At
+this point Company B put the old plant outside its factory under a loose cover. Within a
+year the old plant deteriorated to such an extent that it could not be used at all.
+In the course of a general clean up, Company B later dumped the plant at a landfill site. From a
+tax perspective, at the point Company B discarded the plant and put it outside Company B is
+treated as having disposed of the plant under s. 39(e).
+04.01.2019 Plant broken down - 2018/2019 can claim capital allowance
+06.07.2019 Bought a new machine and machine A discarded – 2019/2020 not entitled
+t
+to claim capital allowances
+10.04.2020 Dumped the plant – 2020/2021 not entitled to claim capital allowances
+f
+iii. Capital allowance for Tangible Assets that take some years to construct or grow
+a
+Another area worthy of consideration is the treatment of depreciable assets that take some years
+to construct or grow. the cost of the asset will only be added to the relevant class of depreciable
+assets once it is "used" in the production of income. So, until the assets are placed in active
+production, no capital allowance cran be claimed.
+Example 5.7.3
+D
+Company A acquired land and incurred substantial costs planting it with tea. The tea
+plants will not come into production for 3 to 4 years and they have a limited useful life,
+typically about 50 years. The tea plants constitute depreciable assets for tax purposes
+under s. 195.
+Accordingly;
+i. Overhead costs that are not directly attributable to bringing the plants to maturity
+would be deductible under general principles.
+ii. costs that are related to bringing the plants to maturity, such as fertilizer, water
+and the wages of persons tending the plants, must be capitalized in the cost of the
+plants and so no deduction is available.
+iii. Amounts that are not immediately deductible will be included to the cost of the
+tea plants for tax purposes according to s. 37(1).
+iv. When the plants are put into production then these amounts can be categorized
+under Company A's Class 3 of depreciable assets and capital allowance can be
+granted.
+46
+
+Example 5.7.4
+Company A runs a hotel. It commissioned Company Z to construct a new hotel in
+Colombo. The contract price is Rs. 20,000,000 and the construction period is two and a
+half years.
+Company A is required to pay the contract price in instalments as follows,
+- deposit - 10%,
+- after the foundations are laid - 20%
+- after lock-up - 40%
+- on completion - 30%.
+It may not claim capital allowances in respect of the hotel until the hotel is constructed
+t
+and put into use, s. 16. Once the hotel is opened, Company A may categorize the
+contract price to the Class 4 depreciable assets and claim capital allowances accordingly.
+f
+5.8 Capital allowance for Intangible Assets
+a
+In granting capital allowances, the Act takes a different approach to intangible assets than it does
+with respect to tangible assets. Each intangible asset is placed in class 5 and the depreciation
+period applied to an intangible asset is a function of its actual useful life.
+r
+Example 5.8.1
+D
+Mr R wishes to rent a number of offices from Company P.
+The lease period is = 3 years
+05.08.2018 Premium paid for entering in to lease = Rs. 300,000
+The definition of "rent" in s. 195 includes the receipt of a premium. So, the whole Rs.
+300,000 is treated as rent derived by Company P during Y/A 2018/2019.
+The treatment of the payment of the premium by Mr R is more complex. Periodic rent
+paid under a lease will typically be deductible under s. 11 in the year in which it is
+incurred. However, this will not be the case if the rent is of a capital nature as defined in
+s.11(3).
+The lease would be an intangible asset of Mr R and as such it falls within the definition of
+"asset" in s. 195. So, the premium is an expense incurred in the acquisition of an asset
+with a useful life exceeding 12 months, therefore, is capital in nature and not deductible,
+s. 11(3).
+The lease will also be a depreciable asset of Mr R, s. 195. In particular, it is a Class 5
+depreciable asset. So at the end of Y/A 2018/2019 Mr R will be able to claim
+depreciation in respect of the lease, s. 16.
+In order to calculate the depreciation under the Fourth Schedule the first matter is to
+calculate the depreciation basis for the lease at the end of the Y/A as per Fourth Schedule
+paragraph 3(2), which is Rs. 300,000.
+47
+
+The useful life of an intangible asset is used in working out the rate of depreciation applicable to
+it. In this case the actual useful life of the lease is 3 years, giving depreciation for Y/A
+2018/2019 of Rs. 100,000. Mr R will be entitled to a similar amount of depreciation in Years of
+assessments 2019/2020 and 2020/2021
+Paid premium on 05.08.2018 = Rs. 300,000
+Lease period =actual useful life = 3 years
+Capital allowance for y/A 2018/2019 = 300,000/3 = 100,000
+1. Excess repair expenses which a deduction is not allowed to be added to the depreciation
+basis.
+t
+According to section 14(2) the deduction for repairs and improvements, for assets categorized
+under class 4 is limited to 5% and for all other cases 20% of the WDV of the asset at the end of
+f
+previous year. Excess expense for which a deduction is not allowed shall be added to the
+depreciation basis of the asset year (paragraph (3) of the Fourth Schedule).
+a
+Company P runs a manufacturing business.
+During Y/A 2018/2019 it incurs expenditure as follows:
+- 05.09.2018 : Rs. 700,000 on repairs and improvements to machine A
+- 08.12.2018 : Rsr. 1,800,000 in buying machine B
+- 04.03.2019 : Rs. 200,000 on repairs and improvements to machine B
+- 15.07.2019 : Rs. 400,000 on repairs and improvements to machine A
+D
+- 13.08.2021 : Rs. 150,000 on repairs and improvements to machine A
+Assume the WDV of the machine A (bought on 06.07.2017) at the end of the Y/A
+2017/2018 was Rs. 2,000,000.
+Machine A
+Repair expenses incurred on the Y/A 2018/2019
+WDV of the machine A at the end of Y/A 2017/2018= Rs. 2,000,000
+Allowable deduction for repair & improvements = 2,000,000*20%
+Allowable expense = Rs. 400,000
+Expenses incurred = Rs. 700,000
+Expenses not allowed (add to the depreciation basis) = Rs. 300,000
+In addition to the deduction for repairs and improvements, Company A will wish to claim
+depreciation of its machine A.
+As these machines have already been classified under class 3, capital allowance for
+machine A is;
+48
+
+Machine A
+2018/2019
+Machine A = Rs. 2,000,000 (WDV)
+Add: Repair cost = Rs. 300,000
+Rs. 2,300,000
+Capital allowance = 2,300,000/4
+= 575,000
+Or
+2018/2019
+Machine A = Rs. 2,000,000
+Add: Repair cost = Rs. 300,000
+Rs. 2,000,000
+t
+Capital allowance = 2,000,000/4
+= 500,000
+f
+Repair expenses incurred on the Y/A 2019/2020
+a
+WDV of the machine A at the end of Y/A 2018/2019= Rs. 1,500,000
+Allowable deduction for repair & improvements = 1,500,000*20%
+Allowable expense = Rs. 300,000
+Expenses incurred r = Rs. 400,000
+Expenses not allowed (add to the depreciation basis)= Rs. 100,000
+2019/2020
+D
+Machine A = Rs. 1500,000 (2,000,000-500,000)
+Add: Repair cost = Rs. 300,000
+Rs. 1,800,000
+Capital allowance = 1,800,000/3
+= 600,000
+Machine B
+WDV of the machine B at the end of Y/A 2017/2018 = Nil
+Allowable deduction for repair & improvements = Nil
+Expenses incurred = Rs. 200,000
+Expenses not allowed (add to the depreciation basis) = Rs. 200,000
+New Machine
+2018/2019 = Rs. 1,800,000/5
+= Rs. 360,000
+2019/2020 = Rs. 1,440,000
+Repair cost = Rs. 200,000
+= Rs. 1,240,000/4
+= Rs. 310,000
+49
+
+2. Claiming capital allowance on repair expenses incurred by a lessee.
+This has been taken from the old manual. Later the position was changed and as per section
+49(2) where an asset is leased under a finance lease, the lessor shall be treated as transferring
+ownership of the asset to the lessee. Accordingly, capital allowances are claimable by lessee and
+not the lessor
+Under the terms of the lease, asset is owned by the lessor. If the lessor is engaging in a business,
+the asset used for the business is a depreciable asset of the lessor. Hence lessor is entitled to
+claim capital allowances. Sec 14 is applicable only to the depreciable assets. Since the lessee is
+not entitled to claim capital allowance, s. 14(2) limitation does not apply. In such a case s. 11
+will apply. Hence the lessee is entitled to deduct the full costs of the repairs in the same way as
+the lessee would be entitled to deduct the full amount of rent paid to the lessor.
+t
+Example 5.8.2
+f
+Mr A leases a shop from Mr Z under a 5-year lease. Under the terms of the lease Mr A is
+a
+obliged to pay Rs. 100,000 per month by way of rent. In addition, Mr A is obliged to
+make all necessary repairs to maintain the premises in good order and condition.
+During the Y/A 2018/2019 Mr A spends Rs. 150,000 on repairs, essentially some
+plumbing and electrical work and repainting the window front. Mr A may deduct both
+the cost of rent paid as werll as the repair costs under s. 11. Section 14 has no application
+because Mr A does not own the premises.
+D
+i. Claiming capital allowance on repair expenses incurred by a lessor
+The lessor will charge a certain amount of rent but be obliged to incur costs in making any
+necessary repairs. These repairs would be deductible to the lessor subject to the limitation in s.
+14. The excess repair cost which is not allowed as a deduction due to such limitation could be
+added to the depreciation basis of the asset and entitled to claim capital allowance.
+ii. Claiming capital allowances by lessee on improvements made by lessee.
+Conceptually, repairs do not improve the value of an asset but only maintain it. By contrast,
+improvements enhance the value of an asset. As well improvements produce the benefit for
+lessee and the cost will last longer than 12 months. Accordingly, such cost will be capital nature,
+hence not deductible under section 11. But the expense will constitute an intangible asset of the
+lessee for which capital allowances may be claimed over the term of the lease.
+Example 5.8.3
+Mr P enters in to a lease for 3 years with company S and under the terms of the lease, Mr
+P is obliged to not only make repairs but also to install a modern brick storage facility
+during the first year of the lease. Mr P incurs the rent and repairs. In addition, Mr P
+incurs Rs. 420,000 in installing the new storage facility.
+50
+
+Improvement cost Rs. 420,000
+Lease period 3 years
+Capital allowance for a year 400,000/3 = 140,000
+iii. Claiming capital allowances by lessor on improvements made by lessee.
+Improvements should be considered as a payment of rent and taxable to the lessor. In such a
+case, it is appropriate to treat the amount taxable in respect of the improvement as falling into the
+cost base of the asset in question. This would enable the lessor to claim depreciation allowances
+in respect of the improvement (amount included in income).
+Example 5.8.4
+t
+According to the above example cost of improvements of Rs. 420,000 made by Mr. P
+(Lessee) is considered as a payment of rent to Mr. S (lessor). Hence taxable to Mr. S (the
+f
+lessor.)
+a
+5.9 The circumstances of including assessable charges or granting balancing allowances
+Where a depreciable asset of a person is realized, when calculating the person’s income;
+r
+(a) an assessable charge is included or
+(b) a balancing allowance is granted
+D
+The realization of depreciable assets is dealt with in Fourth Schedule paragraph 4. Where the
+depreciable asset is realized, the simple rule is that the amounts derived on realization of end of
+the year in which the disposal takes place.
+to the person for the year calculated in accordance with the following formula.
+(a) Calculation of an assessable charge (profit)
+consideration received - written down value of the asset at the time of realization of
+the asset
+If the amount received on realization of a depreciable asset exceeds the written down value of the
+asset at the time of realization, such amount will be required to include an amount in their
+income,
+Example 5.9.1
+Company A runs a property rental business and owns a building of apartments for rental.
+At the start of year 1, the balance in Company A's class 4 is Rs. 30,000,000, i.e. the
+balance at the end of the previous year less the depreciation allowance granted for that
+year. Company A is expecting to sell off a large number of the apartments in the building
+except for a few select apartments. As a result, during year 1 it receives Rs. 50,000,000
+as proceeds from the sales.
+51
+
+Consideration received from the realization of apartments during the year - Rs. 50,000,000
+Less: written down value at the end of the year of assessment - Rs. 30,000,000
+The amount to be included in calculating its income for year 1 - Rs. 20,000,000
+(b) Calculation of balancing allowance (Loss)
+written down value of the asset at the time of realization of the asset- consideration received
+If the written down value exceeds the amount received on realization, the excess is allowed as a
+deduction in calculating the person's business income.
+t
+f
+Example 5.9.2
+a
+Company R sells office furniture at the price of Rs. 700,000 and at the time of disposal
+the written down value of the asset is Rs. 1,000,000.
+With respect to the office furniture, Company R will be granted a deduction in the
+r
+amount by which the written down value of the asset exceeds the proceeds of sale, i.e. Rs.
+300,000.
+D
+Sale proceed = Rs. 700,000
+WDV = Rs. 1,000,000
+Balancing allowance (Loss) = Rs. 300,000
+Rs. 300,000 is allowed as a deduction when calculating company R’s business income
+“written down value of an asset at the time of realization of the asset” means; the expenses
+incurred by a person in acquiring the asset reduced by all depreciation allowances granted to the
+person under paragraph 2 in respect of the asset.
+5.9.3 Enhanced Depreciation Allowances – Second Schedule
+A person who invests in Sri Lanka (other than the expansion of an existing business) during a
+year of assessment shall be granted enhanced capital allowances, in addition to the capital
+allowances computed under the Fourth Schedule.
+1. Enhanced capital allowances shall be granted to the person for the year if the total
+expenses incurred by that person during that year on depreciable assets (other than
+intangible assets) as follows;
+52
+
+Criteria Limitation Percentage of
+capital
+allowance
+1. Depreciable assets used in a part of exceeds USD 3 million but 100%
+Sri Lanka other than the Northern does not exceed USD 100
+Province million
+2. Depreciable assets used in a part of exceeds USD 100 million 150%
+Sri Lanka other than the Northern
+Province
+3. Depreciable assets used in the exceeds USD 3 million 200%
+Northern Province
+4. Depreciable assets of state-owned exceeds USD 250 million 150%
+company that are used in a part of
+Sri Lanka
+t
+f
+2. Depreciation allowances arising above one paragraph of above table with respect to a
+a
+particular year of assessment cannot be accumulated with another paragraph and shall be
+taken in that year and shall be deferred to a later year of assessment.
+r
+D
+53
+
+Chapter 6 - Investment Income
+6.1. What is Investment Income?
+Investment income is defined in the Act as follows;
+“Investment” means –
+(a) The owning of one or more assets, including one or more assets of a similar nature or
+that are used in an integrated fashion, and
+i. Includes a past, present or prospective investment; but
+ii. Excludes a business or employment; or
+(b) A game of chance, including lotteries, betting or gambling;
+t
+Accordingly, Investment involves holding assets (except for an asset being the principal place of
+residence of residence an individual, subject to condiftions) passively for gain. As per the concept
+of dominancy over sources of income, it excludes the business or employment.
+a
+Section 7 defines the types of investment income. Accordingly, in calculating person’s gains and
+profit from an investment, following amounts received or derived by the person during the year
+of assessment shall be included.
+r
+(a) dividends, interest, discounts, charges, annuities, natural resource payments, rents, premiums
+and royalties;
+D
+(b) gains from the realisation of investment assets as calculated under Chapter IV;
+(c) amounts derived as consideration for accepting a restriction on the capacity to conduct the
+investment;
+(d) gifts received by the person in respect of the investment;
+(e) winnings from lotteries, betting or gambling; and
+(f) Other amounts required to be included under this Act.
+It is noted here many of the types of the income mentioned above as investment income may also
+be derived in the context of business. The effective connection with the type of activity
+determines whether amount is from business or investment. The “effectively connected” test is a
+question of nexus or association. So, if an amount is derived in the context of business, it is
+treated as business income irrespective of whether it is mentioned in section 7. For example,
+interest income is definitely being a business income for a bank even if it is mentioned in section
+7. Further, if an exporting company deposit its additional funds in a 5-year fixed deposit plan
+with a bank will amount to an investment. However, interest income earned by such company
+from the money kept in a bank to get export guarantees amounts to a business receipt as it is
+effectively connected to the business.
+54
+
+In this regard, IRD will continue to apply the approach of the court of Appeal in Ceylon steel
+corporation limited vs Commissioner General of Inland Revenue. Further, with amounts other
+than the interest (why), it is acceptable principles of generally acceptable accounting standards in
+classification of income items.
+The Consequences attached with the decision whether an amount constitutes income from a
+business or income from an investment.
+1. Deduction of Expenses
+Applicability of deduction rules on expenses depends on whether the relevant amount
+constitutes income from a business or income from an investment.
+t
+Accordingly, following sections are not applicable in calculating the person’s income
+from investment.
+f
+i. Section 13 - Allowance for trading stock
+a
+ii. Section 14 - Repairs and improvements
+iii. Section 15 - Research and development expenses and
+Agricultural start-up expenses
+iv. Section 16 - Capital Allowance and balancing allowance
+v. Section 17 - Lorsses on realisation of business assets and
+Liabilities
+D
+2. Deduction of unrelieved losses under section 19
+The classification of a revenue receipt either to a business or an investment is required to
+apply rules of deduction unrelieved losses under section 19.
+Such applicable rules are as follows;
+i. Unrelieved losses from business may be deducted in calculating income from an
+investment.
+ii. Unrelieved losses from an investment shall be deducted only in calculating
+income from an investment.
+3. Method of Accounting
+The requirement of the Act to keep accounts for income tax purposes under section 21
+depends on whether an individual or entity conducting a business or having an
+investment.
+Accordingly, the section has set out following requirements;
+i. An individual shall account for income tax purposes on a cash basis in
+calculating the individual’s income from investment.
+55
+
+ii. An entity shall account for income tax purposes either on a cash basis or
+accrual basis whichever properly computes the entity’s income from
+investment.
+iii. An individual or entity conducting business shall account for income tax
+purposes on an accrual basis.
+4. Deduction of qualifying relief under section 52.
+An individual who receives rental income from an investment asset, that means
+who receives rental income as a receipt from an investment only and not as a
+business receipt can claim qualifying relief referred to in section 52.
+t
+Investment and Investment Asset
+f
+As per the definitions given for “investment” and “investment asset “in section 195, owning of
+any kind of asset (not only investment assets) amounts to be an investment. However, to be
+a
+treated as an investment asset, a capital asset, subject to the exclusion in the definition,
+6.2.Investment receipts
+r
+6.2.1. Rent
+“Rent” – D
+(a) means a payment, including a payment of a premium or like amount, for the use of or
+right to use property of any kind;
+(b) includes a payment for the rendering of, or the undertaking to render, assistance
+ancillary to a use or a right referred to in paragraph (a); but
+(c) excludes a natural resource payment or a royalty;
+A person may lease a tangible asset in return for rent. The activity of the person in leasing the
+asset may or may not amount to a business, where it does not, the rent must be included in
+calculating the person's income from their investment,
+Example 6.2.1.1
+Mr. Aruna acquires an office building (and land) in 1st year for Rs. 30 million. Mr Aruna
+holds the building as an "investment" (defined in s. 195). Therefore, at the end of 1st year
+Mr. Aruna must calculate his income from the investment and (assuming that all the facts
+occur within Sri Lanka) this will also be Mr. Aruna 's assessable income from the
+investment under s. 7. Mr. Aruna 's assessable income from the investment must be
+included in calculating his taxable income under s. 3.
+Income from an investment is calculated under s. 7(1) as the profits and gains from
+conducting the investment. So, in principle, any rent received from the property is
+included in calculating those profits and gains, s. 7(2)(a).
+56
+
+Withholding is required of the tenant under s. 84(1) (it is not excluded by s. 84(2)(a)
+unless the tenant is an individual who is not conducting a business from the rented
+office). Therefore, rent is subject to 10% withholding under First Schedule paragraph 8
+but it is not final. Mr Aruna is able to claim this WHT as a credit from his final tax
+liability s.89.
+Mr Aruna incurs expenditure in the form of commission for the services of the property
+manager. This payment of commission is deductible for Mr Aruna as it is incurred in
+deriving the rent.
+Mr Aruna cannot deduct the expenditure on the acquisition of the building because it is
+of a capital nature, s. 11(2). In particular, ps. 11(3) states that expenses are of a capital
+nature if incurred in securing a benefit lasting longer than 12 months, which would
+t
+include acquiring an asset with a useful life exceeding 12 months. The building is an
+asset (as per definition in s. 195) and would have a useful life exceeding 12 months.
+f
+While the acquisition cost of the building is not deductible, it is a cost incurred with
+respect to the building under s. 37(1)(a). The land and building will be considered a
+a
+single asset, and not a depreciable asset, so Mr Aruna is also not entitled to any
+deductions for repairs and improvements to the building (s. 14) or for depreciation of the
+building (s. 16). However, the benefit of repairs not lasting longer than 12 months is
+deductible under s.11.
+r
+If Mr Aruna does not claim above repair expenses under section 11he will be able to
+claim individual relief under fifth schedule
+D
+“in the case of an individual with rental income from an investment asset, an amount
+equal to 25 percent of the total rental income for the year of assessment, being a relief for
+the repair, maintenance, and depreciation relating to the investment asset, but shall only
+be allowed to the extent no deduction or cost is claimed for any actual expenditures
+incurred by the taxpayer for the repair, maintenance, and depreciation of the investment
+asset;”
+6.2.2. Royalties
+“royalty” means a payment, including a payment of a premium or like amount, derived
+as consideration for –
+(a) the use of or right to use a copyright of literary, artistic or scientific work, including
+cinematograph films, software or video or audio recordings, whether the work is in electronic
+format or otherwise;
+(b) the use of or right to use a patent, trade mark, design or model, plan, or secret formula or
+process;
+(c) the use of or right to use any industrial, commercial, or scientific equipment;
+57
+
+(d) the use of or right to use information concerning industrial, commercial, or scientific
+experience;
+(e) the rendering of or the undertaking to render assistance ancillary to a matter referred to in
+paragraph (a), (b), (c) or (d); or
+(f) a total or partial forbearance with respect to a matter referred to in paragraph (a), (b), (c),
+(d) or (e);
+As discussed previously, the definition of "royalty" in s. 195 is predominately a payment for the
+use of intangible property. The specific inclusions in the definition are largely examples of this
+general approach but there are extensions, e.g. in the form of payments for the supply of know-
+how, ancillary payments and forbearance payments.
+t
+Example 6.2.2.1
+f
+PQR Sri Lanka Ltd manufacturer of the product A and is the patent owner for that
+a
+product. During the year 2018/2019 the Company sells a temporary license to use its
+patent in Bangladesh to Dhaka Industries for a price of Rs. 1 million and 5% of gross
+profits from its use. The Company receives Rs. 500,000 from Dhaka Industries under the
+5% clause. The money paid for the Bangladesh license is a payment for the use of a
+r
+patent and therefore falls within the meaning of paragraph (b) of the definition of
+"royalty" in s. 195(2).
+D
+Though the result of Rs. 1.5 million is an amount that can be included under s. 7(3)(a),
+but, because the amount is effectively connected with the Company's business, Company
+must include the amount in calculating its income from the business - s. 6(3)(g).
+The royalties received are for the use of an asset in Bangladesh and so they will have a
+foreign source, s. 73(1)(c) and (2). Therefore, if Bangladesh taxes the royalties, the
+Company may be allowed a foreign tax credit for that tax under s. 80.
+6.2.3. Natural resource Payments
+“Natural resource” means minerals, petroleum, water or any other non-living or living resource
+that may be taken from land or the sea;
+“natural resource payment” means a payment, including a premium or like amount, for the right
+to take natural resources from land or the sea or calculated in whole or part by reference to the
+quantity or value of natural resources taken from land or the sea;
+According to the definition natural resource payments are excluded from the definitions of "rent"
+and "royalty", i.e. if a payment is a natural resource payment it is neither rent nor royalty. The
+definition of "natural resource payment" has two branches. The first branch focuses on the "right
+to take" resources "from land or the sea". Such resources could be living or non-living, so the
+definition includes the removal of living resources such as trees, crops and fish. It also includes
+non-living resources such as water, minerals, soil or oil.
+58
+
+The resource must be taken from the land or the sea and so resources that live above the land,
+like most animals, are not included unless they are attached to the land, as in the case of trees and
+crops. Further, it is only payments for the "right to take" the resources that are covered. So, for
+example, a payment for the right to enter a property, cut down and take away trees is a natural
+resource payment, but a payment for trees that have already been cut down is not.
+The second branch of the definition of "natural resource payment" in s. 195 covers indirect
+payments of the type covered by the first limb. It covers payments that are calculated according
+to the amount of natural resources to be taken from the land or the sea.
+t
+Example 6.2.3.1
+f
+Mr Kasun owns an agricultural land which believes include certain minerals. Company
+ABC is a mining company. In year 1 it pays Mr Kasun LKR 1 million for the right to
+enter his property and test for thae existence of this minerals. In year 2 Company ABC
+discovers substantial quantities of various minerals and signs a 5-year agreement under
+which it agrees to pay Mr Kasun what is described as a "royalty" of 5% of the value of
+minerals extracted. Extraction begins in year 3 and during that year Company ABC pays
+Mr Kasun "royalties" of LrKR 2 million under the agreement.
+The payment received in year 1 is not a "natural resource payment" in s. 195 because it is
+D
+not for taking resources from Mr Kasun's land but for the right to enter the land. Any
+right to take minerals would be merely supplementary to the main right of entry. The
+right of entry would be a licence and so be a "lease" as defined in s. 195. As the LKR 1
+million is a payment made under this "lease", it is "rent" as defined in s. 195.
+It is clear that the receipt of this rent is not "effectively connected" with Mr Kasun's
+agricultural business for the purposes of s. 6(3)(g). Rather, the rent will be received with
+respect to the "investment" of Mr Kasun in holding his property. While this property will
+generally be considered a business asset in the context of Mr Kasun's agricultural
+business, it is only such an asset to the extent to which it is used in the business. The
+granting of the right of Company ABC to enter the land does not involve the "use" of the
+land in the context of Mr Kasun's agricultural business. To this extent, the holding of the
+land by Mr Kasun constitutes an investment. The LKR 1 million received from
+Company ABC constitutes rent from this investment and must be included in calculating
+his income from this investment, s. 7(2)(a). The "royalties" received by him in year 3 do
+constitute a "natural resource payment" under s. 195 and so are not a "royalty" for tax
+purposes. As with the payment received in year 1, the payment received in year 3 will be
+received in the context of Mr Kasun's investment in his property. So, he must include the
+LKR 2 million in calculating his income from the investment in year 3.
+Company ABC required to deduct 10% WHT from 1M Rent and 14% from 2M natural
+resource payment and Mr Kasun is able to claim this WHT as a credit from his final tax
+liability s.89.
+59
+
+6.2.4. Dividend
+"Dividend" is defined in s. 195(1) very broadly in terms of a payment derived by a member from
+a company, paragraph (a) of the definition of "dividend" in s. 195(1). The concept of "payment"
+imports a broad meaning as defined in s. 195(1) and so the concept of "dividend" covers all types
+of in-kind payments and constructive distributions. Also included in the concept of "dividend" is
+a capitalization of profits by a company, whether by way of a bonus share issue, increase in the
+amount paid-up on shares or otherwise, and regardless of whether such amount is distributed or
+not.
+However, the amount of "dividend" is reduced by any payment made by the member to the
+company, debited to a capital, share premium or similar account, or otherwise constitutes a final
+withholding payment or is included in calculating the income of the member, paragraph (c) of
+definition of "dividend" in s.195(1).
+t
+Definition of a “Dividend”
+f
+(a) a payment derived by a member from a company, whether received as a division of profits,
+in the course of a liquidation or reconstruction, in a reduction of capital or share buy-back
+a
+or otherwise;
+(b) includes a capitalization of profits –
+i. whether by way of a bonus share issue, increase in the amount paid-up on shares or
+r
+otherwise; and
+ii. whether an amount is distributed or not; and
+(c) excludes a pay
+D
+ment to the extent to which it is –
+i. matched by a payment made by the member to the company;
+ii. debited to a capital, share premium or similar account; or
+iii. otherwise constitutes a final withholding payment or is included in calculating the
+income of the member;
+Dividend distribute by way of Bonus share: When a company issues bonus shares the existing
+shareholders in the company receive extra shares. The company pays up the par or nominal
+value of the shares (and any premium) by transferring an amount from the company's retained
+profits to the company’s share capital account. But no money changes indicators when a
+company issues bonus shares and so an issue of bonus shares does not result in a reduction in the
+value of the company. Nevertheless, the issue of bonus shares as capitalization of profits is
+specifically treated as a dividend regardless of whether an amount is distributed or not, paragraph
+(b) of definition of "dividend" in s. 195(1)) and so results in a dividend equal to the paid up value
+of the bonus shares. When paid by a resident company, this amount may constitute a final
+withholding payment and subject to a 14% withholding tax, ss. 61(1)(a), 88(1)(a) and First
+Schedule. When paid by a non-resident company, this amount must be included in calculating
+the income of the shareholders, s. 61(1)(b).
+However, the issue of bonus shares potentially causes a reduction in the value of the existing
+shares.
+60
+
+In this situation, in order for the final withholding payment to qualify as a cost, then it is
+requiring that those costs and the costs for the existing shares are spread evenly across the bonus
+shares and the existing shares. If the bonus shares are of a different class to the original shares,
+the spreading must be proportionate to the market values of the different classes.
+Example 6.2.4.1
+Mr. A owns 100 shares in Company Z, a resident company. Mr. A paid Rs. 500 per share
+for the shares. Company Z capitalizes profits and Mr. A receives in respect of his
+shareholding a further 20 shares with a paid-up value of Rs. 300 per share. Company Z is
+treated as distributing a dividend equal to the capitalized amount of the bonus shares, i.e.
+Rs. 300 per share and will be liable to account for final withholding tax at the rate of 14%
+t
+on this amount. Mr. A has costs with respect to his existing shareholding of Rs. 500 per
+share.
+f
+Mr. A has costs of a further Rs. 300 per bonus share but requires Mr. A to spread this
+a
+amount and the costs of the existing shareholding evenly across the entire shareholding
+after the issue of the bonus shares. In order to do this, Mr. A must calculate his costs of
+his entire shareholding.
+This amounts to Rs. 56,000 {(100 x500=Rs. 50,000) +(20 x 300 = Rs. 6,000). Mr. A
+must divide this amount rby the number of shares he now holds, i.e. 120. This gives
+adjusted cost of Rs. 467 per share. Therefore, if Mr. A subsequently sells 10 shares for
+Rs. 5,500 he will realize a gain on disposal of Rs. 830 (Rs. 5,500 less Rs. 4,670)
+D
+irrespective of whether Mr. A sells part of his original shareholding or part of his bonus
+shareholding.
+6.2.5. Interest
+“interest” includes –
+(a) a payment, including of a discount or premium, made under a debt obligation that is not a
+return of capital;
+(b) a swap or other payment functionally equivalent to interest;
+- Interest to be assed is income derived from investment, loans, charges on unpaid debts,
+and court awards etc.
+- interest income is a part of an investment income.
+- The surplus received by a person for the money deposited in a bank or financial
+institution is interest.
+- The additional amount received by a person who lends money is an interest. If any
+charge is not settled within specific time period, the additional amount to be charged and
+that is also an interest.
+- Unpaid debt also increases by an additional amount and that also identified as interest.
+61
+
+6.2.6. Other receipts
+Discount - Income from discounts means the gains derived from the casual discounting of bills
+of exchanges etc. Gains arising from the discounting of bills of exchange, cheques, etc. in the
+normal course of business considered as business income.
+Charges - A charge is a sum received by a person under deed or an order of court which is
+secured on the income or property of payer.
+Annuities - An annuity is a fixed sum receivable annually which is not a capital nature. The
+payment of an annuity which should be made with reference to a year may be in periodic
+instalment.
+t
+Example - Receipt of monthly payment after contributing of pension fund
+f
+Premiums - are payments received as a consideration for obtaining the right to use a property
+rather than for the actual use of the propearty.
+Example- Receipt of key money on letting a premise
+6.2.7. Gift Received on Investment
+r
+“gift” means a transfer without consideration or a transfer with consideration to the extent that
+the market value of the property exceeds the market value of the consideration.
+D
+6.2.8. Winnings from lotteries
+Winnings from lotteries, betting or gambling are specifically deemed to be income from an
+investment, s. 7(3)(e). However, no deduction is allowed for amounts incurred on lotteries,
+betting or gambling, s. 10(a)(IX). This prohibition against deduction does not apply to amounts
+incurred from conducting a business of gambling.
+Example 6.2.8.1
+Mr A won Rs. 1 million from a lottery. He spent Rs. 100,000 on lottery tickets for that draw. Mr
+A must recognize all Rs. 1 million as income from an investment but may not deduct the Rs.
+100,000 as expenses incurred in the production of income from the investment.
+Assume Mr A runs an illegal gambling operation. The illegality of the operation does not
+preclude the income derived from income taxation. Mr A must recognize all income derived
+from the gambling operation as income from a business, and he may deduct expenses and losses
+incurred in conducting the business in accordance with Division IV of Chapter II.
+62
+
+Chapter 7 - Capital gains
+For income tax purposes capital gain is treated as an investment income. The type of income is
+enumerated in paragraph (b) of subsection (2) of section 7 under source of investment income, as
+follows:
+“(b) gains from realization of investment assets as calculated under Chapter IV” Accordingly,
+Capital gains tax (CGT) is charged on the gains arise from realization of investment assets.
+The “investment asset” is defined in section 195 of the Act as follows:
+investment asset -
+(a) means a capital asset held as part of an investment, but –
+t
+(b) excludes the principal place of residence of an individual, provided it has been owned by
+the individual continuously for at least two of those three years (calculated on daily
+f
+basis)”
+a
+As defined in section 195,
+capital asset –
+means each of the following assets: -
+r
+i. land or buildings;
+ii. a mDembership interest in a company, partnership or trust;
+iii. a security or other financial asset;
+iv. option, right or other interest in an asset referred to in the foregoing paragraphs;
+but
+excludes trading stock or a depreciable asset”
+7.1. General Rules (Sections 36-41)
+Division I of Chapter IV of the Act deals with general introduction to this Chapter.. The gain is
+calculated as the consideration received for the asset or liability exceeding the cost of the asset or
+liability at the time of realization.
+In deciding the gain, the following factors need to be considered:
+- Whether the asset is an investment asset as defined.
+- the asset utilized prior to the realization was not in any manner connected to the business
+- The gain calculated as explained below is does not exceed Rs. 50,000/- for resident
+individual
+63
+
+7.1.1. Calculation of gains and liability (Section 36)
+A gain is realized when an asset is sold or exchanged at a price higher than its cost. Similarly, a
+loss occurs when an asset is sold for less than its cost. Gains or loss can be categorized as a
+business income or investment income. If it is an investment income the gain is a capital gain
+and if it is effectively connected to a business income, it is a trade profit and not a capital gain.
+Therefore, a gain can be defined as a “Consideration received (Sec 38) for the asset or liability
+exceeds the cost of the asset (Sec 37) or the liability (Sec 40) at the time of realization (Sec 39)”
+Consideration received = ********
+Less:
+t
+Cost of an asset or Liability = ********
+f
+Gain or loss = ********
+a
+7.1.2. Cost of the assets and liability (Section 37)
+Section 37 is discussed the matter of calculating of cost of an asset. Accordingly, the cost of an
+asset includes expenditure that incrurred in acquiring of an asset, further it can be an improvement
+or any incidental expenses. The term incidental expenses have been defined in the Section 37(4)
+itself. Example: Advertisement expenses, transfer tax, stamp duty etc.
+D
+Subsection 2 of the section 37 further elaborate a situation where income amount also considers
+as a cost of an asset.
+Following are the examples:
+- Amount included in person’s income (Employment/Business /investment/other income)
+Ex: Land given to employee as part of an employment income
+- Amount received as exempt income– Third Schedule
+Ex: Bonds to diplomatic person as part of remuneration
+- Amount received as final Withholding payment
+Ex: Lottery winning, rewards
+Calculation Summary of Section 37
+Expenditure incurred to acquire the asset = *********
+(Including construction, manufacturing or production of the asset)
+Add: Expenditure incurred to altering the asset = *********
+(Improving, maintaining, repairing)
+Add: Incidental expenditure (acquiring or realizing) = *********
+(Advertising, transfer taxes, lawyer fee …)
+Add: Income amount = *********
+Cost of an asset = *********
+64
+
+Special Note: Transitional Provisions - sec 203 (4)
+According to the above provisions the cost of an investment asset held by a person as at,
+September 30, 2017 is equal to the market value of the asset at that time.
+Example 7.1.2.1
+Mr. X purchased a land for Rs 3,500,000 on 12.12.2015 and hold as his investment. The
+land and building value as at 30.09.2017 was Rs 4000, 000. X sold asset for Rs 6,000,000
+on 1.05.2018 and incurred following expenditure before selling advertisement Rs
+100,000, Brokerage fee Rs 60,000 and legal fee Rs 75000.
+Sale consideration t 6,000,000
+Less: Value of the asset as on 30.09.2017 4,000,000
+f
+Less: Cost of an asset
+Purchase cost a 3,500,000
+Advertisement 100,000
+Brokerage fee 60,000
+Legal fee r 75,000 4,235,000
+Capital gain 1,765,000
+D
+Cost of an asset 2,000,000
+Capital gain 200,000
+7.1.3. Consideration received (Section 38)
+Consideration received can be cash received or receivable by the person for an asset. The
+concept of consideration can be form of exchange one property instead of payment is cash to
+another in such a situation market value of the asset consider as consideration received.
+Consideration received for an asset shall be,
+(a) Amount received or receivable on the realisation -cash
+In the case of consideration received other than cash - market value
+Ex: Exchange of asset to another asset
+(b) Amount received in respect of owning the asset
+Ex : Altering ,repairing
+(c) Amount received or entitlement to receive in future – advance
+i.Grant of an option
+ii. Consideration received for an asset shall not include an exempt amount or final WHT.
+65
+
+Example 7.1.3.i
+Company A is a land developer. During year 1 it gives Mr Z, one of its executives, a plot
+of land as a bonus. The market value of the land is Rs 2 million. This amount must be
+included in calculating the income of Mr Z from the employment by Company A for year
+1. Mr Z sells the land in year 3 for Rs2.2 million.
+Sale consideration 2,200,000
+Less:
+Cost of an asset t 2,000,000
+Capital gain 200,000
+f
+7.1.3.1. Grant of an Option a
+An option is an agreement between the grantor, or writer, and the grantee. Typically, the grantor
+gives the grantee the right to buy or to sell a specified quantity of something such as shares, land
+or any capital assets at a price firxed by the option agreement. This right can only be exercised
+during a specific period or on a specific day.
+D
+Example 7.1.3.ii
+B pays to Mr A Rs 1,000,000 for the grant of an option entitling the holder to acquire a
+land from A for Rs 5 M.. Mr B subsequently did not exercise the option and sell the
+option to Mr C for Rs 2 M.
+Mr A Tax Liability
+Consideration = 1,000,000
+Cost = --------
+Gain = 500,000
+Mr B Tax Liability
+Consideration = 2,000,000
+Cost of acquisition = 1,000,000
+Gain = 1,000,000
+7.1.3.2. Realization (Section 39 and 43)
+Capitan gain arises when assets are sold, Section 39 (a) and (b) deal with the situation where
+person apart with ownership of the asset physically by way of sold, exchanged, transferred,
+destroyed, lost, expired etc. The death of person considers as realization of asset immediately
+before the death. The special provisions given in the section 44.
+66
+
+Deem realization
+Section 39(c) to 39 (f) discussed the matter of deem realization. This means that ownership of
+the assets is not actually transfer to another person, deem realization take place.
+7.1.3.3. Liability (Section 40)
+Section 40 deals with the determination of the cost and the consideration received for liability
+similar to assets and subsection (1) provides for the calculation of cost of liability and
+consideration received, similar to the calculation of assets in section 37 and section 38
+respectively.
+t
+Subsection (2) explains the special circumstances treated as realizing the liability which will
+arise, when person ceased to owe the liability by way of
+f
+- Transfer, satisfy, cancel
+a
+- Death
+- Change in residence
+7.1.4. Reversal quantification and compensation of amount (Section 41)
+r
+7.2. Special Rule (Sec 42-51)
+D
+7.2.1. Cost of trading stock and other fungible assets (Section 42)
+- This is discussed under business income. Give reference to business income - business income
+7.2.2. Realization with retention of asset (Section 43)
+In this section deemed realization and deemed reacquiring the assets of the person who realizes
+assets in the manner set out in paragraphs (c) to (f) of section 39 are dealt with .
+The way of calculation of gain or loss when deemed disposal take place should be made as per
+section 43.
+Deemed disposal - refers to a situation where it is considered to have been disposed even that
+investment asset has not actually transfer to .
+Deemed proceeds of disposal – refers to a situation that the consideration deemed to have been
+received and the value is equal to the market value, even though the consideration has actually
+not received.
+Deemed cost – refers to reacquire the asset and incurring expenditure of the amount equal to
+deemed realization.
+67
+
+7.2.3. Transfer of asset to spouse or former spouse (Section 44)
+The transfer of asset to spouse of former spouse on death, or as part of a divorce settlement or
+bone fide separation agreement the gain calculated as following formula and for this purpose
+written consent is required.
+Sec 44 (a) Individual deriving an amount equal to net cost (realisation)
+Realisation = Net Cost of the asset
+t
+Sec 44 (b)
+Person who acquire ownership of asset equal fto net cost
+Acquisition cost = Net Cost
+a
+Therefore, by applying above formula, gain will not arise.
+r
+7.2.4. Transfer of asset on death (Section 45)
+D
+Sections 39(b) and 40(2)(b) provide that an individual is treated as realizing all of his or her
+assets and liabilities immediately before his or her death. In principle, the deceased is treated as
+receiving net cost at the time of death in respect of the disposal. The result is that the death of an
+individual is a non-taxing event as regards gains and losses on assets and liabilities. Instead, the
+person who acquires ownership of the asset will be treated as having incurred the same net cost
+in acquiring the asset from the deceased, and any gain derived by such person relative to the net
+cost upon subsequent disposal will be taxed in the hands of such person.
+7.2.5. Transfer of asset to an associate or for no consideration. (Section 46)
+This section provides for the transfer of any type of asset, it can be business asset of investment
+asset by way of transfer ownership to associate or giving gift. Sec 46(2) and (4) provides
+exception to general rule 46(1).
+46(2) provided exception to the general rule for an individual and charitable institutions who
+transfer land or a building situated in Sri Lanka for the associate in relation to the individual. If
+individual transfers capital asset other than land and building 46(1) apply and gain calculated
+accordingly. The term associate has been defining in the sec 46(3) (a)
+68
+
+Example 04:
+Mr. A transferred his asset to his son as follows. Land and building situated in Sri Lanka,
+Asset Net Cost Market value Applicable Tax liability
+Section
+Land and building 5 M 10 M 46(2) No gain
+Family home 3 M 4 M Exempt Exempt
+Unlisted shares 2 M 4 Mt 46(1) 2 M capital
+gain
+f
+a
+In the given scenario Mr. A and Mr. D are associates under section 46(3)(a) and also land is
+situated in Sri Lanka. A residential house is exempted under Third Schedule. Unlisted shares are
+not covered in the 46(2) then gain on realization of shares are subject to Capital gain tax and
+calculation as follows
+r
+D
+Sale consideration 4,000,000
+Less:
+Cost of an asset 2,000,000
+Capital gain 2,000,000
+Section 46(4) permits the non –recognition of a gain that would otherwise require to recognized
+where a person transfer ownership of a business asset. Subject to fulfillment of conditions.
+7.2.6. Involuntary realization of asset with replacement (Section 47)
+This section explains the CGT obligations if the CGT asset is compulsorily acquired.
+There may be a situation where a person receives money or another CGT asset (or both) as
+compensation when a person disposes of an asset involuntarily (or under an insurance policy
+against the risk of such an event happening). In this case, the person may be able to defer the
+liability to pay tax on any capital gain arising on the disposal subject to following conditions
+ Realize an asset in manner set out in Sec 39 (a)
+ Acquires a replacement asset of same type, within six months before or after one year of
+realization.
+ Need to lodge a written election stating your choice
+69
+
+If above conditions are satisfied.
+If Compensation received
+Realization = +
+Net cost exceeds cost of replacement
+asset
+Cost of replacement
+= Net cost + If cost of replacement ass et
+asset
+exceeds compensation
+received
+t
+Mr. A Purchased building and net cost Rs 2,500,000. Asset value as at 30.09.2017 Rs 3,000,000
+and the asset destroyed due to fire and asset wasf insured and insurance claim received Rs
+3,000,000. A replace the asset for Rs 2,500,000. Assumed that all three conditions are satisfied.
+a
+r
+Realization = 2,500,000 + 500,000 (3 M -2.5 M)
+D= 3,000,000
+Cost of asset (Net cost) = 2,500,000
+Gain/loss = 500,000 (3,000,0000-2,500,000)
+Cost of replacement asset = Net cost + (If cost of replacement asset exceeds
+compensation received)
+= 2,500,000 + 0 (4M-4.5M)
+7.2.7. Realization by separation (Section 48)
+Section 48 is another special rule. It deals with the situation where rights or obligations are
+created with respect to an asset (or liability) owned by the taxpayer. The primary issue in this
+sort of case is whether the rights created amount to a part realization of the asset or whether the
+granting of the rights creates a new asset (or liability) in the hands of the owner. If the rights or
+obligations are "temporary or contingent" then there is the creation of a new asset. If the rights
+or obligations are "permanent" then there is a part realization. Under s. 48(2), rights or
+obligations created are permanent if they exceed 50 years. So, if a person who owns land grants
+a lease for more than 50 years it will be treated as a part realization of the land. If the person
+grants a lease for less than 50 years it will not be a part realization but, rather, the owner of the
+land will acquire a new asset, i.e. the lease.
+70
+
+Rights or obligations are contingent if they are not effective until the happening of an event or if
+they cease to have effect on the happening of an event.
+7.2.8. Transfer by way of security, finance lease or instalment sale (Section 49)
+How to calculate gain on realization on treasury bills.
+Example 7.2.8.1
+Mr X bought a treasury bill on 01.05.2018 for Rs 49,500,000. The T-bill’s term is 91
+days and maturity value on 01.08.2018, is Rst 50,000,000. However, he sold it on
+13.06.2018 for Rs 49,750,000. The effective yield rate was 4.05.
+f
+1. Calculation of interest =Purchase price * Effective Yield*Number of days T –bill
+held/365
+a
+= 49,500,000*4.05%*44/365
+= 241,668
+r
+2. Calculating capital gain
+Sale consideration = Rs 49,750,000
+D
+Less: Interest = 241,668
+Net Consideration
+Less: Cost = Rs. 49,500,000
+Capital Gain = Rs. 8,332
+7.2.9. Apportionment of cost and consideration received. (Section 50)
+Where a person acquires more than one asset or liability or realises more than one asset or
+liability. The market value and net cost have to apportionment between assets.
+71
+
+Administration Provisions
+7.2.10. Filling of CGT
+A person disposing of a capital asset should be required to file a CGT return within one month
+after the realization of the capital asset. The CGT tax is imposed on a transactional rather than
+periodic basis. Consequently, a separate return must be file in respect of each transaction.
+A person who fails to file tax return on or before the due date shall be liable to pay a penalty as
+per Section 178.
+Ex: Mr X realized his land on 01.05.2018 and Mr X need to submit return on or before
+01.06.2018. t
+7.2.11. Payment of CGT
+f
+The CGT payable by a person on the disposal of a capital asset should be due on the date for
+filling the tax payer’s CGT return in respect of realization. Where the Commissioner General is
+a
+satisfied that an investment asset has been realised in two or more parts then instalment payment
+can be paid and tax credit will be available.
+Ex: Mr X realized his land on 01.05.2018 and Mr X need to submit return on or before
+r
+01.06.2018
+D
+7.2.12. Exemption
+Capital gain exemptions are limited and mentioned in the Third Schedule.
+ A capital gain that does not exceed an Rs 50,000 is exempt from capital gain tax and
+where the total gains made by the resident individual from the realization of investment
+assets in the year of assessment do not exceed Rs. 600,000,
+ This exemption is applying for the joint –owned property so that the exemption applies
+only if the total capital gain made by all the joint owners of the property does not exceed
+the Rs 50,000.
+Example 7.2.12.1:
+The capital Gain arise from realization of land amount to Rs 1500,000/=. Land is owned by
+three individual equally, then each individual share equal to 331/3%. but Rs 50,000
+allowance is apply for the total gain not for the individual portion. Then calculation as
+follows.
+72
+
+Rs .
+Capital gain = 150,000
+Joint ownership share = 331/3%
+Taxable Capital gain for each individual = 50,000
+Tax on Capital gain = 5,000
+ A capital gain arises by a resident individual on disposal of individual’s principle place
+of residence is exempted provided it has been owned by the individual continuously for
+the three years before being realized and lived in by the individual for at least two of
+those three years (calculated on a daily basis)
+t
+ Gain made on realization of an asset consisting of shares quoted in any official list
+f
+published by any stock exchange licensed by the Securities and Exchange Commission
+of Sri Lanka.
+a
+7.2.13. Capital Loss
+As per Section 19(5) Capital lorss cannot be set-off against any capital gain (nor deductible
+against other forms of taxable income)
+D
+73

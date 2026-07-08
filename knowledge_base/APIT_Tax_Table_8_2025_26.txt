@@ -1,0 +1,78 @@
+TAX TABLE NO: 08
+Rate for the deduction of tax from the employment income received from foreign employer
+This table applies to resident employees who are physically present in Sri Lanka but work
+remotely for a foreign employer.
+This table does not apply to independent service providers and freelancers, as their income
+is considered as business income.
+1. This Table applies, subject to the fulfillment of all the following conditions:
+a) The employer must be a person completely outside Sri Lanka (i.e., the employer cannot have
+a Sri Lankan permanent establishment);
+b) The employee's services must be utilized outside Sri Lanka by the employer; and
+c) Payments to the employee must be received in foreign currency and remitted through a bank
+to Sri Lanka.
+2. According to Section 86 (4) of the Inland Revenue Act, No. 24 of 2017 (as amended), where a
+withholding agent fails to withhold tax from a payment as required by the Division II of Chapter
+VIII –
+(a) the withholdee shall be jointly and severally liable with the withholding agent for the
+payment of the tax to the Commissioner-General; and
+(b) the tax shall be payable by the withholdee within fifteen days after the end of the calendar
+month in which the payment is received.
+Advance Personal Income Tax (APIT) is also considered a withholding tax, as outlined in
+Section 83A(3) of the Inland Revenue Act. Therefore, when the employer fails to deduct APIT,
+the employee must pay the due APIT amounts within fifteen days after the end of the calendar
+month in which the payment is received.
+3. Since the employer is a person outside Sri Lanka, the employer will fail to deduct APIT.
+Therefore, the employee must comply with the requirement by making the due tax payment,
+calculated as in item 4, each month. The payment must be made to the employee's Taxpayer
+Identification Number (TIN), and the tax type for this purpose is Individual Income Tax (IIT).
+4. Starting from April 1st of the year of assessment and continuing until the end of the year of
+assessment, which is March 31st of the following year, compute the cumulative employment
+income (after converting the foreign currency amounts into Sri Lankan Rupees) received each
+month. Tax payments should begin when the cumulative income exceeds Rs. 1,800,000.
+Cumulative Employment Income (Rs.) Tax Rate
+Relief from Tax
+Up to 1,800,000
+6% of Cumulative Employment income
+Exceeds 1,800,000 but not exceeding 2,800,000
+less 108,000
+Exceeds Rs. 2,800,000 15% of Cumulative Employment income
+less 360,000
+
+Compute the total tax liability on the cumulative employment income by applying the above
+table. The due tax amount for the relevant month shall be calculated by subtracting the
+cumulative tax amount paid up to the end of the previous month from the total tax liability for
+the relevant year of assessment.
+Example:
+Mr. Kasun Meedeniya is a software developer who was directly recruited and works remotely
+for a UK-based company. He stays in Sri Lanka and develops software based on instructions
+received from the foreign company. He receives a monthly remuneration of USD 6,000 and a
+bonus of USD 10,000 in the month of October. Foreign currency remittances (converted to Sri
+Lankan Rupees at CBSL buying rate) by the employer to his account and tax payments should
+be made as follows:
+Month FC Cumulative Total Tax Liability Payable for each
+(Y/A receipts Employment (Rs.) month (due on or
+2025/2026) (Converted Income (Rs.) before 15th day of
+to Rs.) next month) (Rs.)
+April 1,794,000 1,794,000 - -
+May 1,806,000 3,600,000 3,600,000 * 15% - 180,000 - 0 = 180,000
+360,000 = 180,000
+June 1,728,000 5,328,000 5,328,000 * 15% - 439,200 – 180,000
+360,000 = 439,200 =259,200
+July 1,710,000 7,038,000 7,038,000 * 15% - 695,700 - 439,200
+360,000 = 695,700 = 256,500
+August 1,776,000 8,814,000 8,814,000 * 15% - 962,100 – 695,700
+360,000 = 962,100 = 266,400
+September 1,800,000 10,614,000 10,614,000 * 15% - 1,232,100 – 962,100
+360,000 =1,232,100 = 270,000
+October (with 4,752,000 15,366,000 15,366,000 * 15% - 1,944,900 – 1,232,100
+bonus) 360,000 = 1,944,900 = 712,800
+November 1,728,000 17,094,000 17,094,000 * 15% - 2,204,100 – 1,944,900
+360,000 = 2,204,100 = 259,200
+December 1,716,000 18,810,000 18,810,000 * 15% - 2,461,500 – 2,204,100
+360,000 = 2,461,500 = 257,400
+January 1,614,000 20,424,000 20,424,000 * 15% - 2,703,600 – 2,461,500
+360,000 = 2,703,600 = 242,100
+February 1,740,000 22,164,000 22,164,000 * 15% - 2,964,600 – 2,703,600
+360,000 = 2,964,600 = 261,000
+March 1,752,000 23,916,000 23,916,000 * 15% - 3,227,400 – 2,964,600
+360,000 = 3,227,400 = 262,800

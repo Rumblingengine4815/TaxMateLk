@@ -1,0 +1,34 @@
+
+groq 
+chromadb 
+sentence-transformers 
+langchain 
+langchain-community 
+gradio 
+pdfplumber 
+
+# --- Core RAG & Vector Database ---
+langchain==0.3.14
+langchain-community==0.3.14
+chromadb==0.5.23
+sentence-transformers==3.3.1
+
+# --- PDF Processing & Text Extraction ---
+pypdf==5.1.0
+pdfplumber==0.11.4
+tiktoken==0.8.0
+
+# --- LLM Integration & Inference ---
+ollama==0.4.5
+google-genai>=0.6.0
+google-generativeai>=0.8.2
+huggingface-hub==0.27.0
+
+# --- UI & Deployment ---
+streamlit==1.41.1
+
+# --- Utilities & Data Science ---
+pandas==2.2.3
+numpy==2.2.1
+tqdm==4.67.1
+python-dotenv==1.0.1

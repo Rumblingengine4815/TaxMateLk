@@ -1,0 +1,307 @@
+`
+SEC/PN/IT/2026/02
+08/06/2026
+INLAND REVENUE DEPARTMENT
+Notice to the Taxpayers
+Amendments to the Inland Revenue Act, No. 24 of 2017
+Inland Revenue (Amendment) Act, No. 11 of 2026 has been certified on 03.06.2026
+and important changes made from such amendment Act to the Inland Revenue Act,
+No. 24 of 2017 (IRA) are as follows.
+1. Other Income
+Gains from the realization of motor vehicles shall not be treated as other income
+for the purposes of Section 8 of the IRA. Therefore, gains arising from the
+realization of motor vehicles that are neither trading stock nor depreciable assets
+eligible for capital allowances under the provisions of the IRA are not required to
+be included under sources of income. Likewise, losses arising from the realization
+of such motor vehicles are not allowable as deductions (effective date 01.04.2024).
+2. Provisions Introduced to the IRA, Discouraging Cash Transactions and
+Encouraging Bank and Card Transactions - Section 10 (2A) of the IRA (See
+notice PN/IT/2023-02 dated 11.05.2023)
+The provisions introduced by the Inland Revenue (Amendment) Act, No. 04 of
+2023 were originally aimed at discouraging cash transactions. Following the
+amendment, the relevant provisions of the Act operate as follows.
+If a person pays Rs. 500,000 or more to another person in cash or by any method
+other than:
+ an account payee cheque,
+ an account payee bank draft,
+ a credit card,
+ a debit card,
+ an electronic payment system through a bank account,
+ or by depositing cash in the bank account of the person entitled to the
+payment (amendment – effective from 08.05.2023),
+1
+
+`
+and the payment is made: in a single day, for a single transaction, or through a series
+of transactions relating to the same event,
+then:
+ The payer cannot deduct the payment as a deductible expense when
+calculating assessable income.
+ The payment cannot be included in the cost of an asset for tax purposes.
+Exceptions
+These rules do not apply to payments made to or by:
+ the Government of Sri Lanka or a Government institution,
+ a bank or financial institution, or
+ any other persons or payments specifically exempted by the Minister.
+3. Transfer of Assets to the Government or Universities as Gifts or
+Donation
+The transfer of an asset by way of a gift or donation to the Government of Sri Lanka
+or to any university established or deemed to be established under the Universities
+Act, No. 16 of 1978, shall not subject to tax, as the consideration received from
+such transfer is deemed to be equal to the net cost of the asset. (Effective date
+03.06.2026).
+4. Donation to Government and Government Funds
+A donation made by an individual or entity, whether in money or otherwise, to the
+Government of Sri Lanka or to a fund established by the Government of Sri Lanka,
+which is deductible in arriving at taxable income as a qualifying payment, may be
+carried forward to the next year of assessment and subsequent years after deduction
+from the total assessable income for the relevant year of assessment (effective date
+01.04.2025).
+5. Amounts from Life Insurance Policies
+The clarity of the tax implications relating to receipts under life insurance policies
+has been improved through the introduction of the new Section 52A. Accordingly,
+any amount received by an individual under a life insurance policy, either as the
+policyholder or as a beneficiary, shall be excluded from the assessable income upon
+the death of the insured person, maturity of the policy, or surrender of the policy.
+However, the above exclusion shall not apply to any amount received under a life
+insurance policy that constitutes employment income or business income, or to any
+annuity, pension, retirement or superannuation payment, or any payment received
+under a life insurance policy other than upon the death of the insured person or the
+maturity of the policy.
+2
+
+`
+“Life insurance policy” means a contract of insurance issued by an insurer licensed
+under the Regulation of Insurance Industry Act, No. 43 of 2000, which provides for
+the payment of money on the death of an individual. (Effective date 01.04.2025).
+6. Unit Trust or Mutual Fund
+Unit trusts or mutual funds are required to issue every unit holder with a certificate
+containing details of income, exempt amounts, withholding tax, and any other
+information specified by the Commissioner-General, within five months after the
+end of each year of assessment (e.g., on or before 31 August following the end of
+the year of assessment). Accordingly, pass-through tax treatment shall apply to each
+unit holder.
+If such certificate is not provided, the relevant unit trust or mutual fund shall be
+treated as a company, and the applicable tax shall be paid on or before 30 September
+following the end of the year of assessment. In such circumstances, the unit holder
+shall not be required to make any tax payment.
+The necessary guidelines will be issued in due course (Effective date
+01.04.2025).
+7. Approved Charitable Institution
+An institution incorporated, or registered under any law in force for the registration
+of social service organizations that provide healthcare facilities in collaboration
+with healthcare or education services of the Government shall be treated as an
+approved charitable institution for the purposes of the IRA.
+Organizations that qualify to be gazetted as approved charitable institutions may
+apply to the Tax Policy and Legislation Unit of the Inland Revenue Department
+(IRD) and be included in the list published on the IRD website.
+Donations made by taxpayers to such organizations shall be treated as qualifying
+payments, subject to the provisions of the Fifth Schedule to the IRA.
+Further, where the Commissioner-General is satisfied that the institution bears the
+cost of providing the specified services, a tax credit equal to the tax payable on the
+institution’s taxable income for that year of assessment shall be granted in
+accordance with Section 68.
+8. Changes to the Residence Rules
+An individual who is deemed to be resident in Sri Lanka due to employment on a
+Sri Lankan ship, but who is a citizen or subject of a country other than Sri Lanka,
+shall not be liable for income tax as a resident individual except on income earned
+from employment on that ship. (Effective date 01.04.2025).
+An individual holding an Investor Category Residence Visa is not considered a
+3
+
+`
+resident of Sri Lanka for income tax purposes during that year of assessment.
+(Effective date 01.04.2025).
+ The residency rules for individuals have been clarified by stating that a
+person who leaves Sri Lanka to work abroad for at least one year under a contract
+with an unrelated foreign employer will not be considered a Sri Lankan tax resident
+during that contract period.
+9. Source of Deducted Amounts
+According to Section 72(2) of the IRA, certain payments are not allowed as direct
+deductions when calculating a person’s domestic sources (sources of income in Sri
+Lanka) of income because they relate to foreign-sourced income and are therefore
+deductible only against such foreign sourced income. However, the relevant
+provisions were amended with effect from 01.04.2018 to allow these expenses to
+be deducted directly from domestic sources of income, provided that the expenses
+are incurred in relation to the export of goods or services from Sri Lanka.
+10. Withholding Tax (WHT) Related Changes
+10.1 WHT Deductible by the National Gem and Jewellery Authority on the
+Sale Price of any Gem Sold at an Auction Conducted.
+The National Gem and Jewellery Authority is required to submit a monthly tax
+return within 30 days after the end of each month, including the information
+specified by the Commissioner-General. The format, required details, and
+submission procedure will be announced later. The income tax exemption under
+paragraph (s) of the Third Schedule to the Inland Revenue Act will be granted based
+on the information provided in that return. (Effective date 01.04.2026)
+10.2 Self-Declaration for Resident Individuals Receiving Interest on Deposits
+Maintained in Banks and Financial Institutions.
+Resident individuals who receive interest income from deposits maintained in
+banks or financial institutions may submit a self-declaration if they do not derive
+taxable income for the relevant year of assessment. The applicable procedures and
+forms are available on the Inland Revenue Department website. (Effective date
+01.04.2025).
+Important: If an individual submits a self-declaration containing false or
+misleading information, that individual can be charged a penalty of up to Rs.
+200,000. Before imposing the penalty, the Commissioner-General will issue a
+notice specifying the false or misleading details in the declaration. In addition, the
+individual will not be allowed to submit another self-declaration.
+10.3 Withholding Tax on Service Fee Payments to Resident Individuals
+A 5% withholding tax applies to service payments made to resident individuals
+4
+
+`
+specified in the Subsection (1C) of Section 85 of the Inland Revenue Act, if the
+monthly payment exceeds Rs. 100,000. From the effective date of the amendment,
+June 3rd 2026, this rule also applies to several additional professions, including
+auditor, modeller, personal trainer, coach, valuer, artist, actor, dancer, singer,
+musician, event organizer, photographer, videographer, therapist, counsellor,
+beautician, cook, electrician, dentist, veterinarian, social media specialist, brand
+ambassador, sports person, specialist for information technology, advertising agent,
+advisor, translator, writer or debt collector. Accordingly, withholding agents are
+required to deduct a 5% withholding tax on payments to these individuals if the
+payment exceeds Rs. 100,000 in a month. A revised withholding tax circular has
+been issued, and all deductions and compliance must follow the updated rules.
+10.4 Annual Statement for Withholding Tax
+The Commissioner-General may specify the procedures, formats, and forms for
+submitting the annual statements and all withholding agents must comply with
+those requirements.
+Important: A withholding agent who fails to comply with these requirements may
+be liable for a penalty of up to Rs. 200,000 per year of assessment. Before imposing
+the penalty, the Commissioner-General will issue a warning notice.
+10.5 Withholding Certificate
+All withholding agents must issue a withholding certificate to the withholdee free
+of charge. Accordingly, banks and financial institutions are advised not to charge
+any fee on deposit holders for issuing such certificates.
+11. Payment of Quarterly Income Tax Instalments
+The requirement to file a statement of estimated tax (SET) payable has been
+discontinued. Accordingly, quarterly instalments shall now be paid based on the
+income tax payable for the immediately preceding year of assessment. Example:
+For the year of assessment 2026/2027, quarterly installment shall be paid based on
+the income tax liability of the Year of Assessment 2025/2026.
+If a taxpayer had no taxable income in the previous year of assessment, or expects
+to derive a lower taxable income in the current year of assessment, the estimated
+tax payable for quarterly instalments shall be determined in the manner specified
+by the Commissioner-General. The relevant procedure will be published in due
+course.
+12. Filing Returns of Income
+An individual is not required to maintain an income tax file or submit income tax
+returns if their only income is employment income fully subject to Advance
+Personal Income Tax (APIT), with no quarterly instalments or final tax payments
+due. This relief also applies to employees who have interest income not exceeding
+Rs. 5,000, in addition to employment income fully subject to APIT. However, if
+the Commissioner-General opens an income tax file for such an individual, they
+5
+
+`
+must continue to file returns until the file is officially closed. (Effective from
+01.04.2025).
+ Any person carrying on a Business of Strategic Importance as approved
+under the provisions of the Colombo Port City Economic Commission Act, No. 11
+of 2021 shall file a tax return.
+ Senior citizens are allowed to file such person’s tax returns either in writing
+or electronically from the year of assessment 2025/2026.
+13. Tax Liability on Arrears Salary
+Relief is provided for employees who receive arrears of salary due to reinstatement
+in service of an employment or re-appointment to the same employment after a
+disciplinary action, promotion to a post with effect from a previous date, entitlement
+to any remuneration increment with effect from a previous date of a previous year
+of assessment and similar reasons as specified by the Commissioner- General
+(Effective from 01.01.2024). The refund and calculation procedures will be
+published in due course.
+14. Confidentiality
+Information and documents received by the Commissioner-General in an official
+capacity relating to a specific taxpayer may be disclosed to the Director of the
+Financial Intelligence Unit of the Central Bank of Sri Lanka, the Inspector-General
+of Police, and to the Sri Lanka Accounting and Auditing Standards Monitoring
+Board for specified purposes, subject to the provisions of the Inland Revenue Act.
+15. Registrations and the Use of Taxpayer Identification Number (TIN)
+ Every company incorporated or registered in Sri Lanka must register with
+the Commissioner-General within 30 days of incorporation or registration.
+ The Commissioner General will issue a TIN certificate for all who assigned
+a TIN and that TIN shall not be a secret or confidential information.
+ TIN is a mandatory requirement for the following purposes, and relevant
+responsible officials may request a TIN certificate to carry out their duties. This is
+not applicable to any individual who is not mandatory to obtain a TIN.
+ to open any account at any financial institution
+ to obtain approval for a building plan
+ to register a motor vehicle
+ to renew the license of a motor vehicle
+ to register a land or title to a land
+ to register a business
+ to transfer shares of a company incorporated in Sri Lanka, by the
+transferee and transferor
+6
+
+`
+ to obtain a credit card
+Important: The procedure for verifying the TIN by the relevant officials will be
+specified by the Commissioner-General, and these requirements will take effect
+upon the issuance of those specifications
+16. Amended or Additional Assessments
+If an individual files an income tax return declaring tax payable of at least 120% of
+the tax paid in the immediately preceding year of assessment, pays the full tax
+without claiming a refund, and submits an affidavit confirming no fraud, evasion,
+or wilful default, the return shall be accepted as filed and no amended or additional
+assessment will be made for that year of assessment. Procedure and format of the
+affidavit will be specified in due course. (Effective from 01.04.2025)
+17. Income Tax Refunds due to Cash Basis Accounting
+If a person accounts income under the cash basis for income tax purposes and later
+receives a refund because the original contract is cancelled or changed, they can
+claim a refund of any excess income tax paid on that amount. The refund must be
+claimed within 30 months from the date the amount was refunded.
+The relevant procedures will be issued in due course.
+18. Court Proceedings
+ With effect from the year of assessment commencing on April 1, 2026,
+recovery of default taxes through the court proceedings as a fine according to the
+certificate submitted by the Commissioner General to the Magistrate of the
+Magistrate’s Court within the local limits of whose jurisdiction the defaulter resides
+or the place of business of the defaulter is situated.
+However, certificate shall not be submitted for any default tax disputed by the
+taxpayer under an administrative review or appeal process.
+ Despite section 100, if the Commissioner-General or a court is unable to
+serve a notice or summons on a person, they may record the reasons in writing and
+publish the details in newspapers in Sinhala, English, and Tamil to ensure proper
+notification.
+19. Prosecution Actions
+Where any person fails to,
+ comply by submitting an annual statements (withholding/APIT returns);
+ file an income tax return;
+ register with the Commissioner-General;
+ appear before the Commissioner-General when requested; and
+ submit a tax return under section 126;
+that person may subject to a prosecution action.
+7
+
+`
+Before initiating an action, The Commissioner-General will issue a written notice
+to the person stating that legal action will be taken unless they comply with the
+provisions of the Act within 30 days of receiving the notice.
+If the person not complied for that notice also, that person who commits an offence
+is liable, upon conviction after a summary trial before a Magistrate, to a fine not
+exceeding Rs. 400,000, imprisonment for up to six months, or both.
+A separate explanation will be issued describing how the Inland Revenue
+Department will use these provisions to improve income tax compliance and
+prevent tax evasion.
+Therefore, all taxpayers are requested to comply for the requirement promptly.
+20. Revision of Capital Gain Tax Rates
+Capital Gain tax (Gains from the realization of an investment assets) rates are
+revised and the applicable new rates from 03rd June 2026 are as follows.
+Individuals 15%
+Partnerships 15%
+Trusts 30%
+Unit trusts or mutual funds 30%
+Non-governmental organizations 30%
+21. Enhanced Capital Allowances (ECA)
+A person who invests in depreciable assets (excluding intangible assets) for a new
+business undertaking during a year of assessment is entitled to a 100% Enhanced
+Capital Allowance (ECA). This applies if the total investment in such assets used
+in the undertaking in Sri Lanka is more than USD 250,000. (Effective from
+01.04.2026).
+22. Interest Waiver
+Interest on late payments or underpayments of tax under the Inland Revenue Act,
+No. 24 of 2017 including surcharge tax and debt repayment levy, will be waived up
+to the year of assessment 2024/2025. However, the principal tax amount must be
+paid in full by 02nd December 2026 or should already have been settled. A detailed
+web-notice has been issued regarding this matter.
+Commissioner General of Inland Revenue
+8

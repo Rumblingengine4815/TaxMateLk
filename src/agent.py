@@ -57,7 +57,7 @@ def step_2_retrieve(question: str) -> str:
     
     results = collection.query(
         query_texts=[question],
-        n_results=3  # TOKEN EFFICIENCY: Only grabbing the top 3 chunks instead of 5 or 10.
+        n_results=3  # High token efficiency: Only grabbing the top 3 chunks instead of 5 or 10 for maximum use possible.
     )
     
     context_chunks = []

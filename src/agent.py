@@ -128,6 +128,27 @@ def step_4_generate(question: str, context: str, tool_output: str, user_profile:
     if user_profile:
         profile_str = f"User Profile Context:\\nJob: {user_profile.get('job_type')}\\nIncome Source: {user_profile.get('income_source')}\\n\\n"
         
+    # The model is now fully merged on HF (Lorion4815/taxmate-lk-merged)
+    # We can call it via Inference API if HF_TOKEN is available.
+    model_id = os.environ.get("FINE_TUNED_MODEL_ID")
+    client_to_use = groq_client
+    
+    if model_id:
+        try:
+            from huggingface_hub import InferenceClient
+            hf_token = os.environ.get("HF_TOKEN") or os.environ.get("HF_API_KEY")
+            if hf_token:
+                print(f"[Step 4] Using FINE-TUNED model: {model_id}")
+                client_to_use = InferenceClient(token=hf_token)
+            else:
+                print("[Step 4] FINE_TUNED_MODEL_ID set but no HF_TOKEN. Falling back to Groq.")
+                model_id = "llama-3.1-8b-instant"
+        except ImportError:
+            print("[Step 4] huggingface_hub not installed. Falling back to Groq.")
+            model_id = "llama-3.1-8b-instant"
+    else:
+        print("[Step 4] Using Groq base model.")
+
     prompt = f"""You are TaxMate LK, an expert tax assistant for Sri Lankan freelancers.
 Answer the user's question using ONLY the provided Document Context and Tool Output.
 
@@ -144,18 +165,59 @@ RULES (Follow strictly):
 2. If the answer is not in the context, say "I cannot answer this based on the official IRD documents provided."
 3. If the tool output contains a calculation, present it clearly to the user.
 4. You MUST end your response with exactly two tags on new lines:
-   [Source: filename.txt] 
+   [Source: filename.txt]
    [Confidence: High/Medium/Low]
 """
 
-    response = groq_client.chat.completions.create(
-        model="llama-3.1-8b-instant",
-        messages=[{"role": "system", "content": prompt}],
-        temperature=0.2, # Very low temperature so it sticks to the rules
-        max_tokens=800
-    )
-    
-    return response.choices[0].message.content.strip()
+    if "llama" in model_id.lower() and "instant" in model_id.lower():
+        response = groq_client.chat.completions.create(
+            model=model_id,
+            messages=[{"role": "system", "content": prompt}],
+            temperature=0.2,
+            max_tokens=800
+        )
+        return response.choices[0].message.content.strip()
+    else:
+        try:
+            response = client_to_use.chat.completions.create(
+                model=model_id,
+                messages=[{"role": "system", "content": prompt}],
+                temperature=0.2,
+                max_tokens=800
+            )
+            return response.choices[0].message.content.strip()
+        except Exception as e:
+            print(f"[Step 4] HF API Error: {e}. Falling back to Groq.")
+            response = groq_client.chat.completions.create(
+                model="llama-3.1-8b-instant",
+                messages=[{"role": "system", "content": prompt}],
+                temperature=0.2,
+                max_tokens=800
+            )
+            return response.choices[0].message.content.strip()
+
+
+def extract_user_pdf(pdf_path: str) -> str:
+    """Extract text from user-uploaded PDF document."""
+    try:
+        import pdfplumber
+    except ImportError:
+        return "[Error: pdfplumber not installed. Cannot read PDF.]"
+        
+    text_parts = []
+    try:
+        with pdfplumber.open(pdf_path) as pdf:
+            for page in pdf.pages:
+                text = page.extract_text()
+                if text:
+                    text_parts.append(text.strip())
+        
+        extracted = "\\n\\n".join(text_parts)
+        if not extracted.strip():
+            return "[Error: This appears to be a scanned PDF or image. Please upload a text-based PDF.]"
+        return extracted
+    except Exception as e:
+        return f"[Error reading PDF: {str(e)}]"
 
 
 def run_agent(question: str, user_profile: dict = None) -> str:
@@ -168,6 +230,46 @@ def run_agent(question: str, user_profile: dict = None) -> str:
     final_answer = step_4_generate(question, context, tool_output, user_profile)
     
     return final_answer
+
+
+def run_agent_stream(question: str, user_profile: dict = None, pdf_path: str = None):
+    """
+    Yields intermediate progress strings to be displayed in a Gradio UI,
+    followed by the final answer.
+    """
+    try:
+        # Step 1
+        yield "🧠 **Step 1: Classifying...**"
+        category = step_1_classify(question)
+        
+        # Step 2
+        yield f"🧠 **Step 1: Classifying...** ✅ (Category: {category})\\n📚 **Step 2: Retrieving official IRD documents...**"
+        context = step_2_retrieve(question)
+        
+        # Inject user uploaded PDF if provided
+        user_pdf_context = ""
+        if pdf_path:
+            yield f"🧠 **Step 1: Classifying...** ✅\\n📚 **Step 2: Retrieving official IRD documents...** ✅\\n📄 **Reading User Document...**"
+            extracted_text = extract_user_pdf(pdf_path)
+            user_pdf_context = f"\\n\\n[USER UPLOADED DOCUMENT]\\n{extracted_text[:3000]}"
+            context += user_pdf_context
+        
+        # Format the context into a dropdown
+        context_html = f"<details><summary>📄 View Retrieved Context & Docs</summary>\\n\\n```text\\n{context}\\n```\\n</details>\\n\\n"
+        
+        # Step 3
+        yield f"🧠 **Step 1: Classifying...** ✅\\n📚 **Step 2: Retrieving official IRD documents...** ✅\\n🧮 **Step 3: Calculating tax (if applicable)...**\\n\\n{context_html}"
+        tool_output = step_3_calculate(category, question)
+        
+        # Step 4
+        yield f"🧠 **Step 1: Classifying...** ✅\\n📚 **Step 2: Retrieving official IRD documents...** ✅\\n🧮 **Step 3: Calculating tax...** ✅\\n✍️ **Step 4: Synthesizing final answer...**\\n\\n{context_html}"
+        final_answer = step_4_generate(question, context, tool_output, user_profile)
+        
+        # Final output
+        yield f"{context_html}{final_answer}"
+        
+    except Exception as e:
+        yield f"⚠️ **Error in Agent Pipeline:** {str(e)}\\n\\nPlease check your API keys and try again."
 
 
 if __name__ == "__main__":

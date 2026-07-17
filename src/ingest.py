@@ -107,7 +107,7 @@ def sanity_check(collection: chromadb.Collection):
         "15 percent cap foreign currency ITES",
         "quarterly installment payment deadline",
     ]
-    print("\n--- Sanity check ---")
+    print("\n Sanity check")
     for q in test_queries:
         results = collection.query(query_texts=[q], n_results=1)
         doc  = results["documents"][0][0][:120]

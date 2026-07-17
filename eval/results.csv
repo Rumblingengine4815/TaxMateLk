@@ -1,0 +1,532 @@
+question,base_llm_answer,base_llm_score,rag_agent_answer,rag_agent_score
+"I am a graphic designer. My client paid me Rs. 120,000 in July 2026. Should they have deducted WHT?","As a Sri Lankan tax assistant, I can inform you that according to the Sri Lankan tax laws, a payment made to a non-resident individual or a non-resident company is subject to Withholding Tax (WHT) if the payment exceeds Rs. 100,000.
+
+However, if the payment is made to a resident individual or a resident company, no WHT is applicable.
+
+In your case, since the payment is made to a resident individual (you) and the amount is Rs. 120,000, no WHT is applicable. Your client does not need to deduct WHT from the payment.
+
+But, if the payment was made to a non-resident individual or a non-resident company, your client would need to deduct WHT at a rate of 10% on the amount exceeding Rs. 100,000.",1/5,"Based on the official IRD documents provided, a 5% withholding tax applies to service payments made to resident individuals specified in the Subsection (1C) of Section 85 of the Inland Revenue Act, if the monthly payment exceeds Rs. 100,000.
+
+According to the tool output, the gross amount received is Rs. 120,000, which exceeds the threshold of Rs. 100,000. The tool output also indicates that a 5% WHT of LKR 6,000.00 will be deducted.
+
+Here is the calculation:
+
+Gross Amount: Rs. 120,000
+Threshold: Rs. 100,000
+WHT Rate: 5%
+WHT Amount: Rs. 120,000 x 5% = Rs. 6,000
+
+Net Amount Received: Rs. 120,000 - Rs. 6,000 = Rs. 114,000
+
+Therefore, yes, your client should have deducted WHT.
+
+[Source: IRD_Practice_Note_2026_02.txt]
+[Confidence: High]",3/5
+What was the exact date the June 2026 amendment became law?,"I'm not aware of any information about a June 2026 amendment becoming law. As my knowledge cutoff is December 2023, I do not have any information about amendments or laws that may have been passed after that date.",4/4,"I cannot answer this based on the official IRD documents provided.
+
+[Source: Amendment_Act_11_2026.txt]
+[Confidence: Low]",1/4
+I missed my August 15th quarterly tax installment. What is the penalty?,"As a Sri Lankan tax assistant, I can inform you that in Sri Lanka, the Inland Revenue Department (IRD) requires quarterly tax installments to be paid by the 15th of the following month. 
+
+If you missed the August 15th installment, you would be considered late. The penalty for late payment of tax installments in Sri Lanka is 5% of the amount due for the first month of delay, and an additional 1% for each subsequent month up to a maximum of 20%. 
+
+However, please note that this information is subject to change, and I would recommend verifying the current penalty rates with the Inland Revenue Department or a tax professional for the most up-to-date information.",3/4,"Based on the Inland Revenue Act, No. 24 of 2017, a person who fails to pay all or part of an instalment required under this Act within fourteen days of the due date for the instalment shall be liable to a penalty equal to ten per cent of the amount of tax due but not paid.
+
+Since you missed the August 15th quarterly tax installment, the penalty will be 10% of the amount of tax due but not paid.
+
+To calculate the penalty, we need to know the amount of tax due but not paid. Unfortunately, this information is not provided in the tool output. However, we can calculate the penalty as a percentage of the total tax liability.
+
+Assuming the total tax liability is T, the penalty will be 0.1T.
+
+However, without the actual amount of tax due, we cannot provide a specific numerical answer.
+
+I cannot answer this based on the official IRD documents provided.
+
+[Source: IR_Act_24_2017_Original.txt]
+[Confidence: Medium]",4/4
+I have a USD savings account at a local bank. Is the interest taxable?,"As a Sri Lankan tax assistant, I can inform you that the interest earned on a foreign currency savings account, such as a USD savings account, is taxable in Sri Lanka.
+
+According to the Inland Revenue Act No. 10 of 2006, interest earned on foreign currency deposits is considered as income earned in Sri Lanka and is subject to tax. This includes interest earned on foreign currency savings accounts, time deposits, and other types of foreign currency deposits.
+
+As a resident of Sri Lanka, you are required to report the interest income earned on your foreign currency savings account in your tax return. The tax rate applicable to interest income will depend on your tax bracket, which is determined by your total income.
+
+To report the interest income, you will need to obtain a Certificate of No Withholding Tax (CNWT) from the bank where your account is held. The bank will deduct a withholding tax of 10% on the interest income and issue a CNWT to you. You will then need to report the interest income in your tax return and claim a credit for the withholding tax deducted.
+
+It's worth noting that if you are a non-resident of Sri Lanka, you may be exempt from tax on interest income earned on foreign currency deposits, but you will still need to obtain a CNWT from the bank and report the interest income in your tax return.
+
+I recommend consulting with a tax professional or the Inland Revenue Department to ensure you comply with the tax laws and regulations in Sri Lanka.",2/3,"Based on the Inland Revenue Act No. 24 of 2017, it appears that tax payments are required to be made in Sri Lanka currency, unless otherwise provided in the Act. However, there is no specific provision that addresses the taxation of interest earned on foreign currency savings accounts.
+
+I cannot answer this based on the official IRD documents provided.
+
+[Source: IR_Act_24_2017_Original.txt]
+[Confidence: Low]",1/3
+What is the minimum payment that triggers WHT on service fees?,"In Sri Lanka, the minimum payment that triggers Withholding Tax (WHT) on service fees is Rs. 100,000 (approximately USD 450). 
+
+According to the Inland Revenue Act, any payment exceeding Rs. 100,000 made to a non-resident service provider is subject to a 10% withholding tax.",3/4,"The minimum payment that triggers WHT on service fees is Rs. 100,000 per month, as stated in the tool output:
+
+""message"": ""WHT does not apply because the service fee does not exceed LKR 100,000.""
+
+This is also supported by the official IRD documents provided, specifically from IRA_Consolidated_2025.txt:
+
+""(h) or (i) of section 73 (land, sea or air transport or telecommunication services); and (b) the rate at which the tax referred to in paragraph (a) shall be withheld.""
+
+However, the rate at which WHT is withheld is not specified in the provided context. The tool output provides this information:
+
+""status"": ""not_applicable"", ""gross_amount"": 15000.0, ""wht_deducted"": 0.0, ""net_received"": 15000.0, ""threshold"": 100000.0, ""wht_rate"": ""5%"", ""message"": ""WHT does not apply because the service fee does not exceed LKR 100,000.""
+
+The WHT rate is 5% for service fees exceeding Rs. 100,000.
+
+[Source: IRA_Consolidated_2025.txt]
+[Confidence: High]",4/4
+"I am a freelance architect. A firm paid me Rs. 200,000. How much WHT should they deduct?","As a tax assistant in Sri Lanka, I can help you with that.
+
+According to the Sri Lankan tax laws, the Withholding Tax (WHT) rate for freelance professionals, including architects, is 10% on income exceeding Rs. 1,000,000. However, if the income is below Rs. 1,000,000, no WHT is applicable.
+
+Since you've received Rs. 200,000, which is below Rs. 1,000,000, no WHT is applicable in this case. The firm should not deduct any WHT from the payment.
+
+However, please note that you, as the freelancer, are still required to declare this income in your tax return and pay income tax accordingly.",1/3,"Based on the provided tool output, the WHT rate for freelance architects is 5%. The gross amount received is Rs. 200,000. To calculate the WHT, we can use the following formula:
+
+WHT = Gross Amount x WHT Rate
+
+WHT = Rs. 200,000 x 5% = Rs. 10,000
+
+The net amount received will be:
+
+Net Received = Gross Amount - WHT
+= Rs. 200,000 - Rs. 10,000
+= Rs. 190,000
+
+So, the firm should deduct a 5% WHT of Rs. 10,000. You will receive Rs. 190,000.
+
+[Source: Tax_Return_Guide_2022_23.txt]
+[Confidence: High]",3/3
+Do I need a TIN to register a vehicle in Sri Lanka after 2026?,"As a Sri Lankan tax assistant, I can inform you that the Tax Identification Number (TIN) is indeed required for various transactions in Sri Lanka, including vehicle registration.
+
+According to the latest information available to me, as of 2023, the Inland Revenue Department (IRD) of Sri Lanka has made it mandatory to obtain a TIN for vehicle registration. This applies to both new and existing vehicle owners.
+
+However, I would recommend verifying this information with the Department of Motor Traffic (DMT) or the Inland Revenue Department (IRD) for the most up-to-date information, as regulations may change after 2026.
+
+To confirm, you can visit the official websites of the DMT or IRD or contact them directly to inquire about the current requirements for vehicle registration and TIN.",2/4,"According to the Inland Revenue (Amendment) Act, No. 11 of 2026, with effect from April 1, 2026, a person shall be required to submit the TIN Certificate to register a motor vehicle. Therefore, yes, you will need a TIN to register a vehicle in Sri Lanka after 2026.
+
+[Source: Amendment_Act_11_2026.txt]
+[Confidence: High]",3/4
+My tax is in arrears from 2023. Will the IRD waive the interest if I pay now?,"As a Sri Lankan tax assistant, I can provide you with information on the current tax laws and regulations. However, please note that tax laws and regulations are subject to change, and it's always best to consult the Inland Revenue Department (IRD) directly for the most up-to-date information.
+
+That being said, according to the current tax laws in Sri Lanka, the IRD may waive or reduce interest on outstanding tax arrears under certain circumstances. However, this is subject to the discretion of the Commissioner General of Inland Revenue.
+
+To qualify for a waiver or reduction of interest, you will need to meet certain conditions, such as:
+
+1. You must have paid the outstanding tax amount in full.
+2. You must have a valid reason for not paying the tax on time, such as a genuine mistake or a change in circumstances.
+3. You must have made a genuine effort to pay the tax on time.
+
+If you meet these conditions, you can submit a written application to the IRD, explaining your situation and requesting a waiver or reduction of interest. You will need to provide supporting documentation, such as proof of payment, a letter explaining your circumstances, and any other relevant documents.
+
+It's also worth noting that the IRD may consider waiving or reducing interest under the following circumstances:
+
+1. If you are a first-time offender, and you have a good payment history.
+2. If you are experiencing financial difficulties, and you have made a genuine effort to pay the tax",1/4,"Based on the provided IRD documents, it appears that there is an interest relief for underpayments and late payments under Section 42 of the Inland Revenue (Amendment) Act, No. 11 of 2026. However, this relief applies only to certain tax types and has specific conditions to qualify for the relief.
+
+According to the document, the interest relief applies to taxes imposed under the Inland Revenue Act, No. 24 of 2017 (as amended), Surcharge Tax Act, No. 14 of 2022, and Debt Repayment Levy imposed under the Finance Act, No. 35 of 2018. The relief also has specific conditions, including:
+
+1. The full tax amount (principal amount of tax) relating to an assessment must be paid within six months from the date of certification of the Inland Revenue (Amendment) Act, No. 11 of 2026, which was certified by Parliament on 03.06.2026. The final date for settlement of the full tax amount to qualify for this relief is 02.12.2026.
+2. Any penalty relating to the assessment may be fully or partially waived by the Commissioner-General upon consideration of reasonable cause on the request of the taxpayer. Where any balance penalty is determined to be payable, such amount must be settled on or before 02.12.2026.
+
+Since your tax is in arrears from 2023, it is not clear if this interest relief applies to your situation. The relief only applies to assessments including self-assessment relating to the years of assessment up to 2024/2025.
+
+Therefore, I recommend that you contact the Inland Revenue Department directly to inquire about your specific situation and to determine if you qualify for the interest relief.
+
+[Source: IRA_Consolidated_2025.txt]
+[Confidence: Medium]",3/4
+I earn LKR 6 million per year as a consultant. What is my tax rate on the highest portion?,"As a Sri Lankan tax assistant, I'll guide you through the tax rates applicable to your income.
+
+In Sri Lanka, the tax rates are as follows:
+
+- 0% on income up to LKR 1 million
+- 10% on income between LKR 1 million and LKR 2.5 million
+- 15% on income between LKR 2.5 million and LKR 4 million
+- 20% on income between LKR 4 million and LKR 6 million
+- 24% on income above LKR 6 million
+
+Since you earn LKR 6 million per year, the highest portion of your income is taxed at 24%. However, the first LKR 1 million is tax-free, and the next LKR 1 million is taxed at 10%. The remaining LKR 4 million is taxed at 20%.
+
+To calculate your tax liability, let's break it down:
+
+- Tax-free income: LKR 1 million
+- Taxed income at 10%: LKR 1 million (LKR 100,000)
+- Taxed income at 20%: LKR 4 million (LKR 800,000)
+- Total tax liability: LKR 100,000 + LKR 800,000 = LKR 900,000
+
+However, since you earn LKR 6 million, the tax rate on the highest portion (LKR 6 million",0/3,"Based on the provided tool output, your total tax payable is LKR 1,278,000.00. To find the tax rate on the highest portion, we need to calculate the tax rate on the amount that exceeds LKR 2,500,000.00.
+
+From the tool output, we can see that the taxable income is LKR 4,800,000.00, and the total tax payable is LKR 1,278,000.00. The effective tax rate is 21.3%.
+
+To find the tax rate on the highest portion, we need to calculate the tax on the amount that exceeds LKR 2,500,000.00. The tax on this amount is LKR 828,000.00 (as shown in the band breakdown).
+
+The tax rate on the highest portion can be calculated as follows:
+
+Tax rate on the highest portion = (Tax on the highest portion / Taxable income) x 100
+= (828,000 / 4,800,000) x 100
+= 17.25%
+
+However, this is not the highest tax rate. The highest tax rate is 36% as shown in the band breakdown.
+
+The amount that exceeds LKR 2,500,000.00 is LKR 2,300,000.00. The tax on this amount is LKR 828,000.00.
+
+To find the tax rate on this amount, we can calculate as follows:
+
+Tax rate on the highest portion = (Tax on the highest portion / Amount that exceeds LKR 2,500,000.00) x 100
+= (828,000 / 2,300,000) x 100
+= 36%
+
+Therefore, the tax rate on the highest portion is 36%.
+
+[Source: IRA_Consolidated_2025.txt]
+[Confidence: High]",1/3
+I work for a UK company remotely from Sri Lanka. Can I get the 15% tax cap?,"As a Sri Lankan tax assistant, I'd be happy to help you with that.
+
+The 15% tax cap you're referring to is likely the Double Taxation Avoidance Agreement (DTAA) between Sri Lanka and the UK. According to the agreement, Sri Lankan residents who receive income from the UK are subject to a maximum tax rate of 15% on that income.
+
+However, to qualify for this tax cap, you'll need to meet certain conditions:
+
+1. You must be a resident of Sri Lanka for tax purposes.
+2. You must receive income from the UK, such as employment income or freelance income.
+3. The income must be subject to tax in the UK.
+4. You must not be a UK tax resident (i.e., you must not have a UK permanent home or be physically present in the UK for more than 183 days in a tax year).
+
+If you meet these conditions, you can claim the 15% tax cap on your Sri Lankan tax return. You'll need to provide documentation from the UK tax authorities to support your claim, such as a P60 or a certificate of tax deducted.
+
+It's also worth noting that you may need to file a tax return in the UK as well, depending on your individual circumstances. I recommend consulting with a UK tax professional to ensure you're meeting all your tax obligations in both countries.
+
+As your Sri Lankan tax assistant, I can help you with the Sri Lankan tax aspects, but I",1/4,"Based on the provided context, it appears that you are a remote employee working for a UK company in Sri Lanka. However, the context specifically states that this tax table does not apply to independent service providers and freelancers, as their income is considered as business income.
+
+Since you are working remotely for a UK company, your income would be considered as employment income received from a foreign employer. However, the context does not mention a 15% tax cap. It does mention a tax table with a 6% tax rate for cumulative employment income up to Rs. 1,800,000.
+
+I cannot answer this based on the official IRD documents provided.
+
+[Source: APIT_Tax_Table_8_2025_26.txt]
+[Confidence: Low]",1/4
+"My client is an individual, not a company. Do they still have to deduct WHT from my payment?","As a Sri Lankan tax assistant, I can inform you that according to the Sri Lankan tax laws, individuals are not required to deduct Withholding Tax (WHT) from payments made to other individuals.
+
+However, there are some exceptions. If the payment is made to a non-resident individual, WHT at a rate of 10% is applicable. This is as per the Sri Lankan Income Tax Act, No. 28 of 1979.
+
+Additionally, if the payment is made to an individual who is a resident but has a foreign source income, WHT may be applicable. In such cases, the individual is required to declare the foreign income in their tax return and pay tax on it.
+
+It's also worth noting that if the payment is made to an individual for services rendered, such as consulting or freelancing, the payer may be required to issue a Form 1 (Certificate of Income) to the recipient, as per the Sri Lankan tax laws.
+
+To confirm the specific requirements for your client's situation, I would recommend consulting with a tax professional or the Inland Revenue Department of Sri Lanka.",2/4,"Based on the provided IRD documents and the tool output, it appears that WHT does not apply to your payment because the service fee does not exceed LKR 100,000. However, according to the IRD documents, payments made by individuals are exempt from WHT unless made in conducting a business.
+
+Since your client is an individual, not a company, and the payment does not exceed LKR 100,000, it is likely that WHT does not apply. However, to confirm, let's take a look at the tool output:
+
+```
+{""status"": ""not_applicable"", ""gross_amount"": 2023.0, ""wht_deducted"": 0.0, ""net_received"": 2023.0, ""threshold"": 100000.0, ""wht_rate"": ""5%"", ""message"": ""WHT does not apply because the service fee does not exceed LKR 100,000.""}
+```
+
+As you can see, the tool output indicates that WHT does not apply because the service fee does not exceed LKR 100,000.
+
+Therefore, based on the provided IRD documents and the tool output, it appears that your client, as an individual, does not have to deduct WHT from your payment.
+
+[Source: IRA_Consolidated_2025.txt]
+[Confidence: High]",4/4
+"I am a singer. If I get paid Rs. 300,000 for a concert, what is the exact WHT amount?","As a Sri Lankan tax assistant, I'll be happy to help you with the Withholding Tax (WHT) calculation.
+
+According to the Sri Lankan tax laws, the WHT rate for non-resident artists is 10% on the gross income earned from performing in Sri Lanka.
+
+So, if you're a non-resident artist and you earn Rs. 300,000 for a concert, the WHT amount would be:
+
+WHT = 10% of Rs. 300,000
+= Rs. 300,000 x 0.10
+= Rs. 30,000
+
+The WHT amount of Rs. 30,000 will be deducted from your gross income, and you will receive the remaining amount, which is:
+
+Net income = Gross income - WHT
+= Rs. 300,000 - Rs. 30,000
+= Rs. 270,000
+
+Please note that this is a simplified explanation, and you should consult with a tax professional or the relevant authorities for the most up-to-date and accurate information.",1/3,"Based on the tool output, the WHT amount for a singer is calculated as follows:
+
+A 5% WHT of LKR 15,000.00 will be deducted.
+
+This is because the payment of Rs. 300,000 exceeds the threshold of Rs. 100,000, and the WHT rate is 5%.
+
+[Source: IRD_Practice_Note_2026_02.txt]
+[Confidence: High]",3/3
+I do not expect to file a Statement of Estimated Tax anymore. Is that correct?,"As a Sri Lankan tax assistant, I must inform you that the concept of filing a Statement of Estimated Tax is not applicable in Sri Lanka. 
+
+However, I assume you might be referring to the United States, where individuals who are self-employed or have other income not subject to withholding are required to file estimated tax returns (Form 1040-ES) if they expect to owe more than $1,000 in taxes for the year.
+
+If you're a Sri Lankan resident, you would typically file your income tax return (ITR) by the due date, which is usually in March or April of the following year. You would report your income and claim any applicable deductions and exemptions to determine your tax liability.
+
+If you have any specific questions about Sri Lankan tax laws or procedures, I'd be happy to help.",0/4,"Based on the Inland Revenue (Amendment) Act, No. 11 of 2026, it appears that the rules regarding the Statement of Estimated Tax have been amended. According to section 16 of the amendment act, for any year of assessment commencing on or after April 1, 2026, the estimated tax payable for the current year of assessment shall be considered as 'A' in the formula set out in section 90 of the principal enactment, unless the person has no taxable income for the immediately preceding year of assessment, or expects to derive during the current year of assessment a taxable income lower than the taxable income of the immediately preceding year of assessment.
+
+However, the amendment act does not explicitly state that the Statement of Estimated Tax is no longer required. It seems that the rules regarding the Statement of Estimated Tax have been modified, but it is still necessary to file the statement under certain circumstances.
+
+Therefore, I would recommend consulting with the Commissioner-General or a tax professional to determine the specific requirements for your situation.
+
+[Source: Amendment_Act_11_2026.txt]
+[Confidence: Medium]",3/4
+When is the quarterly tax installment due for the quarter ending in September?,"In Sri Lanka, the quarterly tax installment due dates are as follows:
+
+- For the quarter ending in March, the due date is 20th April.
+- For the quarter ending in June, the due date is 20th July.
+- For the quarter ending in September, the due date is 20th October.
+- For the quarter ending in December, the due date is 20th January of the following year.
+
+So, for the quarter ending in September, the quarterly tax installment is due on 20th October.",0/3,"Based on the provided tool output, the quarterly tax installments for the year of assessment 2026/2027 are due on the following dates:
+
+- Quarter 1: August 15
+- Quarter 2: November 15
+- Quarter 3: February 15
+- Quarter 4: May 15
+
+Since the quarter ending in September is not explicitly mentioned in the tool output, we can infer that the quarter ending in September corresponds to Quarter 2, which has a due date of November 15.
+
+Therefore, the quarterly tax installment due for the quarter ending in September is November 15.
+
+[Source: IRA_Consolidated_2025.txt]
+[Confidence: Medium]",2/3
+I am a software developer earning all my income from a foreign company in USD. What is my maximum tax rate?,"As a Sri Lankan tax assistant, I'll provide you with the relevant information.
+
+In Sri Lanka, the tax rates are as follows:
+
+- The first Rs. 1 million (approximately USD 3,500) of income is taxed at 0%.
+- The next Rs. 1 million (approximately USD 3,500) of income is taxed at 10%.
+- The next Rs. 2 million (approximately USD 7,000) of income is taxed at 20%.
+- The next Rs. 4 million (approximately USD 14,000) of income is taxed at 30%.
+- The income above Rs. 8 million (approximately USD 28,000) is taxed at 40%.
+
+However, since you earn your income in USD, you'll need to convert it to Sri Lankan Rupees (LKR) using the exchange rate at the time of income receipt. The exchange rate may fluctuate, but for simplicity, let's assume an exchange rate of 1 USD = 360 LKR.
+
+Now, let's calculate your maximum tax rate:
+
+- Assume your total income in USD is X.
+- Convert X to LKR using the exchange rate: X * 360 LKR/USD
+- Since the tax rates are in LKR, we'll use the converted income to determine the tax bracket.
+
+For example, if your total income in USD is 100,000 (approximately Rs. 36,000,000), your tax",0/3,"Based on the provided documents, as a software developer earning all your income from a foreign company in USD, you are considered a resident employee working remotely for a foreign employer. According to the APIT Tax Table 8 2025/26, the tax rate for employment income received from a foreign employer is as follows:
+
+- Up to Rs. 1,800,000: 6% of cumulative employment income
+- Exceeds Rs. 1,800,000: 15% of cumulative employment income
+
+Since your income is in USD and you are a software developer, you are considered to be working in the information technology services sector. According to the Inland Revenue Act, No. 24 of 2017, companies predominantly providing information technology services are taxed at a rate of 14%.
+
+However, since you are an individual and not a company, your tax rate is determined by the APIT Tax Table 8 2025/26, which is 15% of your cumulative employment income exceeding Rs. 1,800,000.
+
+Therefore, your maximum tax rate is 15%.
+
+[Source: APIT_Tax_Table_8_2025_26.txt]
+[Confidence: High]",1/3
+I gave a false self-declaration to my bank about my interest income. What is the penalty?,"As a Sri Lankan tax assistant, I must inform you that providing false information to the bank or any other institution is a serious offense in Sri Lanka. 
+
+According to the Inland Revenue Act No. 10 of 2006, if you have made a false declaration to your bank regarding your interest income, you may be liable for penalties under the Act.
+
+The penalties for making a false declaration can be severe. You may be liable for a penalty of up to 50% of the tax due, in addition to any interest and fines that may be imposed.
+
+However, if you voluntarily disclose the incorrect information and pay the correct tax, you may be eligible for a reduced penalty under the Voluntary Disclosure Program (VDP) of the Inland Revenue Department. The VDP allows taxpayers to disclose any incorrect information or unreported income without facing severe penalties.
+
+To avoid any further complications, I recommend that you:
+
+1. Contact your bank and correct the false declaration.
+2. File a revised tax return with the Inland Revenue Department, disclosing the correct interest income.
+3. Pay any additional tax due, along with interest and penalties.
+4. Consider applying for the VDP to minimize any penalties.
+
+Please note that this is general advice, and I recommend consulting a tax professional or the Inland Revenue Department for personalized guidance on this matter.",1/4,"According to the IRD Practice Note 2026_02.txt, if an individual submits a self-declaration containing false or misleading information, that individual can be charged a penalty of up to Rs. 200,000.
+
+Before imposing the penalty, the Commissioner-General will issue a notice specifying the false or misleading details in the declaration. In addition, the individual will not be allowed to submit another self-declaration.
+
+[Source: IRD_Practice_Note_2026_02.txt]
+[Confidence: High]",3/4
+"As a freelancer, how do I know how much quarterly tax to pay if I no longer file an estimate?","As a freelancer in Sri Lanka, you're required to pay provisional tax on a quarterly basis. Since you're no longer filing an estimate, you'll need to use the previous year's tax liability to estimate your current year's tax liability.
+
+Here's a step-by-step guide to help you estimate your quarterly tax payments:
+
+1. **Gather your previous year's tax information**: Obtain your previous year's tax return (ITR) and calculate your total tax liability for the year.
+2. **Determine your tax rate**: Check your previous year's tax return to see what tax rate you were subject to (e.g., 10%, 15%, etc.).
+3. **Estimate your current year's income**: Based on your previous year's income, estimate your current year's income. You can use your current year's income projections or your previous year's income as a benchmark.
+4. **Calculate your estimated tax liability**: Multiply your estimated current year's income by your tax rate to estimate your total tax liability for the year.
+5. **Divide by 4**: Divide your estimated tax liability by 4 to determine your quarterly tax payment.
+6. **Consider any changes**: If you have any changes in your income, expenses, or tax deductions, you may need to adjust your estimated tax liability accordingly.
+
+For example, let's say your previous year's tax liability was Rs. 100,000, and your tax rate was 15%. Your estimated current year's",1/3,"If you no longer file an estimate, the Commissioner-General will make an estimate of your tax payable for the year of assessment. According to the Inland Revenue Act, No. 24 of 2017, the Commissioner-General may serve a notice stating their estimate and the manner in which it is calculated.
+
+To determine how much quarterly tax to pay, you can refer to the formula provided in the Inland Revenue Act, No. 24 of 2017:
+
+A — C
+B
+
+Where:
+- 'A' is the current estimated tax payable by the Commissioner-General for the year of assessment
+- 'B' is the number of instalments remaining for the year of assessment including the current instalment
+- 'C' is the sum of any tax paid during the year of assessment, tax withheld under Division II, and tax paid in accordance with subsection (3) or (4) of section 86
+
+However, since the tool output contains a calculation, let's refer to it for a clearer answer. According to the tool output, the due dates for quarterly tax payments are:
+
+- August 15
+- November 15
+- February 15
+- May 15
+
+The tool output also mentions that the tax must be paid in 4 equal installments on or before the above dates. Unfortunately, the tool output does not provide the exact amount of tax to be paid. You may need to contact the Commissioner-General or consult with a tax professional to determine the exact amount of tax payable.
+
+[Source: IR_Act_24_2017_Original.txt]
+[Confidence: Medium]",1/3
+I am a non-resident. Do I pay Sri Lankan tax on my income earned abroad?,"As a non-resident, you are generally not subject to Sri Lankan income tax on income earned abroad. However, there are some exceptions and conditions to consider.
+
+According to the Sri Lankan Income Tax Act, a non-resident is not liable to pay tax on income earned outside Sri Lanka, unless the income is derived from a source within Sri Lanka. This means that if you earn income from a foreign source, such as a foreign employment, investments, or business, you are not required to pay tax in Sri Lanka on that income.
+
+However, if you have a Sri Lankan source of income, such as rental income from a property in Sri Lanka, or income from a business or employment in Sri Lanka, you may be liable to pay tax on that income, even if you are a non-resident.
+
+Additionally, if you are a non-resident but have a permanent establishment in Sri Lanka, you may be liable to pay tax on income earned through that establishment.
+
+It's also worth noting that if you are a non-resident but have a Sri Lankan bank account or other assets in Sri Lanka, you may be required to file a tax return and pay tax on any income earned from those assets.
+
+To confirm your tax obligations, I recommend consulting with the Inland Revenue Department of Sri Lanka or a tax professional who can provide guidance based on your specific situation.
+
+Do you have any other questions regarding your tax obligations in Sri Lanka?",2/4,"Based on the provided IRD documents, it appears that the residency rules for individuals have been clarified. According to the documents, a person who leaves Sri Lanka to work abroad for at least one year under a contract with an unrelated foreign employer will not be considered a Sri Lankan tax resident during that contract period.
+
+Therefore, if you are a non-resident, you are likely not subject to Sri Lankan tax on your income earned abroad, as long as you meet the conditions mentioned above.
+
+However, please note that this is a general interpretation based on the provided documents, and it's always best to consult the Inland Revenue Department or a tax professional for specific advice on your individual situation.
+
+[Source: IR_Act_24_2017_Original.txt]
+[Confidence: Medium]",2/4
+"What is the WHT rate on rent payments exceeding Rs. 100,000 per month?","According to the Sri Lankan tax laws, the Withholding Tax (WHT) rate on rent payments exceeding Rs. 100,000 per month is 10%. This is as per the provisions of the Inland Revenue Act No. 24 of 2017.",3/3,"According to the IRD documents, for rent payments made to a resident person where the aggregate payment exceeds Rs. 100,000 per month, the WHT rate is 10% on the full amount.
+
+This is stated in section S33, 45 of 2022, which says: ""(iii) rent payments made to a resident person where Prior to the aggregate payment exceeds or equal to Rs. 01.10.2023 100,000 per month – 10% on full amount;""
+
+Additionally, the tool output also confirms this rate, stating: ""WHT does not apply because the service fee does not exceed LKR 100,000."" However, this is in the context of a service fee, not a rent payment.
+
+Therefore, the WHT rate on rent payments exceeding Rs. 100,000 per month is 10%.
+
+[Source: IRA_Consolidated_2025.txt]
+[Confidence: High]",3/3
+I am a 70-year-old senior. Can I file my tax return on paper instead of online?,"Good day to you, sir.  As a Sri Lankan tax assistant, I'm happy to help you with your tax-related queries.
+
+According to the Inland Revenue Department of Sri Lanka, you can file your tax return on paper, but there are certain conditions and procedures you need to follow.
+
+To file your tax return on paper, you will need to obtain a paper tax return form from the Inland Revenue Department or a designated tax office. You can also download the form from the Inland Revenue Department's website.
+
+Here are the steps to follow:
+
+1. Obtain the paper tax return form and fill it in accurately.
+2. Attach all the required supporting documents, such as your income statements, receipts, and other relevant documents.
+3. Sign the form in the presence of a Notary Public or a Justice of the Peace.
+4. Submit the completed form to the Inland Revenue Department or a designated tax office.
+
+However, please note that there may be a delay in processing your tax return if you file it on paper, as it will need to be manually processed by the Inland Revenue Department.
+
+Additionally, if you have any tax liabilities or are due to pay taxes, you may be required to pay a penalty for late payment.
+
+If you're comfortable with filing online, I can guide you through the process. The Inland Revenue Department's e-Filing system is a convenient and secure way to file your tax return, and it's available 24/7.
+
+Which option would",1/4,"Based on the provided Inland Revenue Act, No. 24 of 2017 and IRA_Consolidated_2025.txt documents, it appears that there is no specific mention of the option to file a tax return on paper instead of online for senior citizens or any other category of taxpayers.
+
+However, section 114 of the Inland Revenue Act, No. 24 of 2017 states that the Commissioner-General shall specify the forms, notices, declarations, returns, statements, tables, and other documents, and publish them for the efficient administration of this Act. It also mentions that these documents shall be available to the public on the website of the Department or at its main office and at other locations, or by mail or electronically, as the Commissioner-General may determine.
+
+Therefore, it is likely that the option to file a tax return on paper is available, but it is not explicitly mentioned in the provided documents. I would recommend checking with the Inland Revenue Department directly for the most up-to-date information on filing tax returns.
+
+I cannot answer this based on the official IRD documents provided.
+
+[Source: IR_Act_24_2017_Original.txt, IRA_Consolidated_2025.txt]
+[Confidence: Medium]",1/4
+"A photographer received Rs. 95,000 from a client. Is WHT applicable?","In Sri Lanka, the Withholding Tax (WHT) is applicable on payments made to non-resident individuals and non-resident companies for services rendered. 
+
+Since the photographer is not specified as a non-resident, I will assume the photographer is a resident individual or a resident company. 
+
+If the photographer is a resident individual, no WHT is applicable as per the Sri Lankan tax laws. 
+
+However, if the photographer is a resident company, WHT is applicable at a rate of 0% to 4% depending on the type of service provided and the type of payment made. 
+
+To determine the WHT rate, we need to know the type of service provided by the photographer and the type of payment made. 
+
+If the payment is for a service that is subject to WHT, the photographer will need to obtain a Tax Identification Number (TIN) and the client will need to deduct WHT at the applicable rate and deposit it with the Inland Revenue Department.",1/4,"Based on the official IRD documents provided, the tool output indicates that WHT does not apply because the service fee does not exceed LKR 100,000.
+
+Here is the calculation:
+
+* Gross Amount: Rs. 95,000
+* WHT Threshold: Rs. 100,000
+* WHT Deducted: Rs. 0.00 (since the service fee does not exceed the threshold)
+* Net Received: Rs. 95,000
+
+The message from the tool output confirms this: ""WHT does not apply because the service fee does not exceed LKR 100,000.""
+
+[Source: IRD_Practice_Note_2026_02.txt]
+[Confidence: High]",4/4
+"I am a brand ambassador paid Rs. 500,000 per month. What is the WHT deduction?","As a Sri Lankan tax assistant, I can inform you that the Withholding Tax (WHT) rate for non-resident individuals in Sri Lanka is 10% on income exceeding Rs. 1 million per annum.
+
+Since you are a brand ambassador and your monthly income is Rs. 500,000, your annual income would be Rs. 6 million (Rs. 500,000 x 12).
+
+However, the WHT rate applies to income exceeding Rs. 1 million per annum. Therefore, the WHT would be applicable only on the amount exceeding Rs. 1 million, which is Rs. 5 million (Rs. 6 million - Rs. 1 million).
+
+The WHT rate is 10% on this amount, which is Rs. 500,000 (10% of Rs. 5 million).
+
+So, the WHT deduction would be Rs. 500,000, and you would receive Rs. 1 million (Rs. 6 million - Rs. 5 million) as your net income.
+
+Please note that this is a general calculation and may be subject to change based on individual circumstances and tax laws. It's always best to consult a tax professional for personalized advice.",1/3,"Based on the provided information, I do not see any specific rules or guidelines for WHT deductions for brand ambassadors in the official IRD documents. However, I can provide general information on WHT deductions.
+
+According to the provided tool output, a 5% WHT of LKR 25,000.00 will be deducted from a gross amount of LKR 500,000.00. This results in a net amount of LKR 475,000.00.
+
+However, please note that this is a general calculation and may not be applicable to your specific situation as a brand ambassador. I recommend consulting the official IRD documents or seeking advice from a tax professional for accurate information.
+
+I cannot answer this based on the official IRD documents provided.
+
+[Source: IRA_Consolidated_2025.txt]
+[Confidence: Medium]",3/3
+Can the IRD put a notice for me in the newspaper if they cannot find me?,"In Sri Lanka, the Inland Revenue Department (IRD) may use various methods to locate taxpayers who have failed to comply with tax obligations or have not provided their current address. 
+
+While they may not directly publish a notice in a newspaper, they can use other public channels to notify you. 
+
+Here are a few possible ways they might reach out to you:
+
+1. **Public Notice**: The IRD may publish a public notice in the Government Gazette, which is a legal publication that contains official government announcements. This notice would typically include your name, address, and a brief description of the tax issue.
+2. **Taxpayer's Gazette**: The IRD may also publish a notice in the Taxpayer's Gazette, which is a separate publication that contains information about taxpayers who have failed to comply with tax obligations.
+3. **Social Media and Online Platforms**: In recent years, the IRD has started using social media and online platforms to notify taxpayers about tax issues.
+4. **Local Newspapers**: While they may not publish a direct notice, local newspapers may carry a report about the IRD's efforts to locate taxpayers who have failed to comply with tax obligations.
+
+If you're concerned about a tax issue, I recommend contacting the IRD directly to resolve the matter. They can provide you with information about any outstanding tax liabilities and help you understand the next steps to take.",1/5,"According to Section 127 of the IRD documents, the Commissioner General may, by notice in writing, require a person to furnish a return within a specified time. This notice can be served on the person, and it is not explicitly stated that it must be served in person. However, it is not clear from the documents whether the IRD can put a notice in the newspaper if they cannot find the person.
+
+I cannot answer this based on the official IRD documents provided.
+
+[Source: IRA_Consolidated_2025.txt]
+[Confidence: Low]",1/5
+What happens if I fail to comply with an IRD notice to appear?,"As a Sri Lankan tax assistant, I can inform you that if you fail to comply with an Inland Revenue Department (IRD) notice to appear, you may face serious consequences.
+
+In Sri Lanka, the IRD has the authority to issue notices to taxpayers who are required to appear before them for various reasons, such as to provide information, answer questions, or to settle tax disputes. If you fail to comply with such a notice, you may be liable for penalties and fines.
+
+Here are some possible consequences of failing to comply with an IRD notice to appear:
+
+1. **Penalties**: You may be liable for penalties under the Inland Revenue Act, which can range from Rs. 10,000 to Rs. 100,000 or more, depending on the nature of the offense.
+2. **Fines**: You may be fined for failing to comply with the notice, which can range from Rs. 5,000 to Rs. 50,000 or more.
+3. **Interest**: You may be charged interest on any tax or penalties that are due, which can accrue from the date of the notice.
+4. **Prosecution**: In severe cases, you may be prosecuted under the Inland Revenue Act, which can result in a fine or imprisonment.
+5. **Loss of privileges**: You may lose your privileges to deduct tax at source, claim tax refunds, or enjoy other tax benefits.
+6. **Tax audit**: The IRD may conduct a tax",2/4,"I cannot find any information in the provided documents about the consequences of failing to comply with an IRD notice to appear. The documents only discuss notices related to tax obligations and the process for dealing with them, but do not mention notices to appear.
+
+I cannot answer this based on the official IRD documents provided.
+
+[Source: IR_Act_24_2017_Original.txt]
+[Confidence: Low]",0/4
+I am an IT specialist and I heard the 35% additional deduction for IT companies was removed. Is this true?,"I can confirm that the 35% additional deduction for IT companies in Sri Lanka was indeed removed. However, I would like to clarify that this change might have occurred after my knowledge cutoff date of December 2023.
+
+Before my knowledge cutoff, the 35% additional deduction was available to IT companies under the Inland Revenue Act of Sri Lanka. This deduction was a significant incentive for the IT sector in Sri Lanka, as it allowed companies to claim a higher deduction on their profits.
+
+However, please note that tax laws and regulations are subject to change, and I would recommend verifying the current tax laws and regulations with the relevant authorities or a tax professional for the most up-to-date information.
+
+If you're looking for the latest information, I suggest checking the official website of the Inland Revenue Department of Sri Lanka or consulting with a tax professional who is familiar with the current tax laws and regulations.",2/4,"Based on the provided documents, I found information related to the 35% additional deduction for IT companies. 
+
+According to the documents, the 35% additional deduction for IT companies is still applicable. In the Inland Revenue Act, No. 24 of 2017, it is stated that a company is entitled to an additional deduction when calculating the company’s income from business for a year of assessment equal to 35% of the total amount deducted for the year under this Act that represents payments made by the company which are to be included in calculating the taxable income of its employees (other than as a company director), where that company— 
+
+(a) conducts a business which predominately consists of providing information technology services within the meaning of the First Schedule; 
+(b) has at least 50 employees during the whole of the year; and 
+(c) report those employees in the statement that the company, as a withholding agent, is required to file under section 86.
+
+Additionally, in the Inland Revenue (Amendment) Act, No. 11 of 2026, there is no mention of the removal of the 35% additional deduction for IT companies.
+
+Therefore, it appears that the 35% additional deduction for IT companies is still applicable.
+
+[Source: IR_Act_24_2017_Original.txt]
+[Source: IRA_Consolidated_2025.txt]
+[Source: Amendment_Act_11_2026.txt]
+[Confidence: High]",2/4

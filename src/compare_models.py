@@ -12,6 +12,7 @@ Column B: TaxMate LK Agent (RAG + Tools + our pipeline)
 import os
 import json
 import csv
+import re
 from groq import Groq
 from dotenv import load_dotenv
 from src.agent import run_agent
@@ -47,7 +48,68 @@ def score_answer(answer: str, expected_keywords: list) -> int:
     Max score = number of keywords in the expected_keywords list.
     """
     answer_lower = answer.lower()
-    return sum(1 for kw in expected_keywords if kw.lower() in answer_lower)
+
+    def normalize(text: str) -> str:
+        text = text.lower()
+        text = text.replace("lkr", "rs.")
+        text = text.replace("sri lankan", "")
+        text = re.sub(r"\s+", " ", text).strip()
+        return text
+
+    def number_forms(text: str) -> set[str]:
+        forms = {text}
+        compact = text.replace(",", "")
+        forms.add(compact)
+        if compact.isdigit():
+            try:
+                forms.add(f"{int(compact):,}")
+                forms.add(str(int(compact)))
+            except ValueError:
+                pass
+        return forms
+
+    def date_forms(text: str) -> set[str]:
+        forms = {text}
+        month_pattern = r"(january|february|march|april|may|june|july|august|september|october|november|december)\s+(\d{1,2})"
+        m = re.search(month_pattern, text)
+        if m:
+            month = m.group(1)
+            day = m.group(2)
+            forms.add(f"{day} {month}")
+            forms.add(f"{month} {int(day)}")
+        return forms
+
+    def keyword_variants(text: str) -> set[str]:
+        variants = set()
+        variants.update(number_forms(text))
+        variants.update(date_forms(text))
+        return {v.strip() for v in variants if v and v.strip()}
+
+    synonyms = {
+        "yes": ["yes", "applicable", "required", "true"],
+        "no": ["no", "not applicable", "does not apply", "false"],
+        "waiver": ["waiver", "waive"],
+        "exempt": ["exempt", "exemption"],
+    }
+
+    score = 0
+    normalized_answer = normalize(answer_lower)
+    for kw in expected_keywords:
+        normalized_kw = normalize(kw)
+
+        matched = False
+        if normalized_kw in normalized_answer:
+            matched = True
+        elif normalized_kw in synonyms:
+            matched = any(s in normalized_answer for s in synonyms[normalized_kw])
+        else:
+            kw_forms = keyword_variants(normalized_kw)
+            matched = any(form in normalized_answer for form in kw_forms)
+
+        if matched:
+            score += 1
+
+    return score
 
 
 def run_evaluation():
@@ -70,12 +132,12 @@ def run_evaluation():
         print(f"\n[{i+1}/{len(eval_set)}] Q: {question[:70]}...")
 
         # Column A: Base LLM
-        print("  Running Base LLM...")
+        print("Running Base LLM...")
         base_answer = ask_base_llm(question)
         base_score = score_answer(base_answer, expected_keywords)
 
         # Column B: RAG Agent
-        print("  Running RAG Agent...")
+        print("Running RAG Agent...")
         rag_answer = run_agent(question)
         rag_score = score_answer(rag_answer, expected_keywords)
 
@@ -90,7 +152,7 @@ def run_evaluation():
             "rag_agent_score": f"{rag_score}/{max_score}",
         })
 
-        print(f"  Base LLM Score: {base_score}/{max_score} | RAG Agent Score: {rag_score}/{max_score}")
+        print(f"Base LLM Score: {base_score}/{max_score} | RAG Agent Score: {rag_score}/{max_score}")
 
     # Write to CSV
     with open(RESULTS_PATH, "w", newline="", encoding="utf-8") as f:

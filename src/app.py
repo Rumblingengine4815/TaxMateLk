@@ -39,14 +39,14 @@ custom_css = """
 
 with gr.Blocks(theme=gr.themes.Soft(primary_hue="blue"), css=custom_css) as demo:
     gr.Markdown("# 🇱🇰 TaxMate LK — Sri Lankan Tax Advisory Assistant")
-    gr.Markdown("<div class='disclaimer'>⚠️ This is AI-generated guidance based on June 2026 IRD regulations. Consult a tax professional for official advice.</div>")
+    gr.Markdown("<div class='disclaimer'>This is AI-generated guidance based on June 2026 IRD regulations. Consult a tax professional for official advice.</div>")
     
     with gr.Row():
         # Left Column: The Profile Form & Example Questions
         with gr.Column(scale=1):
             gr.Markdown("### 👤 Step 1: Your Profile")
-            job_input = gr.Textbox(label="What is your profession? (e.g. Photographer, Freelancer)")
-            income_input = gr.Dropdown(choices=["Local Income", "Foreign Income", "Both"], label="Income Source")
+            job_input = gr.Textbox(label="What is your profession?", placeholder="e.g. Photographer, Freelancer, Consultant")
+            income_input = gr.Dropdown(choices=["Local Income", "Foreign Income", "Both"], value="Local Income", label="Income Source")
             notice_input = gr.Checkbox(label="Did you receive an IRD warning notice?")
             
             save_btn = gr.Button("Save Profile", variant="primary")
@@ -64,10 +64,12 @@ with gr.Blocks(theme=gr.themes.Soft(primary_hue="blue"), css=custom_css) as demo
             gr.Markdown("### 💬 Step 2: Ask Tax Questions")
             
             pdf_upload = gr.File(
-                label="📄 Optional: Upload your IRD Notice or Tax Document",
+                label="Optional: Upload your IRD Notice or Tax Document",
                 file_types=[".pdf"],
                 type="filepath"
             )
+
+            gr.Markdown("**Tip:** Upload a text-based PDF for best results. Scanned images are not supported.")
             
             chat = gr.ChatInterface(
                 fn=chat_interface,
@@ -79,7 +81,7 @@ with gr.Blocks(theme=gr.themes.Soft(primary_hue="blue"), css=custom_css) as demo
                     ["When are the quarterly tax installments due?", None]
                 ],
                 title="",
-                description="The agent pipeline explicitly shows its steps: Classifying → Retrieving → Calculating → Answering.",
+                description="The agent pipeline explicitly shows its steps: Classifying -> Retrieving -> Calculating -> Answering.",
                 fill_height=True
             )
 

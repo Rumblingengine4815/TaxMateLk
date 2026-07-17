@@ -1,18 +1,59 @@
 import json
 from datetime import datetime
 
-def calculate_wht(amount: float, is_service: bool = True) -> str:
+def calculate_wht(amount: float, is_service: bool = True, payment_type: str = "service") -> str:
     """
     Calculates the 5% Withholding Tax (WHT) on service fee payments.
     Based on the June 2026 Amendment Act.
     """
-    if not is_service:
+    try:
+        amount = float(amount)
+    except (TypeError, ValueError):
+        return json.dumps({
+            "status": "invalid_input",
+            "message": "Amount must be a valid number."
+        })
+
+    if amount <= 0:
+        return json.dumps({
+            "status": "invalid_input",
+            "message": "Amount must be greater than zero."
+        })
+
+    if not is_service and payment_type == "service":
         return json.dumps({
             "status": "not_applicable",
             "message": "WHT applies specifically to service fee payments, not goods."
         })
-        
-    wht_amount = amount * 0.05
+
+    payment_type_normalized = payment_type.strip().lower()
+    threshold = 100_000.0
+
+    # June 2026 amendment: service fee withholding applies only when monthly payment exceeds LKR 100,000.
+    if payment_type_normalized in {"service", "professional_service", "freelance"}:
+        rate = 0.05
+        payment_label = "service fee"
+    elif payment_type_normalized == "rent":
+        rate = 0.10
+        payment_label = "rent payment"
+    else:
+        return json.dumps({
+            "status": "not_applicable",
+            "message": f"Unsupported payment type for WHT calculation: {payment_type}."
+        })
+
+    if amount <= threshold:
+        return json.dumps({
+            "status": "not_applicable",
+            "gross_amount": amount,
+            "wht_deducted": 0.0,
+            "net_received": amount,
+            "threshold": threshold,
+            "wht_rate": f"{rate*100:.0f}%",
+            "message": f"WHT does not apply because the {payment_label} does not exceed LKR {threshold:,.0f}."
+        })
+
+    wht_amount = amount * rate
     net_amount = amount - wht_amount
     
     return json.dumps({
@@ -20,8 +61,9 @@ def calculate_wht(amount: float, is_service: bool = True) -> str:
         "gross_amount": amount,
         "wht_deducted": wht_amount,
         "net_received": net_amount,
-        "wht_rate": "5%",
-        "message": f"A 5% WHT of LKR {wht_amount:,.2f} will be deducted. You will receive LKR {net_amount:,.2f}."
+        "threshold": threshold,
+        "wht_rate": f"{rate*100:.0f}%",
+        "message": f"A {rate*100:.0f}% WHT of LKR {wht_amount:,.2f} will be deducted. You will receive LKR {net_amount:,.2f}."
     })
 
 def get_quarterly_schedule(year_of_assessment: str = None) -> str:

@@ -19,6 +19,11 @@ import sys
 import json
 import time
 
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+if hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+
 # Add project root to path
 sys.path.insert(0, os.path.dirname(os.path.dirname(__file__)))
 
@@ -44,14 +49,14 @@ def ok(msg):
 def fail(msg, detail=""):
     global failed
     failed += 1
-    print(f"  {RED}❌ FAIL{RESET}  {msg}")
+    print(f"{RED}❌ FAIL{RESET}  {msg}")
     if detail:
-        print(f"         {RED}{detail}{RESET}")
+        print(f"{RED}{detail}{RESET}")
 
 def warn(msg):
     global warnings
     warnings += 1
-    print(f"  {YELLOW}⚠️  WARN{RESET}  {msg}")
+    print(f"{YELLOW}⚠️ WARN{RESET} {msg}")
 
 def section(title):
     print(f"\n{BLUE}{'='*55}{RESET}")
@@ -520,11 +525,11 @@ def test_rubric():
     else:
         fail("Root app.py missing — HF Spaces won't find the app")
 
-    hf_deployed = os.environ.get("HF_SPACES_URL", "")
-    if hf_deployed:
-        ok(f"Deployed at: {hf_deployed}")
+    deployed_url = os.environ.get("DEPLOYED_URL", "")
+    if deployed_url:
+        ok(f"Deployed at: {deployed_url}")
     else:
-        warn("HF Spaces deployment not yet done — REQUIRED for Gold")
+        warn("Deployment not yet done — REQUIRED for Gold (Render or HF Spaces)")
 
     ok("Defense video: structure planned (problem → arch → demo → eval → deploy)")
 

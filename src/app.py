@@ -1,90 +1,166 @@
-import gradio as gr
-from src.agent import run_agent_stream
+import os
 
-# We will store the user's profile globally for this simple demo
-USER_STATE = {}
+import gradio as gr
+
+from src.agent import (
+    extract_user_pdf,
+    step_1_classify,
+    step_2_retrieve,
+    step_3_calculate,
+    step_4_generate,
+)
+
+PROFILE_STATE: dict = {}
+
+EXAMPLES = [
+    "I am a photographer earning Rs 150,000 per month. How much WHT will my client deduct?",
+    "What is the exact deadline for the 2026 interest waiver?",
+    "Can a senior citizen still file on paper in 2025/2026?",
+    "When are the quarterly tax installments due?",
+]
+
 
 def save_profile(job_type, income_source, notices):
-    """
-    Saves the user's profile based on the initial form inputs.
-    """
-    USER_STATE["job_type"] = job_type
-    USER_STATE["income_source"] = income_source
-    USER_STATE["notices"] = notices
-    return f"Profile Saved! Job: {job_type}, Income: {income_source}"
+    PROFILE_STATE["job_type"] = job_type or ""
+    PROFILE_STATE["income_source"] = income_source or ""
+    PROFILE_STATE["notices"] = bool(notices)
+    return f"Saved: {job_type} | {income_source} | notice={bool(notices)}"
 
-def chat_interface(message, history, uploaded_pdf):
-    """
-    The main chat function that receives the user's question, 
-    passes it to the run_agent_stream pipeline, and yields the answer.
-    """
-    for output in run_agent_stream(message, user_profile=USER_STATE, pdf_path=uploaded_pdf):
-        yield output
 
-def generate_next_steps():
-    """
-    Generates an actionable summary based on the profile.
-    """
-    if not USER_STATE:
-        return "Please save your profile first!"
-        
-    return f"Based on your profile as a {USER_STATE.get('job_type', 'user')} earning from {USER_STATE.get('income_source', 'unknown sources')}, please ask your tax questions in the chat to get accurate calculations and advice."
+def next_steps():
+    if not PROFILE_STATE:
+        return "Save your profile first, then ask a tax question."
+    return (
+        f"Use the chat to ask about {PROFILE_STATE.get('job_type', 'your work')} "
+        f"and {PROFILE_STATE.get('income_source', 'your income source')}. "
+        "The app will show retrieved IRD sources and the full step trace."
+    )
 
-# ---------------------------------------------------------
-# GRADIO UI DEFINITION (The "Frontend")
-# ---------------------------------------------------------
+
+def respond(message, history, uploaded_pdf):
+    if not message.strip():
+        yield history, "Type a question to start.", ""
+        return
+
+    history = history + [{"role": "user", "content": message}, {"role": "assistant", "content": "Classifying..."}]
+    yield history, "Classifying...", ""
+
+    try:
+        category = step_1_classify(message)
+        history[-1]["content"] = f"Classified as {category}. Retrieving official IRD documents..."
+        yield history, "Retrieving...", ""
+
+        context, sources = step_2_retrieve(message)
+        if uploaded_pdf:
+            uploaded_text = extract_user_pdf(uploaded_pdf)
+            context = f"{context}\n\n[USER UPLOADED DOCUMENT]\n{uploaded_text[:3000]}"
+
+        history[-1]["content"] = f"Classified as {category}. Retrieved: {', '.join(sources) if sources else 'no indexed docs'}. Calculating..."
+        yield history, "Calculating...", "\n".join(sources) if sources else "No document retrieved"
+
+        tool_output = step_3_calculate(category, message)
+
+        history[-1]["content"] = "Calculating done. Generating cited answer..."
+        yield history, "Answering...", "\n".join(sources) if sources else "No document retrieved"
+
+        answer = step_4_generate(message, context, tool_output, PROFILE_STATE or None, sources=sources)
+        history[-1]["content"] = answer
+        trace = [
+            f"Step 1: {category}",
+            f"Step 2 sources: {', '.join(sources) if sources else 'none'}",
+            f"Step 3 tool output: {tool_output}",
+            "Step 4: answer generated",
+        ]
+        yield history, "Done.", "\n".join(trace)
+    except Exception as exc:
+        history[-1]["content"] = f"Sorry, I hit an error while answering that. {exc}"
+        yield history, "Error.", "The pipeline failed safely."
+
+
 custom_css = """
-.disclaimer { font-size: 0.85em; color: gray; text-align: center; margin-top: -10px; margin-bottom: 15px; }
+.disclaimer {
+    font-size: 0.86rem;
+    color: #666;
+    text-align: center;
+    margin: 0.75rem 0 1rem;
+    padding: 0.45rem 0.75rem;
+    line-height: 1.4;
+    border-radius: 0.5rem;
+    background: rgba(255, 255, 255, 0.7);
+}
+.hint { color: #444; font-size: 0.95rem; }
 """
 
-with gr.Blocks(theme=gr.themes.Soft(primary_hue="blue"), css=custom_css) as demo:
-    gr.Markdown("# 🇱🇰 TaxMate LK — Sri Lankan Tax Advisory Assistant")
-    gr.Markdown("<div class='disclaimer'>This is AI-generated guidance based on June 2026 IRD regulations. Consult a tax professional for official advice.</div>")
-    
+with gr.Blocks() as demo:
+    gr.Markdown("# TaxMate LK - Sri Lankan Tax Advisory Assistant")
+    gr.Markdown(
+        "<div class='disclaimer'>This is AI-generated guidance. Consult a tax professional for official advice.</div>"
+    )
+
     with gr.Row():
-        # Left Column: The Profile Form & Example Questions
+        example_buttons = []
         with gr.Column(scale=1):
-            gr.Markdown("### 👤 Step 1: Your Profile")
-            job_input = gr.Textbox(label="What is your profession?", placeholder="e.g. Photographer, Freelancer, Consultant")
-            income_input = gr.Dropdown(choices=["Local Income", "Foreign Income", "Both"], value="Local Income", label="Income Source")
-            notice_input = gr.Checkbox(label="Did you receive an IRD warning notice?")
-            
-            save_btn = gr.Button("Save Profile", variant="primary")
+            gr.Markdown("### Profile")
+            job_input = gr.Textbox(label="Profession", placeholder="Photographer, freelancer, designer...")
+            income_input = gr.Dropdown(
+                choices=["Local Income", "Foreign Income", "Both"],
+                value="Local Income",
+                label="Income source",
+            )
+            notice_input = gr.Checkbox(label="Received an IRD notice?")
+            save_btn = gr.Button("Save profile", variant="primary")
             profile_status = gr.Textbox(label="Status", interactive=False)
-            
-            save_btn.click(fn=save_profile, inputs=[job_input, income_input, notice_input], outputs=profile_status)
-            
-            gr.Markdown("### 📋 Next Steps")
-            summary_btn = gr.Button("Generate Actionable Summary")
-            summary_output = gr.Textbox(label="What you should do next:", interactive=False, lines=4)
-            summary_btn.click(fn=generate_next_steps, inputs=[], outputs=summary_output)
-            
-        # Right Column: The Chat Interface
+            next_btn = gr.Button("What should I do next?")
+            next_output = gr.Textbox(label="Next steps", interactive=False, lines=4)
+            save_btn.click(save_profile, [job_input, income_input, notice_input], profile_status)
+            next_btn.click(next_steps, outputs=next_output)
+
+            gr.Markdown("### Example questions")
+            for example in EXAMPLES:
+                example_buttons.append(gr.Button(example))
+            gr.Markdown("<div class='hint'>Click an example, paste it into chat, or type your own question.</div>")
+
         with gr.Column(scale=2):
-            gr.Markdown("### 💬 Step 2: Ask Tax Questions")
-            
+            gr.Markdown("### Chat")
             pdf_upload = gr.File(
-                label="Optional: Upload your IRD Notice or Tax Document",
+                label="Optional IRD notice or PDF",
                 file_types=[".pdf"],
-                type="filepath"
+                type="filepath",
+            )
+            chatbot = gr.Chatbot(label="Conversation", height=520)
+            step_status = gr.Textbox(label="Live step", interactive=False)
+            evidence = gr.Textbox(label="Retrieved sources and trace", interactive=False, lines=8)
+            with gr.Row(equal_height=True):
+                message = gr.Textbox(
+                    label="Ask a tax question",
+                    placeholder="Type here and press Enter",
+                    scale=5,
+                )
+                send = gr.Button("Send", variant="primary", scale=1)
+
+            message.submit(
+                respond,
+                inputs=[message, chatbot, pdf_upload],
+                outputs=[chatbot, step_status, evidence],
+            )
+            send.click(
+                respond,
+                inputs=[message, chatbot, pdf_upload],
+                outputs=[chatbot, step_status, evidence],
             )
 
-            gr.Markdown("**Tip:** Upload a text-based PDF for best results. Scanned images are not supported.")
-            
-            chat = gr.ChatInterface(
-                fn=chat_interface,
-                additional_inputs=[pdf_upload],
-                examples=[
-                    ["I am a photographer. Do I have to pay withholding tax from June 2026? If so, how much on a 150000 payment?", None],
-                    ["What is the exact deadline for the 2026 tax interest waiver?", None],
-                    ["I earn Rs. 4,000,000 annually. Calculate my total income tax.", None],
-                    ["When are the quarterly tax installments due?", None]
-                ],
-                title="",
-                description="The agent pipeline explicitly shows its steps: Classifying -> Retrieving -> Calculating -> Answering.",
-                fill_height=True
-            )
+    for button, example in zip(example_buttons, EXAMPLES):
+        button.click(lambda q=example: q, outputs=message)
+
+def launch():
+    return demo.queue().launch(
+        server_name="0.0.0.0",
+        server_port=int(os.environ.get("PORT", 7860)),
+        theme=gr.themes.Soft(primary_hue="blue"),
+        css=custom_css,
+    )
+
 
 if __name__ == "__main__":
     print("Launching TaxMate LK UI...")
-    demo.launch(server_name="0.0.0.0", server_port=7860)
+    launch()

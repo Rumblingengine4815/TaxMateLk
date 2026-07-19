@@ -2,7 +2,6 @@ import os
 
 import gradio as gr
 
-
 from src.agent import (
     extract_user_pdf,
     step_1_classify,
@@ -43,12 +42,12 @@ def respond(message, history, uploaded_pdf):
         yield history, "Type a question to start.", ""
         return
 
-    history = history + [{"role": "user", "content": message}, {"role": "assistant", "content": "Classifying..."}]
+    history = history + [(message, "Classifying...")]
     yield history, "Classifying...", ""
 
     try:
         category = step_1_classify(message)
-        history[-1]["content"] = f"Classified as {category}. Retrieving official IRD documents..."
+        history[-1] = (message, f"Classified as {category}. Retrieving official IRD documents...")
         yield history, "Retrieving...", ""
 
         context, sources = step_2_retrieve(message)
@@ -56,16 +55,19 @@ def respond(message, history, uploaded_pdf):
             uploaded_text = extract_user_pdf(uploaded_pdf)
             context = f"{context}\n\n[USER UPLOADED DOCUMENT]\n{uploaded_text[:3000]}"
 
-        history[-1]["content"] = f"Classified as {category}. Retrieved: {', '.join(sources) if sources else 'no indexed docs'}. Calculating..."
+        history[-1] = (
+            message,
+            f"Classified as {category}. Retrieved: {', '.join(sources) if sources else 'no indexed docs'}. Calculating..."
+        )
         yield history, "Calculating...", "\n".join(sources) if sources else "No document retrieved"
 
         tool_output = step_3_calculate(category, message)
 
-        history[-1]["content"] = "Calculating done. Generating cited answer..."
+        history[-1] = (message, "Calculating done. Generating cited answer...")
         yield history, "Answering...", "\n".join(sources) if sources else "No document retrieved"
 
         answer = step_4_generate(message, context, tool_output, PROFILE_STATE or None, sources=sources)
-        history[-1]["content"] = answer
+        history[-1] = (message, answer)
         trace = [
             f"Step 1: {category}",
             f"Step 2 sources: {', '.join(sources) if sources else 'none'}",
@@ -74,7 +76,7 @@ def respond(message, history, uploaded_pdf):
         ]
         yield history, "Done.", "\n".join(trace)
     except Exception as exc:
-        history[-1]["content"] = f"Sorry, I hit an error while answering that. {exc}"
+        history[-1] = (message, f"Sorry, I hit an error while answering that. {exc}")
         yield history, "Error.", "The pipeline failed safely."
 
 
@@ -92,7 +94,7 @@ custom_css = """
 .hint { color: #444; font-size: 0.95rem; }
 """
 
-with gr.Blocks() as demo:
+with gr.Blocks(theme=gr.themes.Soft(primary_hue="blue"), css=custom_css) as demo:
     gr.Markdown("# TaxMate LK - Sri Lankan Tax Advisory Assistant")
     gr.Markdown(
         "<div class='disclaimer'>This is AI-generated guidance. Consult a tax professional for official advice.</div>"
@@ -128,7 +130,7 @@ with gr.Blocks() as demo:
                 file_types=[".pdf"],
                 type="filepath",
             )
-            chatbot = gr.Chatbot(label="Conversation", height=520)
+            chatbot = gr.Chatbot(label="Conversation", height=520, type="tuples")
             step_status = gr.Textbox(label="Live step", interactive=False)
             evidence = gr.Textbox(label="Retrieved sources and trace", interactive=False, lines=8)
             with gr.Row(equal_height=True):
@@ -157,8 +159,6 @@ def launch():
     return demo.queue().launch(
         server_name="0.0.0.0",
         server_port=int(os.environ.get("PORT", 7860)),
-        theme=gr.themes.Soft(primary_hue="blue"),
-        css=custom_css,
     )
 
 

@@ -1,3 +1,13 @@
+---
+title: TaxMate LK
+emoji: 🇱🇰
+colorFrom: green
+colorTo: blue
+sdk: docker
+pinned: false
+license: mit
+---
+
 # TaxMate LK
 
 Sri Lankan tax advisory assistant for freelancers and remote workers.

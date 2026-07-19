@@ -3,7 +3,9 @@ title: TaxMate LK
 emoji: 🇱🇰
 colorFrom: green
 colorTo: blue
-sdk: docker
+sdk: gradio
+sdk_version: "5.35.0"
+app_file: app.py
 pinned: false
 license: mit
 ---

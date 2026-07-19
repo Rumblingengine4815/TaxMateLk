@@ -1,6 +1,6 @@
 ---
 title: TaxMate LK
-emoji: 🇱🇰
+emoji: 🧾
 colorFrom: green
 colorTo: blue
 sdk: gradio
